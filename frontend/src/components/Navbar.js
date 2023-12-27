@@ -71,8 +71,10 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
                 <div className="cart-item-count">
                     <a href="/cart">
                         <i className="fas fa-shopping-cart"></i> Sepetim
-                        {cartItemCount > 0 && <span className="cart-count">{cartItemCount}</span>}
                     </a>
+                    {cartItemCount > 0 && (
+                        <span className="cart-count">{cartItemCount}</span> // This span will display the cart count
+                    )}
                 </div>
 
 

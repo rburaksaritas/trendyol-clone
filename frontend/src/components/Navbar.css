@@ -68,20 +68,17 @@
   a:hover {
     color: var(--primary-orange);
   }
-
-   .cart-item-count {
+  
+  .cart-item-count {
     position: relative;
-    display: inline-block;
-  } 
+    display: flex;
+    align-items: center; /* Align the icon and text in the center */
+  }
   
   .cart-count {
-    position: absolute;
-    top: -3px; /* Adjust as needed */
-    right: -25px; /* Adjust as needed */
     background-color: var(--primary-orange);
     color: white;
     border-radius: 50%;
-    /* padding: 0.25rem 0.6rem; /* Adjust the padding to manage the size of the circle */
     font-size: 0.75rem;
     display: flex;
     justify-content: center;
@@ -89,12 +86,9 @@
     min-height: 20px; /* Ensures the circle size if the count is 1 digit */
     min-width: 20px; /* Ensures the circle size if the count is 1 digit */
     text-align: center;
+    margin-left: 5px;
   }
-  
-  
-  .cart-count::after {
-    content: attr(data-count);
-  }
+
   
   
   .user-info,
