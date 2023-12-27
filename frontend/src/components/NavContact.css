@@ -1,0 +1,19 @@
+.nav-contact{
+    display: flex;
+    flex-direction: row-reverse;
+    color: gray;
+    padding: 0px 100px;
+    padding-top: 20px;
+    gap: 2%;
+}
+
+.nav-contact a {
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+    font-size: smaller;
+  }
+  
+  .nav-contact :hover {
+    color: var(--primary-orange);
+  }

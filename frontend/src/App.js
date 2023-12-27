@@ -1,4 +1,5 @@
 import React from 'react';
+import NavContact from './components/NavContact';
 import Navbar from './components/Navbar';
 import Categories from './components/Categories';
 import Cards from './components/Cards'
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className='container'>
+          <NavContact></NavContact>
           <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} />
           <Categories></Categories>
           <Cards></Cards>
