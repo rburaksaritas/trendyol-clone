@@ -69,26 +69,33 @@
     color: var(--primary-orange);
   }
 
-  .cart-count {
+   .cart-item-count {
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+    display: inline-block;
+  } 
   
-  .cart-count::after {
-    content: attr(data-count);
+  .cart-count {
     position: absolute;
-    width: 20px;
-    height: 20px;
+    top: -3px; /* Adjust as needed */
+    right: -25px; /* Adjust as needed */
     background-color: var(--primary-orange);
     color: white;
     border-radius: 50%;
+    /* padding: 0.25rem 0.6rem; /* Adjust the padding to manage the size of the circle */
+    font-size: 0.75rem;
     display: flex;
-    align-items: center;
     justify-content: center;
-    font-size: 12px;
+    align-items: center;
+    min-height: 20px; /* Ensures the circle size if the count is 1 digit */
+    min-width: 20px; /* Ensures the circle size if the count is 1 digit */
+    text-align: center;
   }
+  
+  
+  .cart-count::after {
+    content: attr(data-count);
+  }
+  
   
   .user-info,
   .login-signup {

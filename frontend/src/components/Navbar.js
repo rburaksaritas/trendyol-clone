@@ -50,9 +50,9 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
                             {isLoggedIn ? (
                                 // Dropdown content for logged-in users
                                 <>
-                                    <a href="/profile">Profilim</a>
-                                    <a href="/orders">Siparişlerim</a>
-                                    <a href="/logout">Çıkış Yap</a>
+                                    <a href="/profile"><i className="fas fa-user"></i> Profilim</a>
+                                    <a href="/orders"><i className="fas fa-box"></i> Siparişlerim</a>
+                                    <a href="/logout"><i className="fas fa-right-from-bracket"></i> Çıkış Yap</a>
                                 </>
                             ) : (
                                 // Dropdown content for guests
@@ -74,6 +74,8 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
                         {cartItemCount > 0 && <span className="cart-count">{cartItemCount}</span>}
                     </a>
                 </div>
+
+
             </div>
         </nav>
     );
