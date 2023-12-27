@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.container {
+  max-width: 1200px; /* Adjust this to your preferred max-width */
+  margin: 0 auto; /* Centers the container */
+  padding: 0 20px; /* Equal padding on sides */
+  box-sizing: border-box; /* Includes padding in width calculation */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
