@@ -1,0 +1,75 @@
+:root {
+    --primary-orange: #f27a1a; /* Replace with the exact orange color code you want */
+    --primary-black: #333;
+  }
+
+  .categories-container {
+    display: flex;
+    justify-content: space-between; /* Center the items */
+    flex-wrap: wrap; /* Allow items to wrap if there isn't enough space */
+    align-items: center;
+    background-color: #fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    box-sizing: border-box; /* Includes padding in width calculation */
+    gap: 10px; /* Add some space between items */
+    padding: 20px 100px;
+  }
+  
+  .category-item {
+    font-size: small;
+    position: relative;
+    cursor: pointer;
+    font-weight: 500;
+    padding-bottom: 3px;
+    color: var(--primary-black);
+    flex: 0 0 auto; /* Prevents items from shrinking and ensures they keep their width */
+    border-bottom: 2px solid transparent; /* Add a transparent border by default */
+    transition: border-color 0.3s; /* Optional: smooth transition for the border */
+}
+
+.category-item.selected {
+    border-bottom-color: var(--primary-orange); /* Change only the border color */
+  } 
+
+.category-item.selected,
+.category-item:hover {
+    color: var(--primary-orange);
+}
+
+.category-item:hover .new-tag,
+.category-item.selected .new-tag {
+  background-color: var(--primary-orange);
+}
+
+/* When a category has a "new" tag and is selected */
+.category-item.selected.new-tag .new-label,
+.category-item.selected.new-tag:hover .new-label {
+  background-color: var(--primary-orange);
+  color: white;
+}
+
+
+.new-tag {
+    display: inline-block;
+    margin-left: 5px; /* Space between the category name and 'Yeni' tag */
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 6px;
+    white-space: nowrap; /* Keep the tag from wrapping */
+  }
+
+/* Tag for new items */
+/* .new-tag {
+    /* margin-right: 60px; 
+} */
+
+
+/* Add responsive touches for smaller screens */
+@media (max-width: 768px) {
+    .category-item {
+        /* margin-right: 15px; */
+        font-size: smaller;
+    }
+}
