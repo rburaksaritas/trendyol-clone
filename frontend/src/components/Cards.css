@@ -1,0 +1,44 @@
+:root {
+    --primary-orange: #f27a1a;
+    --primary-black: #333;
+  }
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+    padding: 20px 100px;
+  }
+  
+  .card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    max-width: 30%;
+  }
+  
+  .card:hover {
+    transform: scale(101%);
+  }
+
+  .card:hover .card-title{
+    background-color: var(--primary-orange);
+  }
+  
+  .card-image {
+    width: 100%;
+    display: block;
+  }
+  
+  .card-title {
+    font-size: small;
+    font-weight: 600;
+    background-color: var(--primary-black);
+    padding: 8px;
+    color: #f8f8f8;
+  }
+
+  

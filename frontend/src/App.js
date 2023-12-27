@@ -1,6 +1,8 @@
 import React from 'react';
+import NavContact from './components/NavContact';
 import Navbar from './components/Navbar';
 import Categories from './components/Categories';
+import Cards from './components/Cards'
 
 function App() {
   const isLoggedIn = false; // This would be determined by authentication logic
@@ -10,8 +12,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className='container'>
+          <NavContact></NavContact>
           <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} />
           <Categories></Categories>
+          <Cards></Cards>
           {/* The rest of your app's components go here */}
         </div>
       </header>
