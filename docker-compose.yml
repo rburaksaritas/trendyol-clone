@@ -6,6 +6,14 @@ services:
     ports:
       - "3000:3000"
 
+  backend:
+    build: ./backend
+    container_name: trendyol-clone-backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+
   database:
     build: ./database 
     container_name: trendyol-clone-database
@@ -14,11 +22,11 @@ services:
       - "11210:11210"
       - "18091:18091"
     environment:
-      - COUCHBASE_BUCKET=mybucket
-      - COUCHBASE_ADMIN_USER=admin
-      - COUCHBASE_ADMIN_PASSWORD=password
+      - COUCHBASE_BUCKET=trendyol-clone
+      - COUCHBASE_ADMIN_USER=tyadmin
+      - COUCHBASE_ADMIN_PASSWORD=typassword
     volumes:
-      - couchbase_data:/opt/couchbase/data
+      - couchbase_data:/opt/couchbase/var
 
 volumes:
   couchbase_data:
