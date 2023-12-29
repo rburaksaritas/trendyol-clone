@@ -22,7 +22,7 @@ services:
       - "11210:11210"
       - "18091:18091"
     environment:
-      - COUCHBASE_BUCKET=trendyol-clone
+      - COUCHBASE_BUCKET=database
       - COUCHBASE_ADMIN_USER=tyadmin
       - COUCHBASE_ADMIN_PASSWORD=typassword
     volumes:
