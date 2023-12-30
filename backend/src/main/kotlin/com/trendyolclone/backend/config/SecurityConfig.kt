@@ -22,7 +22,7 @@ class SecurityConfig {
     @Bean
     fun securityFilterChain(http: HttpSecurity): SecurityFilterChain {
         http
-            .csrf().disable()
+            cors().and().csrf().disable()
             .authorizeHttpRequests { auth ->
                 auth
                     .requestMatchers("/cards/**").permitAll()
