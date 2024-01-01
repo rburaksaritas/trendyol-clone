@@ -1,0 +1,89 @@
+:root {
+    --primary-orange: #f27a1a;
+    --primary-black: #333;
+}
+
+.product-card {
+    max-width: 250px;
+    /* Fixed width */
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin: 16px;
+    /* Space around the card */
+    transition: transform 0.3s ease;
+    position: relative;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--primary-black);
+
+}
+
+.product-card:hover {
+    transform: scale(101%);
+}
+
+.product-image img {
+    width: 100%;
+    display: block;
+    /* Remove extra space below the image */
+}
+
+.product-details {
+    padding: 12px;
+    text-align: left;
+}
+
+.product-title {
+    font-weight: normal;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.brand-name {
+    font-weight: bold;
+}
+
+.product-reviews {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin: 4px 0;
+    font-size: 0.8rem;
+}
+
+.product-reviews-count {
+    font-size: 0.8rem;
+    color: #888;
+}
+/* .stars {
+  } */
+
+.product-price {
+    font-weight: bold;
+    font-size: large;
+    color: var(--primary-orange);
+    margin-top: 0.5rem;
+}
+
+.favorite-button {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+
+}
+
+.favorite-button.is-favorite,
+.favorite-button:hover {
+    color: var(--primary-orange);
+    /* Or any color when favorited */
+}
+
+.favorite-button .fa-heart {
+    font-size: 1.5rem;
+}
