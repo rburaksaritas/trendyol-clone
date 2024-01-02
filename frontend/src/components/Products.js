@@ -6,7 +6,7 @@ import './Products.css';
 const Products = ({ products }) => {
   
   const { category } = useParams();
-  const search_term = category;
+  var search_term = category;
 
   return (
     <div className="products">
