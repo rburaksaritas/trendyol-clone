@@ -1,8 +1,13 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 import ProductCard from './ProductCard';
 import './Products.css';
 
-const Products = ({ search_term, products }) => {
+const Products = ({ products }) => {
+  
+  const { category } = useParams();
+  const search_term = category;
+
   return (
     <div className="products">
       <h3>"{search_term}" için sonuçlar</h3>
