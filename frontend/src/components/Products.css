@@ -1,0 +1,33 @@
+:root {
+    --primary-orange: #f27a1a;
+    --primary-black: #333;
+}
+
+.products {
+    margin: 20px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: var(--primary-black);
+}
+
+.products h3 {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.products-container .product-card {
+    flex: 1 1 300px; 
+    max-width: 25%;
+}
+
+.products-container .product-title {
+    font-size: medium;
+}
