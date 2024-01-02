@@ -1,0 +1,71 @@
+:root {
+    --primary-orange: #f27a1a;
+    --primary-black: #333;
+}
+
+.featured-products {
+    margin: 20px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.05);
+    background-color: #fffaf6;
+    border: 1px solid #f2e5da;
+    color: var(--primary-black);
+}
+
+.featured-products h3 {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.featured-products .product-card {
+    min-width: 175px;
+    margin: 5px;
+    overflow: hidden;
+}
+
+.featured-products .product-card img {
+    height: 200px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.featured-products .product-title {
+    white-space: normal; /* Allows text to wrap */
+    height: 2rem; /* Let the height adjust based on content */
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Limit to two lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.products-container {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    white-space: nowrap;
+    padding-bottom: 10px;
+}
+
+.products-container::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.products-container::-webkit-scrollbar-thumb {
+    background-color: var(--primary-orange);
+    border-radius: 10px;
+}
+
+.products-container::-webkit-scrollbar {
+    height: 6px;
+    /* You can set the width of the scrollbar */
+}
+
+.products-container {
+    scrollbar-color: var(--primary-orange) transparent; /* thumb and track color */
+    scrollbar-width: auto; /* 'auto', 'thin', or 'none' */
+  }
