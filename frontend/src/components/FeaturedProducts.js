@@ -6,7 +6,7 @@ const FeaturedProducts = ({ title, products }) => {
   return (
     <div className="featured-products">
       <h3>{title}</h3>
-      <div className="products-container">
+      <div className="featured-products-container">
         {products.map(product => (
           <ProductCard key={product.id} product={product} />
         ))}

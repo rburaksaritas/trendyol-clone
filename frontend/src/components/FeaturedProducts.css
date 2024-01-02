@@ -43,7 +43,7 @@
     overflow: hidden;
 }
 
-.products-container {
+.featured-products-container {
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -51,21 +51,21 @@
     padding-bottom: 10px;
 }
 
-.products-container::-webkit-scrollbar-track {
+.featured-products-container::-webkit-scrollbar-track {
     background-color: transparent;
 }
 
-.products-container::-webkit-scrollbar-thumb {
+.featured-products-container::-webkit-scrollbar-thumb {
     background-color: var(--primary-orange);
     border-radius: 10px;
 }
 
-.products-container::-webkit-scrollbar {
+.featured-products-container::-webkit-scrollbar {
     height: 6px;
     /* You can set the width of the scrollbar */
 }
 
-.products-container {
+.featured-products-container {
     scrollbar-color: var(--primary-orange) transparent; /* thumb and track color */
     scrollbar-width: auto; /* 'auto', 'thin', or 'none' */
   }
