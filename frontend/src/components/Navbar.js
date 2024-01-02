@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import './Navbar.css';
 import logo_main from '../assets/logo_main.svg';
 
@@ -19,7 +20,9 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
     return (
         <nav className="navbar">
             <div className="navbar-brand">
-                <img src={logo_main} alt="Logo" className="navbar-logo" />
+                <Link to="/">
+                    <img src={logo_main} alt="Logo" className="navbar-logo" />
+                </Link>
             </div>
 
             <form className="search-form" onSubmit={handleSearchSubmit}>

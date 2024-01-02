@@ -23,7 +23,7 @@
 }
 
 .featured-products .product-card {
-    min-width: 175px;
+    min-width: 200px;
     margin: 5px;
     overflow: hidden;
 }

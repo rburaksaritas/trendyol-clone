@@ -1,25 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './Cards.css';
 
-const Cards = () => {
-  const [cards, setCards] = useState([]);
-
-  useEffect(() => {
-    const fetchCards = async () => {
-      try {
-        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/cards`);
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const data = await response.json();
-        setCards(data);
-      } catch (error) {
-        console.error('Fetch error:', error);
-      }
-    };
-
-    fetchCards();
-  }, []);
+const Cards = ({cards}) => {
 
   return (
     <div className="cards-container">
