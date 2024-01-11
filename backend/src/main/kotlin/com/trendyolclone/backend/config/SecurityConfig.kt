@@ -25,7 +25,7 @@ class SecurityConfig {
             .cors().and().csrf().disable()
             .authorizeHttpRequests { auth ->
                 auth
-                    .requestMatchers("/cards/**").permitAll()
+                    .requestMatchers("/**").permitAll()
                     .anyRequest().authenticated()
             }
             .httpBasic()
