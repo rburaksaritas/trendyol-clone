@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
 import './Navbar.css';
 import logo_main from '../assets/logo_main.svg';
 
 const Navbar = ({ isLoggedIn, cartItemCount }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [isAccountDropdownVisible, setIsAccountDropdownVisible] = useState(false);
-
+    
+    const navigate = useNavigate();
     const handleSearchChange = (event) => {
         setSearchTerm(event.target.value);
     };
@@ -14,8 +15,11 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
     const handleSearchSubmit = (event) => {
         event.preventDefault();
         console.log('Searching for:', searchTerm);
+        navigate(`/search/${searchTerm.toLowerCase()}`);
+        setSearchTerm(""); 
         // Implement your search logic here
     };
+    
 
     return (
         <nav className="navbar">
