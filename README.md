@@ -1,5 +1,5 @@
 # trendyol-clone
-This is a clone project that replicates fundamental features of Trendyol.
+ A full-stack clone project that replicates fundamental features of Trendyol.
 
 ## Tech Stack
 **Backend**: Kotlin & Spring Boot 
