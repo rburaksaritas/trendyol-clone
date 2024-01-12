@@ -38,12 +38,11 @@ def send_post_requests_for_all_json_files(folder_path):
     # Iterate over all files in the given folder
     for file_name in os.listdir(folder_path):
         # Check if the file is a JSON file
-        if file_name.endswith('kadin_mapped_products.json'):
+        if file_name.endswith('mapped_products.json'):
             file_path = os.path.join(folder_path, file_name)
 
             send_post_requests(file_path)
 
-# Example usage with a folder path
-folder_path = './mapped'  # Replace with the actual folder path
+folder_path = './mapped'
 send_post_requests_for_all_json_files(folder_path)
 
