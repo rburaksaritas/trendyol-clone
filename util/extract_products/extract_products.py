@@ -52,7 +52,7 @@ def map_products_to_custom_format(products, event_key):
             "brand": product["brand"]["name"] if "brand" in product and "name" in product["brand"] else None,
             "name": product.get("name"),
             "category": product.get("categoryName"),
-            "eventKey": event_key,
+            "eventKey": event_key.lower(),
             "reviewsCount": reviews_count,
             "soldCount": reviews_count + random.randint(1, 1000),
             "rating": round(product["ratingScore"]["averageRating"], 1) if "ratingScore" in product and "averageRating" in product["ratingScore"] else None,
@@ -65,17 +65,41 @@ def map_products_to_custom_format(products, event_key):
 
 
 eventKeys = {
-    "Anne & Çocuk": "annecocuk",
-    "Kadın": "kadin",    
-    "Erkek": "erkek",
-    "Ev & Yaşam": "evyasam",
-    "Süpermarket": "supermarket",
-    "Kozmetik": "kozmetik",
-    "Ayakkabı & Çanta": "ayakkabicanta",
-    "Elektronik": "elektronik",
-    "İş Yerine Özel": "isyerineozel",
-    "Çok Satanlar": "coksatanlar",
-    "Flaş Ürünler": "flasurunler"
+    "anne & çocuk": "anne çocuk",
+    "kadın": "kadın",    
+    "erkek": "erkek",
+    "ev & yaşam": "ev yaşam",
+    "süpermarket": "süpermarket",
+    "kozmetik": "kozmetik",
+    "ayakkabı": "ayakkabı",
+    "çanta": "çanta",
+    "elektronik": "elektronik",
+    "iş yerine özel": "iş yerine özel",
+    "Çok Satanlar": "çok satanlar",
+    "flaş ürünler": "flaş ürünler", 
+    "bershka erkek": "bershka erkek",
+    "bershka kadın": "bershka kadın",
+    "zara erkek": "zara erkek",
+    "zara kadın": "zara kadın",
+    "manuka": "manuka",
+    "nike": "nike",
+    "adidas": "adidas",
+    "elbise": "elbise",
+    "iphone": "iphone",
+    "samsung": "samsung",
+    "spor giyim": "spor giyim",
+    "akıllı saat": "akilli saat",
+    "kitap": "kitap",
+    "oyun konsolu": "oyun konsolu",
+    "mutfak aletleri": "mutfak aletleri",
+    "güzellik & bakım": "guzellik bakim",
+    "saat & aksesuar": "saat aksesuar",
+    "oyuncak": "oyuncak",
+    "kulaklık": "kulaklık",
+    "parfüm": "parfüm",
+    "t-shirt tişört": "t-shirt tişört",
+    "pantolon": "pantolon",
+    "şort": "şort"
 }
 
 
@@ -94,4 +118,4 @@ def extract_from_manual_query(search_term, prefix):
         json.dump(mapped_products, outfile, ensure_ascii=False, indent=4)
 
 extract_from_keys(eventKeys)
-extract_from_manual_query("Bershka", "bershka")
+# extract_from_manual_query("çanta", "çanta")
