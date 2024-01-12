@@ -38,7 +38,7 @@ const Products = () => {
 
   return (
     <div className="products">
-      <h3>{category ? `"${category}" için ${products.length} sonuçlar` : ''}</h3>
+      <h3>{category ? `"${category}" için ${products.length} sonuç` : ''}</h3>
       <div className="products-container">
         {products.map(product => (
           <ProductCard key={product.id} product={product} />
