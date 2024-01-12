@@ -1,0 +1,2775 @@
+{
+    "isSuccess": true,
+    "statusCode": 200,
+    "error": null,
+    "result": {
+        "slpName": "",
+        "products": [
+            {
+                "id": 34967998,
+                "name": "Nielsen - Unisex Beyaz Ayakkabı",
+                "images": [
+                    "/ty121/product/media/images/20210530/22/93754801/62500068/1/1_org_zoom.jpg",
+                    "/ty122/product/media/images/20210530/22/93745677/62500068/1/1_org_zoom.jpg",
+                    "/ty121/product/media/images/20210530/22/93745677/62500068/3/3_org_zoom.jpg",
+                    "/ty121/product/media/images/20210530/22/93745677/62500068/4/4_org_zoom.jpg",
+                    "/ty122/product/media/images/20210530/22/93745677/62500068/2/2_org_zoom.jpg",
+                    "/ty121/product/media/images/20210530/22/93745677/62500068/5/5_org_zoom.jpg",
+                    "/ty119/product/media/images/20210524/20/91241986/62500068/1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "HUMMEL Nielsen - Unisex Beyaz Ayakkabı",
+                "brand": {
+                    "id": 136,
+                    "name": "HUMMEL"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.160765406056954,
+                    "totalCount": 13279
+                },
+                "showSexualContent": true,
+                "productGroupId": 23817948,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "44",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 750,
+                            "buyingPrice": 0,
+                            "originalPrice": 750,
+                            "sellingPrice": 750
+                        },
+                        "listingId": "f1ae8de1edbcb54023592a50987bc3f7",
+                        "campaignId": 61,
+                        "merchantId": 473291,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Sneaker/Ayakkabı/Spor Ayakkabı",
+                "categoryId": 975,
+                "categoryName": "Sneaker",
+                "url": "/hummel/nielsen-unisex-beyaz-ayakkabi-p-34967998?boutiqueId=61&merchantId=473291",
+                "merchantId": 473291,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 750,
+                    "originalPrice": 750,
+                    "discountedPrice": 750,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "f1ae8de1edbcb54023592a50987bc3f7",
+                "winnerVariant": "44",
+                "itemNumber": 62500075,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 20,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "20 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Krediye Uygun",
+                        "type": "CREDIT_SUITABLE"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 37206082,
+                "name": "Erkek Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Beyaz Kıvrılmaz Polo Yaka T-shirt",
+                "images": [
+                    "/ty977/product/media/images/20230802/18/399572940/66147236/1/1_org_zoom.jpg",
+                    "/ty975/product/media/images/20230802/18/399572940/66147236/2/2_org_zoom.jpg",
+                    "/ty977/product/media/images/20230802/18/399572940/66147236/3/3_org_zoom.jpg",
+                    "/ty975/product/media/images/20230802/18/399572940/66147236/4/4_org_zoom.jpg",
+                    "/ty975/product/media/images/20230802/18/399572940/66147236/5/5_org_zoom.jpg",
+                    "/ty976/product/media/images/20230802/18/399572940/66147236/6/6_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Beyaz Kıvrılmaz Polo Yaka T-shirt",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.745468075606489,
+                    "totalCount": 33712
+                },
+                "showSexualContent": true,
+                "productGroupId": 31199602,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 299.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 299.99,
+                            "sellingPrice": 299.99
+                        },
+                        "listingId": "a3a5226ff52b1e5b73aee8cc09a95b76",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Polo Yaka T-shirt/Üst Giyim",
+                "categoryId": 2949,
+                "categoryName": "Polo Yaka T-shirt",
+                "url": "/ac-co-altinyildiz-classics/erkek-cekmeyen-pamuklu-kumas-slim-fit-dar-kesim-beyaz-kivrilmaz-polo-yaka-t-shirt-p-37206082?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 299.99,
+                    "originalPrice": 299.99,
+                    "discountedPrice": 299.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10636235,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-12T07:00:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "a3a5226ff52b1e5b73aee8cc09a95b76",
+                "winnerVariant": "XS",
+                "itemNumber": 960914473,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 51325257,
+                "name": "Erkek Siyah Anti-pilling Tüylenme Yapmayan Standart Fit Dik Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "images": [
+                    "/ty686/product/media/images/20230113/1/257561881/90948690/1/1_org_zoom.jpg",
+                    "/ty685/product/media/images/20230113/1/257561881/90948690/2/2_org_zoom.jpg",
+                    "/ty685/product/media/images/20230113/1/257561881/90948690/3/3_org_zoom.jpg",
+                    "/ty686/product/media/images/20230113/1/257561881/90948690/4/4_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Siyah Anti-pilling Tüylenme Yapmayan Standart Fit Dik Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.711140301494964,
+                    "totalCount": 16805
+                },
+                "showSexualContent": true,
+                "productGroupId": 43315538,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 369.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 369.99,
+                            "sellingPrice": 369.99
+                        },
+                        "listingId": "45d47067d6b5c40e887c8a6a08293df5",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Softshell & Polar",
+                "categoryId": 1185,
+                "categoryName": "Softshell & Polar",
+                "url": "/ac-co-altinyildiz-classics/erkek-siyah-anti-pilling-tuylenme-yapmayan-standart-fit-dik-yaka-soguk-gecirmez-polar-sweatshirt-p-51325257?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 369.99,
+                    "originalPrice": 369.99,
+                    "discountedPrice": 369.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10636235,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-12T07:00:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "45d47067d6b5c40e887c8a6a08293df5",
+                "winnerVariant": "S",
+                "itemNumber": 90948692,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 50601461,
+                "name": "Travıs Erkek Yumuşacık Kumaşlı Regular Fit Yuvarlak Yakalı Sweatshirt",
+                "images": [
+                    "/ty1056/product/media/images/prod/SPM/PIM/20231120/18/73f3aefe-3bf3-36a3-bd71-ed9863b321fc/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231120/18/a561a617-516f-363e-8919-a1eb458ed91f/1_org_zoom.jpg",
+                    "/ty1057/product/media/images/prod/SPM/PIM/20231120/18/fb2cadae-bc84-35ad-9042-80621563d1a1/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231120/18/31ecd60b-1986-36d7-bc7a-dfa9c2826e00/1_org_zoom.jpg",
+                    "/ty1057/product/media/images/prod/SPM/PIM/20231120/18/0eb3fda3-241f-32b9-a53b-5a4ca7136a79/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231120/18/96c34065-ecf5-3206-a6bc-a555f1592388/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231120/18/0d5da08d-87e8-37b4-84b2-316e02e23bb1/1_org_zoom.jpg",
+                    "/ty1056/product/media/images/prod/SPM/PIM/20231120/18/936311d5-810d-361d-8ba1-e0ac079a693c/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE Travıs Erkek Yumuşacık Kumaşlı Regular Fit Yuvarlak Yakalı Sweatshirt",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.406228131560532,
+                    "totalCount": 11436
+                },
+                "showSexualContent": true,
+                "productGroupId": 35677804,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 305.56,
+                            "buyingPrice": 0,
+                            "originalPrice": 305.56,
+                            "sellingPrice": 305.56
+                        },
+                        "listingId": "8d72f1e32c97da8b0bd76af0d06e701a",
+                        "campaignId": 625467,
+                        "merchantId": 968,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/grimelange/travis-erkek-yumusacik-kumasli-regular-fit-yuvarlak-yakali-sweatshirt-p-50601461?boutiqueId=625467&merchantId=968",
+                "merchantId": 968,
+                "campaignId": 625467,
+                "price": {
+                    "sellingPrice": 305.56,
+                    "originalPrice": 305.56,
+                    "discountedPrice": 305.56,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "indirim festivali - Kadın Tekstil",
+                "listingId": "8d72f1e32c97da8b0bd76af0d06e701a",
+                "winnerVariant": "S",
+                "itemNumber": 89639848,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "5",
+                        "type": "MOST_RATED",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 39940309,
+                "name": "Porter - Beyaz Unisex Ayakkabı",
+                "images": [
+                    "/ty1016/product/media/images/prod/SPM/PIM/20231018/13/89f16951-80ab-3a95-83c6-c3af491e6b84/1_org_zoom.jpg",
+                    "/ty1014/product/media/images/prod/SPM/PIM/20231018/13/b03de3c5-dda2-3729-b4a9-39c7b6662965/1_org_zoom.jpg",
+                    "/ty1016/product/media/images/prod/SPM/PIM/20231018/13/686be151-e94c-3521-a13d-230e9fbc3c5b/1_org_zoom.jpg",
+                    "/ty1014/product/media/images/prod/SPM/PIM/20231018/13/6257c2be-5584-348c-ac2f-575540d5cc19/1_org_zoom.jpg",
+                    "/ty1016/product/media/images/prod/SPM/PIM/20231018/13/b3cd06d3-688d-300a-a53c-499e0cfebd90/1_org_zoom.jpg"
+                ],
+                "imageAlt": "HUMMEL Porter - Beyaz Unisex Ayakkabı",
+                "brand": {
+                    "id": 136,
+                    "name": "HUMMEL"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.413569468695435,
+                    "totalCount": 12094
+                },
+                "showSexualContent": true,
+                "productGroupId": 31297815,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "37",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 516.95,
+                            "buyingPrice": 0,
+                            "originalPrice": 516.95,
+                            "sellingPrice": 516.95
+                        },
+                        "listingId": "3c8f9f21da4d0603b1318939906db7d9",
+                        "campaignId": 622541,
+                        "merchantId": 968,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Ayakkabı/Spor Ayakkabı/Koşu & Antrenman Ayakkabısı",
+                "categoryId": 425,
+                "categoryName": "Koşu & Antrenman Ayakkabısı",
+                "url": "/hummel/porter-beyaz-unisex-ayakkabi-p-39940309?boutiqueId=622541&merchantId=968",
+                "merchantId": 968,
+                "campaignId": 622541,
+                "price": {
+                    "sellingPrice": 516.95,
+                    "originalPrice": 516.95,
+                    "discountedPrice": 516.95,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Dünya Markalarından Seçimler",
+                "listingId": "3c8f9f21da4d0603b1318939906db7d9",
+                "winnerVariant": "37",
+                "itemNumber": 71017324,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Krediye Uygun",
+                        "type": "CREDIT_SUITABLE"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 97452318,
+                "name": "Project Erkek Oversize Fit Kalın Dokulu Kumaşlı T-shirt",
+                "images": [
+                    "/ty1054/product/media/images/prod/SPM/PIM/20231120/19/778ead6f-c642-3afb-9ca1-da5a38bfe30c/1_org_zoom.jpg",
+                    "/ty1055/product/media/images/prod/SPM/PIM/20231120/19/447f5d36-dd55-3036-8e75-3f44ff006a41/1_org_zoom.jpg",
+                    "/ty1055/product/media/images/prod/SPM/PIM/20231120/19/c27d8e96-7e63-3de5-b096-5cad33032580/1_org_zoom.jpg",
+                    "/ty1054/product/media/images/prod/SPM/PIM/20231120/19/2928fe95-f1e0-3fd0-8626-729bb793bd99/1_org_zoom.jpg",
+                    "/ty1053/product/media/images/prod/SPM/PIM/20231120/19/3af6762b-51da-32f7-addb-f5b237903d35/1_org_zoom.jpg",
+                    "/ty1053/product/media/images/prod/SPM/PIM/20231120/19/f3f3e625-adbc-375e-b507-86d9e869d84d/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE Project Erkek Oversize Fit Kalın Dokulu Kumaşlı T-shirt",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.388911331044233,
+                    "totalCount": 9919
+                },
+                "showSexualContent": true,
+                "productGroupId": 84493050,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 299.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 299.99,
+                            "sellingPrice": 299.99
+                        },
+                        "listingId": "d7e1d2cb1ea5ace631171f837d9aa912",
+                        "campaignId": 61,
+                        "merchantId": 165724,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/T-Shirt/Üst Giyim",
+                "categoryId": 604,
+                "categoryName": "T-Shirt",
+                "url": "/grimelange/project-erkek-oversize-fit-kalin-dokulu-kumasli-t-shirt-p-97452318?boutiqueId=61&merchantId=165724",
+                "merchantId": 165724,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 299.99,
+                    "originalPrice": 299.99,
+                    "discountedPrice": 299.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "d7e1d2cb1ea5ace631171f837d9aa912",
+                "winnerVariant": "S",
+                "itemNumber": 162251549,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 15,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "15 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 51325256,
+                "name": "Erkek Haki Anti-pilling Tüylenme Yapmayan Standart Fit Dik Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "images": [
+                    "/ty377/product/media/images/20220329/23/78457066/90948681/1/1_org_zoom.jpg",
+                    "/ty375/product/media/images/20220329/23/78457066/90948681/2/2_org_zoom.jpg",
+                    "/ty376/product/media/images/20220329/23/78457066/90948681/3/3_org_zoom.jpg",
+                    "/ty377/product/media/images/20220329/23/78457066/90948681/4/4_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Haki Anti-pilling Tüylenme Yapmayan Standart Fit Dik Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.73646712615194,
+                    "totalCount": 13158
+                },
+                "showSexualContent": true,
+                "productGroupId": 43315538,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 369.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 369.99,
+                            "sellingPrice": 369.99
+                        },
+                        "listingId": "b6febb8738c6b3aab2b5e9e30c5e6021",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Softshell & Polar",
+                "categoryId": 1185,
+                "categoryName": "Softshell & Polar",
+                "url": "/ac-co-altinyildiz-classics/erkek-haki-anti-pilling-tuylenme-yapmayan-standart-fit-dik-yaka-soguk-gecirmez-polar-sweatshirt-p-51325256?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 369.99,
+                    "originalPrice": 369.99,
+                    "discountedPrice": 369.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10636235,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-12T07:00:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "b6febb8738c6b3aab2b5e9e30c5e6021",
+                "winnerVariant": "S",
+                "itemNumber": 90948683,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "2",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 32332095,
+                "name": "ERKEK PARFÜM 561 FRESH 50 ML EDP 8691841304531",
+                "images": [
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230924/16/7d288a13-0a97-3488-afda-18307ca35e91/1_org_zoom.jpg",
+                    "/ty1004/product/media/images/prod/SPM/PIM/20230924/16/4e47af48-f6ae-3bba-8c33-0d7308677ea8/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230924/16/1cc83108-5ccc-3563-a4cd-3f0937d73175/1_org_zoom.jpg",
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230924/16/cfb4ff94-5891-3466-b85f-0669bc8550b4/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230924/16/e4fd6953-31b7-313c-a447-ce24c61fe4af/1_org_zoom.jpg",
+                    "/ty1004/product/media/images/prod/SPM/PIM/20230924/16/1c364d38-c6cc-3cc4-b006-d2a78c8530f2/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230924/16/ea922f04-1c3a-3ba0-b069-8cedb4d65b42/1_org_zoom.jpg",
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230924/16/a871297e-afa0-317a-a0df-ccae455c6120/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Bargello ERKEK PARFÜM 561 FRESH 50 ML EDP 8691841304531",
+                "brand": {
+                    "id": 109919,
+                    "name": "Bargello"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.593024177566389,
+                    "totalCount": 25231
+                },
+                "showSexualContent": true,
+                "productGroupId": 27479949,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "101405"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 230,
+                            "buyingPrice": 0,
+                            "originalPrice": 230,
+                            "sellingPrice": 230
+                        },
+                        "listingId": "e7b13fa8c5da9eabce308fd5108e2d2f",
+                        "campaignId": 61,
+                        "merchantId": 117151,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Kozmetik & Kişisel Bakım/Parfüm/Parfüm ve Deodorant",
+                "categoryId": 661,
+                "categoryName": "Parfüm",
+                "url": "/bargello/erkek-parfum-561-fresh-50-ml-edp-8691841304531-p-32332095?boutiqueId=61&merchantId=117151",
+                "merchantId": 117151,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 230,
+                    "originalPrice": 230,
+                    "discountedPrice": 230,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10482392,
+                        "name": "2. Ürüne 100 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2027-07-18T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "e7b13fa8c5da9eabce308fd5108e2d2f",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 58100731,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 50852649,
+                "name": "Erkek Beyaz-lacivert-siyah-haki-gri Melanj Slim Fit Bisiklet Yaka %100 Pamuk 5'li Tişört Paketi",
+                "images": [
+                    "/ty564/product/media/images/20221016/9/194733080/382830772/1/1_org_zoom.jpg",
+                    "/ty564/product/media/images/20221016/9/194733080/382830772/2/2_org_zoom.jpg",
+                    "/ty566/product/media/images/20221016/9/194733080/382830772/3/3_org_zoom.jpg",
+                    "/ty564/product/media/images/20221016/9/194733080/382830772/4/4_org_zoom.jpg",
+                    "/ty564/product/media/images/20221016/9/194733080/382830772/5/5_org_zoom.jpg",
+                    "/ty564/product/media/images/20221016/9/194733080/382830772/6/6_org_zoom.jpg",
+                    "/ty565/product/media/images/20221016/9/194733080/382830772/7/7_org_zoom.jpg",
+                    "/ty566/product/media/images/20221016/9/194733080/382830772/8/8_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Beyaz-lacivert-siyah-haki-gri Melanj Slim Fit Bisiklet Yaka %100 Pamuk 5'li Tişört Paketi",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.685075973079859,
+                    "totalCount": 15092
+                },
+                "showSexualContent": true,
+                "productGroupId": 42896557,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 619.96,
+                            "buyingPrice": 0,
+                            "originalPrice": 619.96,
+                            "sellingPrice": 619.96
+                        },
+                        "listingId": "457caf9833576aa56772e461fdd5d3ac",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "unitInfo": {
+                            "price": 123.99,
+                            "name": "adet"
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/T-Shirt/Üst Giyim",
+                "categoryId": 604,
+                "categoryName": "T-Shirt",
+                "url": "/ac-co-altinyildiz-classics/erkek-beyaz-lacivert-siyah-haki-gri-melanj-slim-fit-bisiklet-yaka-100-pamuk-5-li-tisort-paketi-p-50852649?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 619.96,
+                    "originalPrice": 619.96,
+                    "discountedPrice": 619.96,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "457caf9833576aa56772e461fdd5d3ac",
+                "winnerVariant": "XS",
+                "itemNumber": 391830362,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "unitInfo": {
+                    "price": 123.99,
+                    "name": "adet"
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_RATED",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 37336440,
+                "name": "Porter Unisex Siyah Koşu Ayakkabısı",
+                "images": [
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240105/12/3d41c3b4-b418-3131-ac8f-a4d0bf537bf9/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240105/12/dafbf80e-12a6-314c-9232-9f0469aea6c4/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240105/12/22d14a39-f0e2-3ea0-abbb-b55200f46d4a/1_org_zoom.jpg"
+                ],
+                "imageAlt": "HUMMEL Porter Unisex Siyah Koşu Ayakkabısı",
+                "brand": {
+                    "id": 136,
+                    "name": "HUMMEL"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.557608962302723,
+                    "totalCount": 12230
+                },
+                "showSexualContent": true,
+                "productGroupId": 31297815,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 838.95,
+                            "buyingPrice": 0,
+                            "originalPrice": 838.95,
+                            "sellingPrice": 838.95
+                        },
+                        "listingId": "61be9d3c51ad46cded58e723db4c3398",
+                        "campaignId": 622541,
+                        "merchantId": 968,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Ayakkabı/Spor Ayakkabı/Koşu & Antrenman Ayakkabısı",
+                "categoryId": 425,
+                "categoryName": "Koşu & Antrenman Ayakkabısı",
+                "url": "/hummel/porter-unisex-siyah-kosu-ayakkabisi-p-37336440?boutiqueId=622541&merchantId=968",
+                "merchantId": 968,
+                "campaignId": 622541,
+                "price": {
+                    "sellingPrice": 838.95,
+                    "originalPrice": 838.95,
+                    "discountedPrice": 838.95,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Dünya Markalarından Seçimler",
+                "listingId": "61be9d3c51ad46cded58e723db4c3398",
+                "winnerVariant": "36",
+                "itemNumber": 66703133,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 75,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "75 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Krediye Uygun",
+                        "type": "CREDIT_SUITABLE"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_RATED",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 69856711,
+                "name": "MARSHALL Erkek Düz Gri Nakış Detaylı Basic Eşofman Takımı",
+                "images": [
+                    "/ty1117/product/media/images/prod/SPM/PIM/20240101/16/82e29010-a4a4-3054-a830-f3fd9fef05b3/1_org_zoom.jpg",
+                    "/ty1118/product/media/images/prod/SPM/PIM/20240101/16/16c9b8b4-a203-3232-9c5e-e51fc63fc37e/1_org_zoom.jpg",
+                    "/ty1118/product/media/images/prod/SPM/PIM/20240101/16/e1bea724-c821-3c2f-abda-995a8832dcd1/1_org_zoom.jpg",
+                    "/ty1118/product/media/images/prod/SPM/PIM/20240101/16/9450c003-9d45-3ed2-9f5b-d12ea8583333/1_org_zoom.jpg",
+                    "/ty1118/product/media/images/prod/SPM/PIM/20240101/16/e1611f76-2c42-3872-88ef-411eb2fd1e00/1_org_zoom.jpg",
+                    "/ty1116/product/media/images/prod/SPM/PIM/20240101/16/4a8affcd-894e-33b2-a721-9e53a25989e8/1_org_zoom.jpg",
+                    "/ty1116/product/media/images/prod/SPM/PIM/20240101/16/d411de03-cfc2-3294-a151-5be639fd1f86/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE MARSHALL Erkek Düz Gri Nakış Detaylı Basic Eşofman Takımı",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.235545722713864,
+                    "totalCount": 6780
+                },
+                "showSexualContent": true,
+                "productGroupId": 59869084,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 849.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 849.99,
+                            "sellingPrice": 849.99
+                        },
+                        "listingId": "8b79bfce872c2e75396483c38ede3364",
+                        "campaignId": 61,
+                        "merchantId": 165724,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Eşofman/Eşofman Takımı",
+                "categoryId": 586,
+                "categoryName": "Eşofman Takımı",
+                "url": "/grimelange/marshall-erkek-duz-gri-nakis-detayli-basic-esofman-takimi-p-69856711?boutiqueId=61&merchantId=165724",
+                "merchantId": 165724,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 849.99,
+                    "originalPrice": 849.99,
+                    "discountedPrice": 849.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "8b79bfce872c2e75396483c38ede3364",
+                "winnerVariant": "S",
+                "itemNumber": 121036830,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 25,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "25 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 142741069,
+                "name": "Epıc Erkek Yumusaçık Kumaşlı Kapüşonlu Kordonlu Regular Fit Nakışlı Sweatshirt",
+                "images": [
+                    "/ty1061/product/media/images/prod/SPM/PIM/20231122/19/23710573-ff77-33ad-862b-886a947f8713/1_org_zoom.jpg",
+                    "/ty1061/product/media/images/prod/SPM/PIM/20231122/19/5d28a88b-afbe-3eff-ace2-e00b2d0f7fa4/1_org_zoom.jpg",
+                    "/ty1060/product/media/images/prod/SPM/PIM/20231122/19/54333eae-d767-3e45-b49e-119c727ecc44/1_org_zoom.jpg",
+                    "/ty1059/product/media/images/prod/SPM/PIM/20231122/19/d6f55974-1c29-3d0c-8de1-6172e9842326/1_org_zoom.jpg",
+                    "/ty1059/product/media/images/prod/SPM/PIM/20231122/19/1dbbb429-5d64-3173-b9b8-121508b2ef1e/1_org_zoom.jpg",
+                    "/ty1059/product/media/images/prod/SPM/PIM/20231122/19/30d242bd-9317-34ce-bdef-23918b6dd2d4/1_org_zoom.jpg",
+                    "/ty1059/product/media/images/prod/SPM/PIM/20231122/19/7f385c02-fd9d-3aca-877f-709334bbe585/1_org_zoom.jpg",
+                    "/ty1061/product/media/images/prod/SPM/PIM/20231122/19/07265b0b-b54e-3af2-9603-86f1effbb787/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE Epıc Erkek Yumusaçık Kumaşlı Kapüşonlu Kordonlu Regular Fit Nakışlı Sweatshirt",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.631358619814791,
+                    "totalCount": 7883
+                },
+                "showSexualContent": true,
+                "productGroupId": 123234407,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 599.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 599.99,
+                            "sellingPrice": 599.99
+                        },
+                        "listingId": "d65cd1e229479b94df6702284dbf7b29",
+                        "campaignId": 61,
+                        "merchantId": 165724,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/grimelange/epic-erkek-yumusacik-kumasli-kapusonlu-kordonlu-regular-fit-nakisli-sweatshirt-p-142741069?boutiqueId=61&merchantId=165724",
+                "merchantId": 165724,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 599.99,
+                    "originalPrice": 599.99,
+                    "discountedPrice": 599.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "d65cd1e229479b94df6702284dbf7b29",
+                "winnerVariant": "S",
+                "itemNumber": 241546552,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 30,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "30 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    }
+                ]
+            },
+            {
+                "id": 99672353,
+                "name": "Erkek Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Simsiyah Kıvrılmaz Polo Yaka T-shirt",
+                "images": [
+                    "/ty973/product/media/images/20230728/9/397509808/165673109/1/1_org_zoom.jpg",
+                    "/ty974/product/media/images/20230728/9/397509808/165673109/2/2_org_zoom.jpg",
+                    "/ty973/product/media/images/20230728/9/397509808/165673109/3/3_org_zoom.jpg",
+                    "/ty972/product/media/images/20230728/9/397509808/165673109/4/4_org_zoom.jpg",
+                    "/ty973/product/media/images/20230728/9/397509808/165673109/5/5_org_zoom.jpg",
+                    "/ty972/product/media/images/20230728/9/397509808/165673109/6/6_org_zoom.jpg",
+                    "/ty973/product/media/images/20230728/9/397509808/165673109/7/7_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Simsiyah Kıvrılmaz Polo Yaka T-shirt",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.7499009639508785,
+                    "totalCount": 23115
+                },
+                "showSexualContent": true,
+                "productGroupId": 31199602,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 299.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 299.99,
+                            "sellingPrice": 299.99
+                        },
+                        "listingId": "30b5aeec64b378877ebb273ed3d3e720",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Polo Yaka T-shirt/Üst Giyim",
+                "categoryId": 2949,
+                "categoryName": "Polo Yaka T-shirt",
+                "url": "/ac-co-altinyildiz-classics/erkek-cekmeyen-pamuklu-kumas-slim-fit-dar-kesim-simsiyah-kivrilmaz-polo-yaka-t-shirt-p-99672353?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 299.99,
+                    "originalPrice": 299.99,
+                    "discountedPrice": 299.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10636235,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-12T07:00:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "30b5aeec64b378877ebb273ed3d3e720",
+                "winnerVariant": "XS",
+                "itemNumber": 964956638,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "2",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 50601416,
+                "name": "Travıs Erkek Yumuşacık Kumaşlı Regular Fit Yuvarlak Yakalı Sweatshirt",
+                "images": [
+                    "/ty1055/product/media/images/prod/SPM/PIM/20231120/20/1dae876f-d765-3f05-b836-917208213a60/1_org_zoom.jpg",
+                    "/ty1054/product/media/images/prod/SPM/PIM/20231120/20/eb0abe7f-dd4d-3ffd-a769-eefc623ae7bf/1_org_zoom.jpg",
+                    "/ty1054/product/media/images/prod/SPM/PIM/20231120/20/ca3e4c3b-deee-3727-aa27-f25be4d68aa1/1_org_zoom.jpg",
+                    "/ty1053/product/media/images/prod/SPM/PIM/20231120/20/1f6f26a4-daaa-3498-a059-8fe9e1f430ed/1_org_zoom.jpg",
+                    "/ty1054/product/media/images/prod/SPM/PIM/20231120/20/e8bfa7d9-1d6a-331b-8591-4717e6371a8f/1_org_zoom.jpg",
+                    "/ty1055/product/media/images/prod/SPM/PIM/20231120/20/30840dfa-a823-3c75-9a07-66fe1fbd7019/1_org_zoom.jpg",
+                    "/ty1055/product/media/images/prod/SPM/PIM/20231120/20/4572ea9e-3534-3255-bae0-cccca4b2851d/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE Travıs Erkek Yumuşacık Kumaşlı Regular Fit Yuvarlak Yakalı Sweatshirt",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.339300026716537,
+                    "totalCount": 7486
+                },
+                "showSexualContent": true,
+                "productGroupId": 35677804,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 305.56,
+                            "buyingPrice": 0,
+                            "originalPrice": 305.56,
+                            "sellingPrice": 305.56
+                        },
+                        "listingId": "550d49c8ac3915b8377f11a33f5230be",
+                        "campaignId": 625467,
+                        "merchantId": 968,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/grimelange/travis-erkek-yumusacik-kumasli-regular-fit-yuvarlak-yakali-sweatshirt-p-50601416?boutiqueId=625467&merchantId=968",
+                "merchantId": 968,
+                "campaignId": 625467,
+                "price": {
+                    "sellingPrice": 305.56,
+                    "originalPrice": 305.56,
+                    "discountedPrice": 305.56,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "indirim festivali - Kadın Tekstil",
+                "listingId": "550d49c8ac3915b8377f11a33f5230be",
+                "winnerVariant": "S",
+                "itemNumber": 89639780,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    }
+                ]
+            },
+            {
+                "id": 183257667,
+                "name": "Erkek Siyah Içi Polarlı Su Ve Rüzgar Geçirmez Kapüşonlu Kışlık Mont & Kaban & Parka",
+                "images": [
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230923/16/04d0a22e-d5f1-336f-9837-23e25e5bdb7a/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230923/16/03b2f9a0-1baf-3813-bae2-008aa8913c78/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230923/16/56d8c219-2786-3d8b-ac14-32a9a4cc806e/1_org_zoom.jpg",
+                    "/ty1004/product/media/images/prod/SPM/PIM/20230919/12/e24ac97c-181c-33cf-9175-ad59abd90833/1_org_zoom.jpg",
+                    "/ty1003/product/media/images/prod/SPM/PIM/20230919/12/ea35e143-3385-3f8a-bc27-2dea10bf4337/1_org_zoom.jpg"
+                ],
+                "imageAlt": "D1fference Erkek Siyah Içi Polarlı Su Ve Rüzgar Geçirmez Kapüşonlu Kışlık Mont & Kaban & Parka",
+                "brand": {
+                    "id": 1136876,
+                    "name": "D1fference"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.283252319929297,
+                    "totalCount": 11315
+                },
+                "showSexualContent": true,
+                "productGroupId": 157578388,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "M",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 589.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 589.99,
+                            "sellingPrice": 589.99
+                        },
+                        "listingId": "4ec8c5b49c64baf2b528133695ed6e98",
+                        "campaignId": 61,
+                        "merchantId": 353548,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "priceLabel": {
+                            "name": "299 TL'ye 10 TL İndirim",
+                            "type": 2
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Dış Giyim/Mont/Kaban & Mont",
+                "categoryId": 535,
+                "categoryName": "Mont",
+                "url": "/d1fference/erkek-siyah-ici-polarli-su-ve-ruzgar-gecirmez-kapusonlu-kislik-mont-kaban-parka-p-183257667?boutiqueId=61&merchantId=353548",
+                "merchantId": 353548,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 589.99,
+                    "originalPrice": 589.99,
+                    "discountedPrice": 589.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10645706,
+                        "name": "299 TL'ye 10 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2025-01-01T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "4ec8c5b49c64baf2b528133695ed6e98",
+                "winnerVariant": "M",
+                "itemNumber": 300009898,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "priceLabel": {
+                    "name": "299 TL'ye 10 TL İndirim",
+                    "type": 2
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 32800322,
+                "name": "Erkek Siyah %100 Pamuk Serin Tutan Standart Fit Normal Kesim Polo Yaka T-shirt E001004",
+                "images": [
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240102/15/02ab3ef5-84dc-3f3f-b647-52794562f698/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/SPM/PIM/20240102/15/7a596693-51b0-3cdf-b677-fe49bf9f5210/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240102/15/0769a2ed-e03b-341b-a218-fc794b9d6107/1_org_zoom.jpg",
+                    "/ty1120/product/media/images/prod/SPM/PIM/20240102/15/d95b70b6-e651-3627-ba54-c26a236c8ec1/1_org_zoom.jpg",
+                    "/ty1120/product/media/images/prod/SPM/PIM/20240102/15/036a19a3-7241-3833-b756-7694407e6d80/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Avva Erkek Siyah %100 Pamuk Serin Tutan Standart Fit Normal Kesim Polo Yaka T-shirt E001004",
+                "brand": {
+                    "id": 257,
+                    "name": "Avva"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.660087428798517,
+                    "totalCount": 30199
+                },
+                "showSexualContent": true,
+                "productGroupId": 83013870,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 269.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 269.99,
+                            "sellingPrice": 269.99
+                        },
+                        "listingId": "d1af42b0c0dd289593b65eb3df94bc4f",
+                        "campaignId": 61,
+                        "merchantId": 107671,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Polo Yaka T-shirt/Üst Giyim",
+                "categoryId": 2949,
+                "categoryName": "Polo Yaka T-shirt",
+                "url": "/avva/erkek-siyah-100-pamuk-serin-tutan-standart-fit-normal-kesim-polo-yaka-t-shirt-e001004-p-32800322?boutiqueId=61&merchantId=107671",
+                "merchantId": 107671,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 269.99,
+                    "originalPrice": 269.99,
+                    "discountedPrice": 269.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10390254,
+                        "name": "Trendyol Kart'a 1000TL'ye 100TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "d1af42b0c0dd289593b65eb3df94bc4f",
+                "winnerVariant": "XS",
+                "itemNumber": 59062707,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 93081721,
+                "name": "Siyah Sweat Brooklyn Baskılı Overisize",
+                "images": [
+                    "/ty224/product/media/images/20211103/13/164595115/155226132/1/1_org_zoom.jpg",
+                    "/ty222/product/media/images/20211103/13/164595115/155226132/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "westkombin Siyah Sweat Brooklyn Baskılı Overisize",
+                "brand": {
+                    "id": 160016,
+                    "name": "westkombin"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 3.90816752469737,
+                    "totalCount": 7189
+                },
+                "showSexualContent": true,
+                "productGroupId": 80067992,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 149.5,
+                            "buyingPrice": 0,
+                            "originalPrice": 149.5,
+                            "sellingPrice": 149.5
+                        },
+                        "listingId": "a746c3ac6f77280173ddd2886a0b91b7",
+                        "campaignId": 61,
+                        "merchantId": 187734,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/westkombin/siyah-sweat-brooklyn-baskili-overisize-p-93081721?boutiqueId=61&merchantId=187734",
+                "merchantId": 187734,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 149.5,
+                    "originalPrice": 149.5,
+                    "discountedPrice": 149.5,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10576415,
+                        "name": "2. Ürüne %25 İndirim",
+                        "shortName": "2. Ürün %25",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10065715,
+                        "name": "500 TL'ye 50 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "a746c3ac6f77280173ddd2886a0b91b7",
+                "winnerVariant": "S",
+                "itemNumber": 155225679,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "2. Ürün %25",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    }
+                ]
+            },
+            {
+                "id": 34721879,
+                "name": "371128-03 Anzarun Lite Erkek Spor Ayakkabı White-white",
+                "images": [
+                    "/ty1130/product/media/images/prod/SPM/PIM/20240109/11/69c7654f-cebc-3f2a-aabe-1467c16ce5f5/1_org_zoom.jpg",
+                    "/ty1130/product/media/images/prod/SPM/PIM/20240109/11/d93e157e-1abb-307b-995d-92815355e31a/1_org_zoom.jpg",
+                    "/ty1130/product/media/images/prod/SPM/PIM/20240109/11/8b0a8b27-0278-307c-b9bf-3ce727330452/1_org_zoom.jpg",
+                    "/ty1130/product/media/images/prod/SPM/PIM/20240109/11/1a236952-c63e-3e12-a176-6bed7a4d319d/1_org_zoom.jpg",
+                    "/ty1129/product/media/images/prod/SPM/PIM/20240109/11/f0316040-53af-3d57-a28d-df9656e3ac1d/1_org_zoom.jpg",
+                    "/ty1130/product/media/images/prod/SPM/PIM/20240109/11/eecb551d-49b8-3331-8871-aa7a091999e5/1_org_zoom.jpg",
+                    "/ty1128/product/media/images/prod/SPM/PIM/20240109/11/c8e63250-dea2-36f6-9c41-c0cefe692e06/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Puma 371128-03 Anzarun Lite Erkek Spor Ayakkabı White-white",
+                "brand": {
+                    "id": 160,
+                    "name": "Puma"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.542155425219941,
+                    "totalCount": 2788
+                },
+                "showSexualContent": true,
+                "productGroupId": 30132368,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "45",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 1300,
+                            "buyingPrice": 0,
+                            "originalPrice": 1300,
+                            "sellingPrice": 1300
+                        },
+                        "listingId": "471be27dae7a54fb0e0abdd41f3434f7",
+                        "campaignId": 61,
+                        "merchantId": 107712,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Ayakkabı/Spor Ayakkabı/Koşu & Antrenman Ayakkabısı",
+                "categoryId": 425,
+                "categoryName": "Koşu & Antrenman Ayakkabısı",
+                "url": "/puma/371128-03-anzarun-lite-erkek-spor-ayakkabi-white-white-p-34721879?boutiqueId=61&merchantId=107712",
+                "merchantId": 107712,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 1300,
+                    "originalPrice": 1300,
+                    "discountedPrice": 1300,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "471be27dae7a54fb0e0abdd41f3434f7",
+                "winnerVariant": "45",
+                "itemNumber": 62058570,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Krediye Uygun",
+                        "type": "CREDIT_SUITABLE"
+                    },
+                    {
+                        "title": "4",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 69859724,
+                "name": "Marshall Erkek 2 Li Set Yumuşacık Kumaşlı Nakışlı Eşofman Takımı",
+                "images": [
+                    "/ty1116/product/media/images/prod/SPM/PIM/20240101/16/0c8ce73f-cbfb-3b72-add6-efe03bf95ea1/1_org_zoom.jpg",
+                    "/ty1117/product/media/images/prod/SPM/PIM/20240101/16/c6628eb1-dc7e-39a0-a0a1-5c9beb0995fb/1_org_zoom.jpg",
+                    "/ty1116/product/media/images/prod/SPM/PIM/20240101/16/505bf746-8b48-3872-921a-81d18eebb5e1/1_org_zoom.jpg",
+                    "/ty1117/product/media/images/prod/SPM/PIM/20240101/16/031007ef-c36b-3563-9080-15275266a7f0/1_org_zoom.jpg",
+                    "/ty1117/product/media/images/prod/SPM/PIM/20240101/16/8187d12f-103f-3123-a35e-9ea80c06c693/1_org_zoom.jpg",
+                    "/ty1117/product/media/images/prod/SPM/PIM/20240101/16/bf208f8c-e702-31ce-8681-1f0ed8bff100/1_org_zoom.jpg"
+                ],
+                "imageAlt": "GRIMELANGE Marshall Erkek 2 Li Set Yumuşacık Kumaşlı Nakışlı Eşofman Takımı",
+                "brand": {
+                    "id": 110329,
+                    "name": "GRIMELANGE"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.426161103047895,
+                    "totalCount": 5514
+                },
+                "showSexualContent": true,
+                "productGroupId": 59869084,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 849.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 849.99,
+                            "sellingPrice": 849.99
+                        },
+                        "listingId": "ce3badf75d765a9bc699d775d72e7bed",
+                        "campaignId": 61,
+                        "merchantId": 165724,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Eşofman/Eşofman Takımı",
+                "categoryId": 586,
+                "categoryName": "Eşofman Takımı",
+                "url": "/grimelange/marshall-erkek-2-li-set-yumusacik-kumasli-nakisli-esofman-takimi-p-69859724?boutiqueId=61&merchantId=165724",
+                "merchantId": 165724,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 849.99,
+                    "originalPrice": 849.99,
+                    "discountedPrice": 849.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "ce3badf75d765a9bc699d775d72e7bed",
+                "winnerVariant": "S",
+                "itemNumber": 121036995,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 25,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "25 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 1206454,
+                "name": "Perceive Erkek Parfüm Edt 100 Ml.",
+                "images": [
+                    "/ty464/product/media/images/20220628/21/131454838/508625641/1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "AVON Perceive Erkek Parfüm Edt 100 Ml.",
+                "brand": {
+                    "id": 39,
+                    "name": "Avon"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.426303854875283,
+                    "totalCount": 16922
+                },
+                "showSexualContent": true,
+                "productGroupId": 901117,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "101405"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 299,
+                            "buyingPrice": 0,
+                            "originalPrice": 299,
+                            "sellingPrice": 299
+                        },
+                        "listingId": "ed722200dbe30093618d4c4c1812c89e",
+                        "campaignId": 61,
+                        "merchantId": 390335,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Kozmetik & Kişisel Bakım/Parfüm/Parfüm ve Deodorant",
+                "categoryId": 661,
+                "categoryName": "Parfüm",
+                "url": "/avon/perceive-erkek-parfum-edt-100-ml-p-1206454?boutiqueId=61&merchantId=390335",
+                "merchantId": 390335,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 299,
+                    "originalPrice": 299,
+                    "discountedPrice": 299,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "ed722200dbe30093618d4c4c1812c89e",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 10694404,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 10,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "10 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 90315375,
+                "name": "Logo Baskılı Siyah Tişört Slim Fit / Dar Kesim 065781-900",
+                "images": [
+                    "/ty1122/product/media/images/prod/SPM/PIM/20240108/01/17e04b70-319e-32d5-9488-423aaa58de06/1_org_zoom.jpg",
+                    "/ty1122/product/media/images/prod/SPM/PIM/20240108/01/73c11d3f-ea8a-3dc7-a74c-65db298b315f/1_org_zoom.jpg",
+                    "/ty1124/product/media/images/prod/SPM/PIM/20240108/01/fa9c38e4-48ba-32b2-9c4e-eb793950bd53/1_org_zoom.jpg",
+                    "/ty1122/product/media/images/prod/SPM/PIM/20240108/01/cd90118c-ca7e-3fdd-b33b-31dd59f6dc53/1_org_zoom.jpg",
+                    "/ty1124/product/media/images/prod/SPM/PIM/20240108/01/f83c0bf7-c39b-302b-a8eb-2640ddf0fcd8/1_org_zoom.jpg",
+                    "/ty1124/product/media/images/prod/SPM/PIM/20240108/01/06ff20d4-730d-309d-af54-a80d61768cd1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Mavi Logo Baskılı Siyah Tişört Slim Fit / Dar Kesim 065781-900",
+                "brand": {
+                    "id": 43,
+                    "name": "Mavi"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.660720113129555,
+                    "totalCount": 9566
+                },
+                "showSexualContent": true,
+                "productGroupId": 77977086,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 229.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 229.99,
+                            "sellingPrice": 229.99
+                        },
+                        "listingId": "adccc1364e141245aa7565b4ec9e9697",
+                        "campaignId": 61,
+                        "merchantId": 63,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/T-Shirt/Üst Giyim",
+                "categoryId": 604,
+                "categoryName": "T-Shirt",
+                "url": "/mavi/logo-baskili-siyah-tisort-slim-fit-dar-kesim-065781-900-p-90315375?boutiqueId=61&merchantId=63",
+                "merchantId": 63,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 229.99,
+                    "originalPrice": 229.99,
+                    "discountedPrice": 229.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "adccc1364e141245aa7565b4ec9e9697",
+                "winnerVariant": "S",
+                "itemNumber": 150969429,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 55822553,
+                "name": "Erkek Siyah Içi Polarlı Çıkarılabilir Kapüşonlu Su Ve Rüzgar Geçirmez Kışlık Mont & Kaban & Parka",
+                "images": [
+                    "/ty1095/product/media/images/prod/SPM/PIM/20231218/17/93d50325-17f3-3699-aad5-aed946301866/1_org_zoom.jpg",
+                    "/ty1095/product/media/images/prod/SPM/PIM/20231218/17/d0bfaceb-effa-3f99-bc83-df70545f2e7f/1_org_zoom.jpg",
+                    "/ty1096/product/media/images/prod/SPM/PIM/20231218/17/459739a9-5a52-3d71-8b35-47621470566f/1_org_zoom.jpg",
+                    "/ty1097/product/media/images/prod/SPM/PIM/20231218/17/c505a024-421f-3279-8005-0c007e753f08/1_org_zoom.jpg",
+                    "/ty1097/product/media/images/prod/SPM/PIM/20231218/17/baafed13-1dd0-35b6-8c0d-8d8be9a726c1/1_org_zoom.jpg",
+                    "/ty1097/product/media/images/prod/SPM/PIM/20231218/17/d827f7ee-df38-325a-aff1-86630f80b92e/1_org_zoom.jpg",
+                    "/ty1095/product/media/images/prod/SPM/PIM/20231218/17/806f6d36-33e7-3974-b5f8-bbcd1fc244ab/1_org_zoom.jpg"
+                ],
+                "imageAlt": "River Club Erkek Siyah Içi Polarlı Çıkarılabilir Kapüşonlu Su Ve Rüzgar Geçirmez Kışlık Mont & Kaban & Parka",
+                "brand": {
+                    "id": 148041,
+                    "name": "River Club"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.313070818984878,
+                    "totalCount": 13358
+                },
+                "showSexualContent": true,
+                "productGroupId": 47224362,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "M",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 789.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 789.9,
+                            "sellingPrice": 789.9
+                        },
+                        "listingId": "75d510ba137c2f785f3d968e3c6dbe51",
+                        "campaignId": 61,
+                        "merchantId": 217681,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "priceLabel": {
+                            "name": "299 TL'ye 10 TL İndirim",
+                            "type": 2
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Dış Giyim/Mont/Kaban & Mont",
+                "categoryId": 535,
+                "categoryName": "Mont",
+                "url": "/river-club/erkek-siyah-ici-polarli-cikarilabilir-kapusonlu-su-ve-ruzgar-gecirmez-kislik-mont-kaban-parka-p-55822553?boutiqueId=61&merchantId=217681",
+                "merchantId": 217681,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 789.9,
+                    "originalPrice": 789.9,
+                    "discountedPrice": 789.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10645704,
+                        "name": "299 TL'ye 10 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2025-01-01T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "75d510ba137c2f785f3d968e3c6dbe51",
+                "winnerVariant": "M",
+                "itemNumber": 99194522,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 50,
+                "sameDayShipping": false,
+                "priceLabel": {
+                    "name": "299 TL'ye 10 TL İndirim",
+                    "type": 2
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "50 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "2",
+                        "type": "MOST_RATED",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 51325251,
+                "name": "Erkek Gri Anti-pilling Tüylenme Yapmayan Standart Fit Dik Bato Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "images": [
+                    "/ty1007/product/media/images/prod/SPM/PIM/20230928/09/1fb4b040-8259-3c69-8f65-dfce3614b9a6/1_org_zoom.jpg",
+                    "/ty1006/product/media/images/prod/SPM/PIM/20230928/09/5544a277-4610-36d9-ab56-2a5db98ddc0a/1_org_zoom.jpg",
+                    "/ty1007/product/media/images/prod/SPM/PIM/20230928/09/008908a2-091b-358f-8638-202f633d284a/1_org_zoom.jpg",
+                    "/ty1006/product/media/images/prod/SPM/PIM/20230928/09/aaf9de43-5d0a-3794-9701-60daa86fd3b1/1_org_zoom.jpg",
+                    "/ty1006/product/media/images/prod/SPM/PIM/20230928/09/01128000-2880-3cef-b20d-6d09217bc8a3/1_org_zoom.jpg",
+                    "/ty1007/product/media/images/prod/SPM/PIM/20230928/09/0711d75c-e50e-389c-9d12-f8e8fed550c7/1_org_zoom.jpg",
+                    "/ty1006/product/media/images/prod/SPM/PIM/20230928/09/8be39759-4e1a-3fb9-926f-683aa058a826/1_org_zoom.jpg"
+                ],
+                "imageAlt": "AC&Co / Altınyıldız Classics Erkek Gri Anti-pilling Tüylenme Yapmayan Standart Fit Dik Bato Yaka Soğuk Geçirmez Polar Sweatshirt",
+                "brand": {
+                    "id": 163650,
+                    "name": "AC&Co / Altınyıldız Classics"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.6789540941708445,
+                    "totalCount": 10365
+                },
+                "showSexualContent": true,
+                "productGroupId": 43315538,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 369.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 369.99,
+                            "sellingPrice": 369.99
+                        },
+                        "listingId": "5d83561c9e16e101d48669e94b5845e2",
+                        "campaignId": 61,
+                        "merchantId": 347,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Softshell & Polar",
+                "categoryId": 1185,
+                "categoryName": "Softshell & Polar",
+                "url": "/ac-co-altinyildiz-classics/erkek-gri-anti-pilling-tuylenme-yapmayan-standart-fit-dik-bato-yaka-soguk-gecirmez-polar-sweatshirt-p-51325251?boutiqueId=61&merchantId=347",
+                "merchantId": 347,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 369.99,
+                    "originalPrice": 369.99,
+                    "discountedPrice": 369.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10636235,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-12T07:00:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10390292,
+                        "name": "Trendyol Kart'a 1250TL'ye 125TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "5d83561c9e16e101d48669e94b5845e2",
+                "winnerVariant": "S",
+                "itemNumber": 889893146,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "3",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 64607954,
+                "name": "Erkek Beyaz Düğmeli Yaka Kolay Ütülenebilir Oxford Pamuklu Standart Fit Normal Kesim Gömlek E002000",
+                "images": [
+                    "/ty1121/product/media/images/prod/SPM/PIM/20240102/15/4a06f1a9-afd2-355c-a867-cdd89f25e499/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/SPM/PIM/20240102/15/753a3498-a490-3fef-81f9-483892549464/1_org_zoom.jpg",
+                    "/ty1120/product/media/images/prod/SPM/PIM/20240102/15/1738be51-4d4c-3b07-a14d-798666e02b80/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240102/15/2b6302c6-1731-368a-b4c7-cb1abd61c8a5/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240102/15/415de67d-ceaf-3a94-8ee3-1ab61724c500/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/SPM/PIM/20240102/15/af435b7a-4f2a-3518-b698-01ab3b370a0d/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/SPM/PIM/20240102/15/472114de-1446-3c0e-9a3e-629fbf4558ca/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/SPM/PIM/20240102/15/fdfc2924-cbf1-3c96-9644-25c2721d9e89/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Avva Erkek Beyaz Düğmeli Yaka Kolay Ütülenebilir Oxford Pamuklu Standart Fit Normal Kesim Gömlek E002000",
+                "brand": {
+                    "id": 257,
+                    "name": "Avva"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.631060828680576,
+                    "totalCount": 13612
+                },
+                "showSexualContent": true,
+                "productGroupId": 48608942,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 329.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 329.99,
+                            "sellingPrice": 329.99
+                        },
+                        "listingId": "fe7ab0dfdbd6023b51b01651b2f77d19",
+                        "campaignId": 61,
+                        "merchantId": 107671,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 14,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "14",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Gömlek/Üst Giyim",
+                "categoryId": 597,
+                "categoryName": "Gömlek",
+                "url": "/avva/erkek-beyaz-dugmeli-yaka-kolay-utulenebilir-oxford-pamuklu-standart-fit-normal-kesim-gomlek-e002000-p-64607954?boutiqueId=61&merchantId=107671",
+                "merchantId": 107671,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 329.99,
+                    "originalPrice": 329.99,
+                    "discountedPrice": 329.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10390254,
+                        "name": "Trendyol Kart'a 1000TL'ye 100TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "fe7ab0dfdbd6023b51b01651b2f77d19",
+                "winnerVariant": "XS",
+                "itemNumber": 112337048,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 16,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 14,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "14",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "16 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            }
+        ],
+        "totalCount": 7866,
+        "roughTotalCount": "7866",
+        "searchStrategy": "DEFAULT",
+        "title": "En Çok Satan Erkek Ürünleri",
+        "uxLayout": "Fashion",
+        "queryTerm": "",
+        "pageIndex": 1,
+        "widgets": [
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "erkek_0_C",
+                "displayOrder": 1,
+                "widgetOrder": 1,
+                "title": "Sponsorlu",
+                "eventKey": "erkek"
+            }
+        ]
+    },
+    "headers": {
+        "tysidecarcachable": "ttl=90"
+    }
+}

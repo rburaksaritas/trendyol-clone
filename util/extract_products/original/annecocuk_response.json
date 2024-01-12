@@ -1,0 +1,2830 @@
+{
+    "isSuccess": true,
+    "statusCode": 200,
+    "error": null,
+    "result": {
+        "slpName": "",
+        "products": [
+            {
+                "id": 749526377,
+                "name": "5 Çift Dinazor Desenli Çocuk Çorabı",
+                "images": [
+                    "/ty978/product/media/images/20230805/17/400575772/986864543/1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "BGK 5 Çift Dinazor Desenli Çocuk Çorabı",
+                "brand": {
+                    "id": 145330,
+                    "name": "BGK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.204065976217875,
+                    "totalCount": 2607
+                },
+                "showSexualContent": true,
+                "productGroupId": 570115297,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [],
+                "variants": [
+                    {
+                        "attributeValue": "27-30",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 71.91,
+                            "buyingPrice": 0,
+                            "originalPrice": 71.91,
+                            "sellingPrice": 71.91
+                        },
+                        "listingId": "e0ee41e337136e704f630299050222ac",
+                        "campaignId": 619275,
+                        "merchantId": 203783,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/bgk/5-cift-dinazor-desenli-cocuk-corabi-p-749526377?boutiqueId=619275&merchantId=203783",
+                "merchantId": 203783,
+                "campaignId": 619275,
+                "price": {
+                    "sellingPrice": 71.91,
+                    "originalPrice": 71.91,
+                    "discountedPrice": 71.91,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10641189,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2024-01-16T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Deprem Yardımlaşma QC Açılan Ürünler ",
+                "listingId": "e0ee41e337136e704f630299050222ac",
+                "winnerVariant": "27-30",
+                "itemNumber": 986864541,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 114296689,
+                "name": "5li Bebek Atlet Body Ribana Beyaz",
+                "images": [
+                    "/ty1009/product/media/images/prod/SPM/PIM/20231001/02/5d7765a5-c8f9-3a1d-a9d5-56f28bed2bc7/1_org_zoom.jpg",
+                    "/ty1010/product/media/images/prod/SPM/PIM/20231001/02/feca39ef-4fec-371a-ad4d-b59f66384070/1_org_zoom.jpg",
+                    "/ty1008/product/media/images/prod/SPM/PIM/20231001/02/aeea5f17-70e4-32d2-b353-c9b12a5b53fa/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Rany Baby Kids 5li Bebek Atlet Body Ribana Beyaz",
+                "brand": {
+                    "id": 1130805,
+                    "name": "Rany Baby Kids"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 3.791700680272109,
+                    "totalCount": 8535
+                },
+                "showSexualContent": true,
+                "productGroupId": 100030115,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "0-3 AY",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 149.95,
+                            "buyingPrice": 0,
+                            "originalPrice": 149.95,
+                            "sellingPrice": 149.95
+                        },
+                        "listingId": "e8dadd859d8a500442f36bf97686d5d2",
+                        "campaignId": 61,
+                        "merchantId": 546255,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "unitInfo": {
+                            "price": 29.99,
+                            "name": "adet"
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Bebek Body & Zıbın/Bebek Giyim",
+                "categoryId": 936,
+                "categoryName": "Bebek Body & Zıbın",
+                "url": "/rany-baby-kids/5li-bebek-atlet-body-ribana-beyaz-p-114296689?boutiqueId=61&merchantId=546255",
+                "merchantId": 546255,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 149.95,
+                    "originalPrice": 149.95,
+                    "discountedPrice": 149.95,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "e8dadd859d8a500442f36bf97686d5d2",
+                "winnerVariant": "0-3 AY",
+                "itemNumber": 185312937,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "unitInfo": {
+                    "price": 29.99,
+                    "name": "adet"
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 177677405,
+                "name": "Erkek Çocuk Desen Kırmızı Renk Alt Üst 2'li Kapüşonlu Eşofman Takımı",
+                "images": [
+                    "/ty1016/product/media/images/prod/SPM/PIM/20231014/00/479dfe6c-ec46-36c6-bcc3-510a6f3afcda/1_org_zoom.jpg",
+                    "/ty1015/product/media/images/prod/SPM/PIM/20231014/00/1757cf81-84ee-35a4-a803-69f525e8a14a/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Örümcek Adam Erkek Çocuk Desen Kırmızı Renk Alt Üst 2'li Kapüşonlu Eşofman Takımı",
+                "brand": {
+                    "id": 36899,
+                    "name": "Örümcek Adam"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 3.828978622327791,
+                    "totalCount": 4214
+                },
+                "showSexualContent": true,
+                "productGroupId": 152217753,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "4-5 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 184.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 184.9,
+                            "sellingPrice": 184.9
+                        },
+                        "listingId": "5bb934abf77af70f98f179363cf8d444",
+                        "campaignId": 61,
+                        "merchantId": 211533,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Takımlar/Alt-Üst Takım",
+                "categoryId": 2160,
+                "categoryName": "Alt-Üst Takım",
+                "url": "/orumcek-adam/erkek-cocuk-desen-kirmizi-renk-alt-ust-2-li-kapusonlu-esofman-takimi-p-177677405?boutiqueId=61&merchantId=211533",
+                "merchantId": 211533,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 184.9,
+                    "originalPrice": 184.9,
+                    "discountedPrice": 184.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "5bb934abf77af70f98f179363cf8d444",
+                "winnerVariant": "4-5 Yaş",
+                "itemNumber": 289633144,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 73309008,
+                "name": "Erkek Çocuk Termal Alt- Üst Set Takım Siyah",
+                "images": [
+                    "/ty46/product/media/images/20210104/18/45956755/126246463/1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Tutku Erkek Çocuk Termal Alt- Üst Set Takım Siyah",
+                "brand": {
+                    "id": 105350,
+                    "name": "Tutku"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.7280163599182,
+                    "totalCount": 4468
+                },
+                "showSexualContent": true,
+                "productGroupId": 62880495,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "8-10 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 240,
+                            "buyingPrice": 0,
+                            "originalPrice": 240,
+                            "sellingPrice": 240
+                        },
+                        "listingId": "0ebd2d294bb72ec90bac6ac69b4619af",
+                        "campaignId": 61,
+                        "merchantId": 198634,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Termal Giyim & İçlik/Giyim/İç Giyim",
+                "categoryId": 1041,
+                "categoryName": "Termal Giyim & İçlik",
+                "url": "/tutku/erkek-cocuk-termal-alt-ust-set-takim-siyah-p-73309008?boutiqueId=61&merchantId=198634",
+                "merchantId": 198634,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 240,
+                    "originalPrice": 240,
+                    "discountedPrice": 240,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10473323,
+                        "name": "3. Ürüne %10 İndirim",
+                        "shortName": "3. Ürün %10",
+                        "promotionEndDate": "2024-11-30T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "0ebd2d294bb72ec90bac6ac69b4619af",
+                "winnerVariant": "8-10 Yaş",
+                "itemNumber": 126373564,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 96,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "96 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "3. Ürün %10",
+                        "type": "TAKE_MORE_PAY_LESS",
+                        "priority": true
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    }
+                ]
+            },
+            {
+                "id": 412331987,
+                "name": "Içi Havlu Çocuk Tayt Siyah",
+                "images": [
+                    "/ty650/product/media/images/20221217/19/240407071/630370102/1/1_org_zoom.jpg",
+                    "/ty650/product/media/images/20221217/19/240407071/630370102/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "Katia&Bony Içi Havlu Çocuk Tayt Siyah",
+                "brand": {
+                    "id": 109030,
+                    "name": "Katia & Bony"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.6483648364836485,
+                    "totalCount": 3689
+                },
+                "showSexualContent": true,
+                "productGroupId": 297730299,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "2-4 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 139.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 139.9,
+                            "sellingPrice": 139.9
+                        },
+                        "listingId": "33f630fa1b12e5bdf462d30485c64c33",
+                        "campaignId": 61,
+                        "merchantId": 4227,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/katia-bony/ici-havlu-cocuk-tayt-siyah-p-412331987?boutiqueId=61&merchantId=4227",
+                "merchantId": 4227,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 139.9,
+                    "originalPrice": 139.9,
+                    "discountedPrice": 139.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 7789271,
+                        "name": "Trendyol Kart'a 300TL'ye 30TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "33f630fa1b12e5bdf462d30485c64c33",
+                "winnerVariant": "2-4 Yaş",
+                "itemNumber": 630370102,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 57672443,
+                "name": "Erkek Çocuk Termal Içlik Takımı",
+                "images": [
+                    "/ty46/product/media/images/20210105/16/47266199/102378145/1/1_org_zoom.jpg",
+                    "/ty44/product/media/images/20210105/16/47266199/102378145/2/2_org_zoom.jpg",
+                    "/ty46/product/media/images/20210105/16/47266199/102378145/3/3_org_zoom.jpg"
+                ],
+                "imageAlt": "Tutku Erkek Çocuk Termal Içlik Takımı",
+                "brand": {
+                    "id": 105350,
+                    "name": "Tutku"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.628996282527881,
+                    "totalCount": 1380
+                },
+                "showSexualContent": true,
+                "productGroupId": 48820633,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "5-6 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 124,
+                            "buyingPrice": 0,
+                            "originalPrice": 138,
+                            "sellingPrice": 124
+                        },
+                        "listingId": "d669e84307a52bd6bfa8b13c0bff1aa4",
+                        "campaignId": 61,
+                        "merchantId": 159186,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Termal Giyim & İçlik/Giyim/İç Giyim",
+                "categoryId": 1041,
+                "categoryName": "Termal Giyim & İçlik",
+                "url": "/tutku/erkek-cocuk-termal-iclik-takimi-p-57672443?boutiqueId=61&merchantId=159186",
+                "merchantId": 159186,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 124,
+                    "originalPrice": 138,
+                    "discountedPrice": 124,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "d669e84307a52bd6bfa8b13c0bff1aa4",
+                "winnerVariant": "5-6 Yaş",
+                "itemNumber": 102378145,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 741424895,
+                "name": "Erkek Çocuk Mickey Mouse Eşofman Takımı Baharlık 2245( 1 Beden Büyük Alınız)",
+                "images": [
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230921/23/19809a15-2bf7-3b3d-adbc-438828b9eb5b/1_org_zoom.jpg",
+                    "/ty1004/product/media/images/prod/SPM/PIM/20230921/23/179d479a-4665-3f4f-8ce1-20f53bc04ac9/1_org_zoom.jpg",
+                    "/ty1002/product/media/images/prod/SPM/PIM/20230921/23/a264c229-0637-3cd2-9e75-eec9d5127661/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Amazon Ev Erkek Çocuk Mickey Mouse Eşofman Takımı Baharlık 2245( 1 Beden Büyük Alınız)",
+                "brand": {
+                    "id": 960144,
+                    "name": "Amazon Ev"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.23852617970265,
+                    "totalCount": 3097
+                },
+                "showSexualContent": true,
+                "productGroupId": 563590484,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "2-3 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 175,
+                            "buyingPrice": 0,
+                            "originalPrice": 175,
+                            "sellingPrice": 175
+                        },
+                        "listingId": "a6d3b46266e594e636d4e2de6a71f45e",
+                        "campaignId": 61,
+                        "merchantId": 211533,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Takımlar/Alt-Üst Takım",
+                "categoryId": 2160,
+                "categoryName": "Alt-Üst Takım",
+                "url": "/amazon-ev/erkek-cocuk-mickey-mouse-esofman-takimi-baharlik-2245-1-beden-buyuk-aliniz-p-741424895?boutiqueId=61&merchantId=211533",
+                "merchantId": 211533,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 175,
+                    "originalPrice": 175,
+                    "discountedPrice": 175,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "a6d3b46266e594e636d4e2de6a71f45e",
+                "winnerVariant": "2-3 Yaş",
+                "itemNumber": 975369318,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 650936658,
+                "name": "5 Çift Çocuk Bear Desenli Çorap",
+                "images": [
+                    "/ty737/product/media/images/20230218/14/283241575/860278255/1/1_org_zoom.jpg",
+                    "/ty736/product/media/images/20230218/14/283241575/860278255/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "BGK 5 Çift Çocuk Bear Desenli Çorap",
+                "brand": {
+                    "id": 145330,
+                    "name": "BGK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.3653221181418465,
+                    "totalCount": 5231
+                },
+                "showSexualContent": true,
+                "productGroupId": 507448497,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "27-30",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 63.77,
+                            "buyingPrice": 0,
+                            "originalPrice": 63.77,
+                            "sellingPrice": 63.77
+                        },
+                        "listingId": "f8df067a9a736e1f3d4dbc8277285626",
+                        "campaignId": 619275,
+                        "merchantId": 203783,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/bgk/5-cift-cocuk-bear-desenli-corap-p-650936658?boutiqueId=619275&merchantId=203783",
+                "merchantId": 203783,
+                "campaignId": 619275,
+                "price": {
+                    "sellingPrice": 63.77,
+                    "originalPrice": 63.77,
+                    "discountedPrice": 63.77,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10641189,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2024-01-16T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Deprem Yardımlaşma QC Açılan Ürünler ",
+                "listingId": "f8df067a9a736e1f3d4dbc8277285626",
+                "winnerVariant": "27-30",
+                "itemNumber": 860278249,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "1",
+                        "type": "MOST_FAVOURITE",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 781047273,
+                "name": "5 Çift Dikişsiz Çizgili Çok Renkli Çocuk Fitilli Rahat Kışlık Çorap",
+                "images": [
+                    "/ty1049/product/media/images/prod/SPM/PIM/20231116/18/046e63c1-c775-3cbf-921b-2a8b05bb6bcc/1_org_zoom.jpg",
+                    "/ty1048/product/media/images/prod/SPM/PIM/20231116/18/859131a2-3d0c-3ea1-b8ac-77e9e0ff7d58/1_org_zoom.jpg",
+                    "/ty1049/product/media/images/prod/SPM/PIM/20231116/18/16430fe1-67cc-3e5c-9311-e7c30f10eae7/1_org_zoom.jpg",
+                    "/ty1048/product/media/images/prod/SPM/PIM/20231116/18/9ce12c18-a5a1-3e9f-8ee0-29b73b6c52f1/1_org_zoom.jpg",
+                    "/ty1048/product/media/images/prod/SPM/PIM/20231116/18/da014358-eb1a-3acb-8ebd-9d44669aab74/1_org_zoom.jpg",
+                    "/ty1049/product/media/images/prod/SPM/PIM/20231116/18/df3ce530-d9bc-3c95-ac4c-92feea1577c9/1_org_zoom.jpg"
+                ],
+                "imageAlt": "çorapmanya 5 Çift Dikişsiz Çizgili Çok Renkli Çocuk Fitilli Rahat Kışlık Çorap",
+                "brand": {
+                    "id": 145333,
+                    "name": "çorapmanya"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.223684210526316,
+                    "totalCount": 76
+                },
+                "showSexualContent": true,
+                "productGroupId": 595839815,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [],
+                "variants": [
+                    {
+                        "attributeValue": "3-5 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 55.17,
+                            "buyingPrice": 0,
+                            "originalPrice": 71.85,
+                            "sellingPrice": 55.17
+                        },
+                        "listingId": "8d6c490f4427c9d238079e0818845096",
+                        "campaignId": 61,
+                        "merchantId": 155967,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/corapmanya/5-cift-dikissiz-cizgili-cok-renkli-cocuk-fitilli-rahat-kislik-corap-p-781047273?boutiqueId=61&merchantId=155967",
+                "merchantId": 155967,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 55.17,
+                    "originalPrice": 71.85,
+                    "discountedPrice": 55.17,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "8d6c490f4427c9d238079e0818845096",
+                "winnerVariant": "3-5 Yaş",
+                "itemNumber": 1034900105,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "3",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 751294319,
+                "name": "Unısex Çocuk Mıckey Dısney Takım",
+                "images": [
+                    "/ty992/product/media/images/prod/SPM/PIM/20230829/19/22846f97-85be-32ed-8506-d4fff16240b7/1_org_zoom.jpg",
+                    "/ty992/product/media/images/prod/SPM/PIM/20230829/19/882849ff-2dd1-300e-812f-a4452c62f1c7/1_org_zoom.jpg",
+                    "/ty992/product/media/images/prod/SPM/PIM/20230829/19/b6771d7c-7268-3354-ad79-f8d3f710d319/1_org_zoom.jpg",
+                    "/ty991/product/media/images/prod/SPM/PIM/20230829/19/0d1ae114-7073-382b-81ae-3f38934f677f/1_org_zoom.jpg"
+                ],
+                "imageAlt": "ADABEBEK Unısex Çocuk Mıckey Dısney Takım",
+                "brand": {
+                    "id": 163800,
+                    "name": "ADABEBEK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 2.8953974895397487,
+                    "totalCount": 956
+                },
+                "showSexualContent": true,
+                "productGroupId": 571363203,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "2-3 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 169.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 169.99,
+                            "sellingPrice": 169.99
+                        },
+                        "listingId": "3a7c43580eaf531996b832475c854651",
+                        "campaignId": 61,
+                        "merchantId": 148124,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Takımlar/Alt-Üst Takım",
+                "categoryId": 2160,
+                "categoryName": "Alt-Üst Takım",
+                "url": "/adabebek/unisex-cocuk-mickey-disney-takim-p-751294319?boutiqueId=61&merchantId=148124",
+                "merchantId": 148124,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 169.99,
+                    "originalPrice": 169.99,
+                    "discountedPrice": 169.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 9713995,
+                        "name": "Trendyol Kart'a 400TL'ye 40TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10606704,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "3a7c43580eaf531996b832475c854651",
+                "winnerVariant": "2-3 Yaş",
+                "itemNumber": 989383824,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "3",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 743771004,
+                "name": "Erkek Çocuk Su Ve Rüzgar Geçirmez Içi Kalın Eylaf Dolumlu Siyah Kapüşonlu Mont",
+                "images": [
+                    "/ty968/product/media/images/20230715/13/394008523/978697008/1/1_org_zoom.jpg",
+                    "/ty966/product/media/images/20230715/13/394008523/978697008/2/2_org_zoom.jpg",
+                    "/ty967/product/media/images/20230715/13/394008523/978697008/3/3_org_zoom.jpg"
+                ],
+                "imageAlt": "QAWWA Erkek Çocuk Su Ve Rüzgar Geçirmez Içi Kalın Eylaf Dolumlu Siyah Kapüşonlu Mont",
+                "brand": {
+                    "id": 1411780,
+                    "name": "QAWWA"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.486164122137405,
+                    "totalCount": 2096
+                },
+                "showSexualContent": true,
+                "productGroupId": 565588429,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "14-15 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 479.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 479.9,
+                            "sellingPrice": 479.9
+                        },
+                        "listingId": "839c08496ee0bb96c2fb79363db644da",
+                        "campaignId": 61,
+                        "merchantId": 512199,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "priceLabel": {
+                            "name": "319 TL'ye 20 TL İndirim",
+                            "type": 2
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Dış Giyim/Mont/Kaban & Mont",
+                "categoryId": 535,
+                "categoryName": "Mont",
+                "url": "/qawwa/erkek-cocuk-su-ve-ruzgar-gecirmez-ici-kalin-eylaf-dolumlu-siyah-kapusonlu-mont-p-743771004?boutiqueId=61&merchantId=512199",
+                "merchantId": 512199,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 479.9,
+                    "originalPrice": 479.9,
+                    "discountedPrice": 479.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10645712,
+                        "name": "319 TL'ye 20 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2025-01-01T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "839c08496ee0bb96c2fb79363db644da",
+                "winnerVariant": "14-15 Yaş",
+                "itemNumber": 978697010,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 20,
+                "sameDayShipping": false,
+                "priceLabel": {
+                    "name": "319 TL'ye 20 TL İndirim",
+                    "type": 2
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "20 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 749523265,
+                "name": "5 Çift Çocuk&Yetişkin Tavşan Desenli Çorap",
+                "images": [
+                    "/ty978/product/media/images/20230805/18/400588464/986864775/1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "BGK 5 Çift Çocuk&Yetişkin Tavşan Desenli Çorap",
+                "brand": {
+                    "id": 145330,
+                    "name": "BGK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.297555791710946,
+                    "totalCount": 941
+                },
+                "showSexualContent": true,
+                "productGroupId": 570112921,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [],
+                "variants": [
+                    {
+                        "attributeValue": "27-30",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 70.47,
+                            "buyingPrice": 0,
+                            "originalPrice": 70.47,
+                            "sellingPrice": 70.47
+                        },
+                        "listingId": "c14796f00c261721c527cccaed328f9c",
+                        "campaignId": 619275,
+                        "merchantId": 203783,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/bgk/5-cift-cocuk-yetiskin-tavsan-desenli-corap-p-749523265?boutiqueId=619275&merchantId=203783",
+                "merchantId": 203783,
+                "campaignId": 619275,
+                "price": {
+                    "sellingPrice": 70.47,
+                    "originalPrice": 70.47,
+                    "discountedPrice": 70.47,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10641189,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2024-01-16T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Deprem Yardımlaşma QC Açılan Ürünler ",
+                "listingId": "c14796f00c261721c527cccaed328f9c",
+                "winnerVariant": "27-30",
+                "itemNumber": 986859526,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "4",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 411951610,
+                "name": "Içi Havlu Tayt Antrasit",
+                "images": [
+                    "/ty1126/product/media/images/prod/SPM/PIM/20240105/22/2a87162a-cb72-3cea-9356-ff7043393cb7/1_org_zoom.jpg",
+                    "/ty1125/product/media/images/prod/SPM/PIM/20240105/22/ed9987ae-e940-3801-822b-a575dcd9b000/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Katia&Bony Içi Havlu Tayt Antrasit",
+                "brand": {
+                    "id": 109030,
+                    "name": "Katia & Bony"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.697986577181208,
+                    "totalCount": 596
+                },
+                "showSexualContent": true,
+                "productGroupId": 315593664,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "6-8 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 92.24,
+                            "buyingPrice": 0,
+                            "originalPrice": 96,
+                            "sellingPrice": 92.24
+                        },
+                        "listingId": "93c2140c864992ddb7d44e1710f297bc",
+                        "campaignId": 61,
+                        "merchantId": 4227,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/katia-bony/ici-havlu-tayt-antrasit-p-411951610?boutiqueId=61&merchantId=4227",
+                "merchantId": 4227,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 92.24,
+                    "originalPrice": 96,
+                    "discountedPrice": 92.24,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 7789271,
+                        "name": "Trendyol Kart'a 300TL'ye 30TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "93c2140c864992ddb7d44e1710f297bc",
+                "winnerVariant": "6-8 Yaş",
+                "itemNumber": 629877560,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 375697860,
+                "name": "5 Çift Çocuk Inek Desenli Çorap",
+                "images": [
+                    "/ty579/product/media/images/20221025/18/202230790/606928269/1/1_org_zoom.jpg",
+                    "/ty579/product/media/images/20221025/18/202230790/606928269/2/2_org_zoom.jpg",
+                    "/ty576/product/media/images/20221025/18/202230790/606928269/3/3_org_zoom.jpg",
+                    "/ty579/product/media/images/20221025/18/202230790/606928269/4/4_org_zoom.jpg"
+                ],
+                "imageAlt": "BGK 5 Çift Çocuk Inek Desenli Çorap",
+                "brand": {
+                    "id": 145330,
+                    "name": "BGK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.443907980687305,
+                    "totalCount": 3521
+                },
+                "showSexualContent": true,
+                "productGroupId": 303319205,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "27-30",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 62.45,
+                            "buyingPrice": 0,
+                            "originalPrice": 62.45,
+                            "sellingPrice": 62.45
+                        },
+                        "listingId": "f0837004bf5947e285645ef0b050ee26",
+                        "campaignId": 61,
+                        "merchantId": 203783,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/bgk/5-cift-cocuk-inek-desenli-corap-p-375697860?boutiqueId=61&merchantId=203783",
+                "merchantId": 203783,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 62.45,
+                    "originalPrice": 62.45,
+                    "discountedPrice": 62.45,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10641189,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2024-01-16T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "f0837004bf5947e285645ef0b050ee26",
+                "winnerVariant": "27-30",
+                "itemNumber": 606945179,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "3",
+                        "type": "MOST_RATED",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 778944283,
+                "name": "Ayıcık Aksesuarlı Fitilli Alt Üst Bebek Takımı",
+                "images": [
+                    "/ty1038/product/media/images/prod/SPM/PIM/20231109/11/7f53e156-9fd3-3b23-9bc0-9d52380104c2/1_org_zoom.jpg",
+                    "/ty1040/product/media/images/prod/SPM/PIM/20231109/11/620ec443-2d23-356f-adb3-607e2df9bb8e/1_org_zoom.jpg"
+                ],
+                "imageAlt": "ADABEBEK Ayıcık Aksesuarlı Fitilli Alt Üst Bebek Takımı",
+                "brand": {
+                    "id": 163800,
+                    "name": "ADABEBEK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.676056338028169,
+                    "totalCount": 71
+                },
+                "showSexualContent": true,
+                "productGroupId": 594080065,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "6-9 AY",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 111.28,
+                            "buyingPrice": 0,
+                            "originalPrice": 116.69,
+                            "sellingPrice": 111.28
+                        },
+                        "listingId": "f70a3949c32a32421d795ace488c2467",
+                        "campaignId": 61,
+                        "merchantId": 148124,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Bebek Giyim/Bebek Takımları",
+                "categoryId": 947,
+                "categoryName": "Bebek Takımları",
+                "url": "/adabebek/ayicik-aksesuarli-fitilli-alt-ust-bebek-takimi-p-778944283?boutiqueId=61&merchantId=148124",
+                "merchantId": 148124,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 111.28,
+                    "originalPrice": 116.69,
+                    "discountedPrice": 111.28,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10606704,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 9713995,
+                        "name": "Trendyol Kart'a 400TL'ye 40TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "f70a3949c32a32421d795ace488c2467",
+                "winnerVariant": "6-9 AY",
+                "itemNumber": 1031693679,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 140819968,
+                "name": "Creeper Desenli Kapüşonlu Erkek Çocuk Hoodie 5 - 13 Yaş Siyah",
+                "images": [
+                    "/ty171/product/media/images/20210908/10/127622626/239037855/1/1_org_zoom.jpg",
+                    "/ty172/product/media/images/20210908/10/127622626/239037855/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "MINECRAFT Creeper Desenli Kapüşonlu Erkek Çocuk Hoodie 5 - 13 Yaş Siyah",
+                "brand": {
+                    "id": 105293,
+                    "name": "Minecraft"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.147651006711409,
+                    "totalCount": 5526
+                },
+                "showSexualContent": true,
+                "productGroupId": 121672855,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "5-6 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 174.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 174.9,
+                            "sellingPrice": 174.9
+                        },
+                        "listingId": "47295878b40c7edc3281e17e78df4a08",
+                        "campaignId": 61,
+                        "merchantId": 206250,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/minecraft/creeper-desenli-kapusonlu-erkek-cocuk-hoodie-5-13-yas-siyah-p-140819968?boutiqueId=61&merchantId=206250",
+                "merchantId": 206250,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 174.9,
+                    "originalPrice": 174.9,
+                    "discountedPrice": 174.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "47295878b40c7edc3281e17e78df4a08",
+                "winnerVariant": "5-6 Yaş",
+                "itemNumber": 239048645,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 675466388,
+                "name": "Içi Havlu Çocuk Tayt Petrol",
+                "images": [
+                    "/ty1060/product/media/images/prod/SPM/PIM/20231120/00/f2343405-5be9-3a0a-bc72-613f38be8425/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Katia&Bony Içi Havlu Çocuk Tayt Petrol",
+                "brand": {
+                    "id": 109030,
+                    "name": "Katia & Bony"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.181818181818182,
+                    "totalCount": 22
+                },
+                "showSexualContent": true,
+                "productGroupId": 297730299,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "2-4 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 85.52,
+                            "buyingPrice": 0,
+                            "originalPrice": 85.52,
+                            "sellingPrice": 85.52
+                        },
+                        "listingId": "0e58be63047d3647957ba28f9f1c002e",
+                        "campaignId": 61,
+                        "merchantId": 4227,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/katia-bony/ici-havlu-cocuk-tayt-petrol-p-675466388?boutiqueId=61&merchantId=4227",
+                "merchantId": 4227,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 85.52,
+                    "originalPrice": 85.52,
+                    "discountedPrice": 85.52,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 7789271,
+                        "name": "Trendyol Kart'a 300TL'ye 30TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "0e58be63047d3647957ba28f9f1c002e",
+                "winnerVariant": "2-4 Yaş",
+                "itemNumber": 893682417,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "3",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 778107234,
+                "name": "İçi Havlu Çocuk Tayt KREM MELANJ",
+                "images": [
+                    "/ty1127/product/media/images/prod/SPM/PIM/20240105/23/a3afb782-ee9e-3637-8b88-561f75f51f5e/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Katia&Bony İçi Havlu Çocuk Tayt KREM MELANJ",
+                "brand": {
+                    "id": 109030,
+                    "name": "Katia & Bony"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.5807692307692305,
+                    "totalCount": 260
+                },
+                "showSexualContent": true,
+                "productGroupId": 297730299,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "2-4 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 139.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 139.9,
+                            "sellingPrice": 139.9
+                        },
+                        "listingId": "e4f7dbaeb95a9952cee12508ff232edb",
+                        "campaignId": 61,
+                        "merchantId": 4227,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/katia-bony/ici-havlu-cocuk-tayt-krem-melanj-p-778107234?boutiqueId=61&merchantId=4227",
+                "merchantId": 4227,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 139.9,
+                    "originalPrice": 139.9,
+                    "discountedPrice": 139.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 7789271,
+                        "name": "Trendyol Kart'a 300TL'ye 30TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "e4f7dbaeb95a9952cee12508ff232edb",
+                "winnerVariant": "2-4 Yaş",
+                "itemNumber": 1030239752,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "4",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 360058733,
+                "name": "Pamuk Bereli 3'lü Takım Bebek Ve Çocuk Yeşil",
+                "images": [
+                    "/ty557/product/media/images/20221008/14/189295454/584516974/1/1_org_zoom.jpg",
+                    "/ty557/product/media/images/20221008/14/189295454/584516974/2/2_org_zoom.jpg",
+                    "/ty555/product/media/images/20221008/14/189295454/584516974/3/3_org_zoom.jpg",
+                    "/ty555/product/media/images/20221008/14/189295454/584516974/4/4_org_zoom.jpg",
+                    "/ty556/product/media/images/20221008/14/189295454/584516974/5/5_org_zoom.jpg"
+                ],
+                "imageAlt": "MiaBaby Pamuk Bereli 3'lü Takım Bebek Ve Çocuk Yeşil",
+                "brand": {
+                    "id": 159375,
+                    "name": "MiaBaby"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.542898341744773,
+                    "totalCount": 1387
+                },
+                "showSexualContent": true,
+                "productGroupId": 293660773,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "3-6 AY",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 235.53,
+                            "buyingPrice": 0,
+                            "originalPrice": 235.53,
+                            "sellingPrice": 235.53
+                        },
+                        "listingId": "6d53130267fac128971783218f2fa32d",
+                        "campaignId": 61,
+                        "merchantId": 686349,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Bebek Giyim/Bebek Takımları",
+                "categoryId": 947,
+                "categoryName": "Bebek Takımları",
+                "url": "/miababy/pamuk-bereli-3-lu-takim-bebek-ve-cocuk-yesil-p-360058733?boutiqueId=61&merchantId=686349",
+                "merchantId": 686349,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 235.53,
+                    "originalPrice": 235.53,
+                    "discountedPrice": 235.53,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10633878,
+                        "name": "490 TL'ye 25 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-11T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "6d53130267fac128971783218f2fa32d",
+                "winnerVariant": "3-6 AY",
+                "itemNumber": 584516974,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS",
+                        "priority": true
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 303819665,
+                "name": "Erkek Çocuk %95 Pamuklu Dinazor Desenli 5'li Boxer",
+                "images": [
+                    "/ty1064/product/media/images/prod/SPM/PIM/20231124/17/2e3e9708-f512-38a5-bde4-8b11c85f0fea/1_org_zoom.jpg",
+                    "/ty1062/product/media/images/prod/SPM/PIM/20231124/17/bc8435e6-2ab1-3ba2-9f8d-cdc968d06022/1_org_zoom.jpg",
+                    "/ty1063/product/media/images/prod/SPM/PIM/20231124/17/214e6995-d3a5-37b1-95b2-0fce36b78bbd/1_org_zoom.jpg",
+                    "/ty1064/product/media/images/prod/SPM/PIM/20231124/17/d1ef4245-7ff6-3168-8e0b-86aba29b6e2e/1_org_zoom.jpg",
+                    "/ty1063/product/media/images/prod/SPM/PIM/20231124/17/260fda86-ebd8-3836-bff0-f04b9ba9bc5b/1_org_zoom.jpg",
+                    "/ty1062/product/media/images/prod/SPM/PIM/20231124/17/72d6d64c-75d8-39a3-a41b-80a8412db7da/1_org_zoom.jpg"
+                ],
+                "imageAlt": "MADALİNA Erkek Çocuk %95 Pamuklu Dinazor Desenli 5'li Boxer",
+                "brand": {
+                    "id": 164504,
+                    "name": "MADALİNA"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.778956422018348,
+                    "totalCount": 3488
+                },
+                "showSexualContent": true,
+                "productGroupId": 253468964,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "4-5 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 199.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 199.9,
+                            "sellingPrice": 199.9
+                        },
+                        "listingId": "5850572fac7d8c1d7b6a1f99aa383ada",
+                        "campaignId": 61,
+                        "merchantId": 580870,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "unitInfo": {
+                            "price": 39.98,
+                            "name": "adet"
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/İç Giyim/Boxer",
+                "categoryId": 570,
+                "categoryName": "Boxer",
+                "url": "/madalina/erkek-cocuk-95-pamuklu-dinazor-desenli-5-li-boxer-p-303819665?boutiqueId=61&merchantId=580870",
+                "merchantId": 580870,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 199.9,
+                    "originalPrice": 199.9,
+                    "discountedPrice": 199.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10615157,
+                        "name": "2 Adet ve Üzeri %5 İndirim",
+                        "shortName": "2 Adede %5",
+                        "promotionEndDate": "2024-01-19T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "5850572fac7d8c1d7b6a1f99aa383ada",
+                "winnerVariant": "4-5 Yaş",
+                "itemNumber": 485425457,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "unitInfo": {
+                    "price": 39.98,
+                    "name": "adet"
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "2 Adede %5",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 670542363,
+                "name": "Fitilli Petrol Unisex Bebek&çocuk 3'lü Takım",
+                "images": [
+                    "/ty779/product/media/images/20230315/23/304370834/887223066/1/1_org_zoom.jpg",
+                    "/ty779/product/media/images/20230315/23/304370834/887223066/2/2_org_zoom.jpg",
+                    "/ty780/product/media/images/20230315/23/304370834/887223066/3/3_org_zoom.jpg"
+                ],
+                "imageAlt": "BALKABAĞI Fitilli Petrol Unisex Bebek&çocuk 3'lü Takım",
+                "brand": {
+                    "id": 951456,
+                    "name": "BALKABAĞI"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.629160063391442,
+                    "totalCount": 2524
+                },
+                "showSexualContent": true,
+                "productGroupId": 520113617,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [],
+                "variants": [
+                    {
+                        "attributeValue": "12-18 AY",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 218,
+                            "buyingPrice": 0,
+                            "originalPrice": 218,
+                            "sellingPrice": 218
+                        },
+                        "listingId": "1931ca0bb64a86ff801745d88096cfcc",
+                        "campaignId": 61,
+                        "merchantId": 171251,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Takımlar/Alt-Üst Takım",
+                "categoryId": 2160,
+                "categoryName": "Alt-Üst Takım",
+                "url": "/balkabagi/fitilli-petrol-unisex-bebek-cocuk-3-lu-takim-p-670542363?boutiqueId=61&merchantId=171251",
+                "merchantId": 171251,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 218,
+                    "originalPrice": 218,
+                    "discountedPrice": 218,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "1931ca0bb64a86ff801745d88096cfcc",
+                "winnerVariant": "12-18 AY",
+                "itemNumber": 887471712,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "4",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 778944415,
+                "name": "Ayıcık Aksesuarlı Fitilli Alt Üst Bebek Takımı",
+                "images": [
+                    "/ty1038/product/media/images/prod/SPM/PIM/20231109/11/0bb6cda6-d04c-368a-a54d-63794976b07a/1_org_zoom.jpg",
+                    "/ty1040/product/media/images/prod/SPM/PIM/20231109/11/620ec443-2d23-356f-adb3-607e2df9bb8e/1_org_zoom.jpg"
+                ],
+                "imageAlt": "ADABEBEK Ayıcık Aksesuarlı Fitilli Alt Üst Bebek Takımı",
+                "brand": {
+                    "id": 163800,
+                    "name": "ADABEBEK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.534246575342466,
+                    "totalCount": 73
+                },
+                "showSexualContent": true,
+                "productGroupId": 594080065,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "6-9 AY",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 117.44,
+                            "buyingPrice": 0,
+                            "originalPrice": 117.44,
+                            "sellingPrice": 117.44
+                        },
+                        "listingId": "91f5a8d0962383214a8dff17ca51e926",
+                        "campaignId": 61,
+                        "merchantId": 148124,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Bebek Giyim/Bebek Takımları",
+                "categoryId": 947,
+                "categoryName": "Bebek Takımları",
+                "url": "/adabebek/ayicik-aksesuarli-fitilli-alt-ust-bebek-takimi-p-778944415?boutiqueId=61&merchantId=148124",
+                "merchantId": 148124,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 117.44,
+                    "originalPrice": 117.44,
+                    "discountedPrice": 117.44,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10606704,
+                        "name": "2 Adet ve Üzeri %10 İndirim",
+                        "shortName": "2 Adede %10",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 9713995,
+                        "name": "Trendyol Kart'a 400TL'ye 40TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "91f5a8d0962383214a8dff17ca51e926",
+                "winnerVariant": "6-9 AY",
+                "itemNumber": 1031693845,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "2 Adede %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "4",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 756439420,
+                "name": "5 Çift Mavi Bear Çocuk Desenli Çorap",
+                "images": [
+                    "/ty992/product/media/images/prod/SPM/PIM/20230828/11/39d5affa-380c-31bc-9d28-f95340ab5240/1_org_zoom.jpg"
+                ],
+                "imageAlt": "BGK 5 Çift Mavi Bear Çocuk Desenli Çorap",
+                "brand": {
+                    "id": 145330,
+                    "name": "BGK"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.173684210526316,
+                    "totalCount": 570
+                },
+                "showSexualContent": true,
+                "productGroupId": 575428560,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [],
+                "variants": [
+                    {
+                        "attributeValue": "27-30",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 65.77,
+                            "buyingPrice": 0,
+                            "originalPrice": 65.77,
+                            "sellingPrice": 65.77
+                        },
+                        "listingId": "1f34bf2d8c7ea121b93384a2fd97fab8",
+                        "campaignId": 619275,
+                        "merchantId": 203783,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/bgk/5-cift-mavi-bear-cocuk-desenli-corap-p-756439420?boutiqueId=619275&merchantId=203783",
+                "merchantId": 203783,
+                "campaignId": 619275,
+                "price": {
+                    "sellingPrice": 65.77,
+                    "originalPrice": 65.77,
+                    "discountedPrice": 65.77,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10641189,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2024-01-16T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Deprem Yardımlaşma QC Açılan Ürünler ",
+                "listingId": "1f34bf2d8c7ea121b93384a2fd97fab8",
+                "winnerVariant": "27-30",
+                "itemNumber": 996737706,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "6",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/6b090e50-3660-459b-8dd6-8509f979066f.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 999,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 682617855,
+                "name": "Desenli Çocuk Külotlu Çorap Beyaz",
+                "images": [
+                    "/ty1126/product/media/images/prod/SPM/PIM/20240105/23/31e3ece1-9951-3351-bd0d-4bd99f40e7e6/1_org_zoom.jpg",
+                    "/ty1125/product/media/images/prod/SPM/PIM/20240105/23/cadd3c40-ec9f-33fa-a076-719257d9a8e3/1_org_zoom.jpg",
+                    "/ty1126/product/media/images/prod/SPM/PIM/20240105/23/7f54062e-a17c-365d-9b25-4178952dc41f/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Katia&Bony Desenli Çocuk Külotlu Çorap Beyaz",
+                "brand": {
+                    "id": 109030,
+                    "name": "Katia & Bony"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.828125,
+                    "totalCount": 320
+                },
+                "showSexualContent": true,
+                "productGroupId": 527272987,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "3"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "3-4 Yaş",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 51,
+                            "buyingPrice": 0,
+                            "originalPrice": 51,
+                            "sellingPrice": 51
+                        },
+                        "listingId": "c7e849ec0db04cff316fac3e0876d9f6",
+                        "campaignId": 61,
+                        "merchantId": 4227,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/katia-bony/desenli-cocuk-kulotlu-corap-beyaz-p-682617855?boutiqueId=61&merchantId=4227",
+                "merchantId": 4227,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 51,
+                    "originalPrice": 51,
+                    "discountedPrice": 51,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 7789271,
+                        "name": "Trendyol Kart'a 300TL'ye 30TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "c7e849ec0db04cff316fac3e0876d9f6",
+                "winnerVariant": "3-4 Yaş",
+                "itemNumber": 903398310,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "5",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            }
+        ],
+        "totalCount": 707381,
+        "roughTotalCount": "100.000+",
+        "searchStrategy": "DEFAULT",
+        "title": "çocuk giyim",
+        "uxLayout": "Fashion",
+        "queryTerm": "çocuk giyim",
+        "pageIndex": 1,
+        "widgets": [
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_0_C",
+                "displayOrder": 1,
+                "widgetOrder": 1,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_1_C",
+                "displayOrder": 6,
+                "widgetOrder": 2,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_2_C",
+                "displayOrder": 11,
+                "widgetOrder": 3,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_3_C",
+                "displayOrder": 16,
+                "widgetOrder": 4,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_4_C",
+                "displayOrder": 21,
+                "widgetOrder": 5,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_5_C",
+                "displayOrder": 26,
+                "widgetOrder": 6,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_6_C",
+                "displayOrder": 31,
+                "widgetOrder": 7,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_7_C",
+                "displayOrder": 36,
+                "widgetOrder": 8,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_8_C",
+                "displayOrder": 41,
+                "widgetOrder": 9,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "cocuk giyim_9_C",
+                "displayOrder": 46,
+                "widgetOrder": 10,
+                "title": "Sponsorlu",
+                "eventKey": "cocuk giyim"
+            }
+        ]
+    },
+    "headers": {
+        "tysidecarcachable": "ttl=90"
+    }
+}

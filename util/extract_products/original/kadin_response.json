@@ -1,0 +1,3053 @@
+{
+    "isSuccess": true,
+    "statusCode": 200,
+    "error": null,
+    "result": {
+        "slpName": "",
+        "products": [
+            {
+                "id": 174862277,
+                "name": "Keratin & Kolajen Şampuan - 375 ml",
+                "images": [
+                    "/ty1007/product/media/images/prod/SPM/PIM/20231002/12/f5f65078-9294-3daf-ad37-5bb6b7817466/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Rise & Shine Keratin & Kolajen Şampuan - 375 ml",
+                "brand": {
+                    "id": 149704,
+                    "name": "rise and shine"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.3423799582463465,
+                    "totalCount": 18217
+                },
+                "showSexualContent": true,
+                "productGroupId": 149708362,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "16"
+                    },
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "101327"
+                    },
+                    {
+                        "id": "101405"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 139,
+                            "buyingPrice": 0,
+                            "originalPrice": 139,
+                            "sellingPrice": 139
+                        },
+                        "listingId": "a84e6af75004125dc50a8eed3033eb8b",
+                        "campaignId": 61,
+                        "merchantId": 918400,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Şampuan/Kozmetik & Kişisel Bakım/Saç Bakım",
+                "categoryId": 2162,
+                "categoryName": "Şampuan",
+                "url": "/rise-and-shine/keratin-kolajen-sampuan-375-ml-p-174862277?boutiqueId=61&merchantId=918400",
+                "merchantId": 918400,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 139,
+                    "originalPrice": 139,
+                    "discountedPrice": 139,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10620069,
+                        "name": "3 Al 2 Öde",
+                        "shortName": "3 Al 2 Öde",
+                        "promotionEndDate": "2024-01-14T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "a84e6af75004125dc50a8eed3033eb8b",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 285301943,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "3 Al 2 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 34117164,
+                "name": "122 Oriental Edp 50 Ml Kadın Parfüm 8691841304622",
+                "images": [
+                    "/ty983/product/media/images/20230808/19/401323368/61116150/1/1_org_zoom.jpg",
+                    "/ty983/product/media/images/20230808/19/401323368/61116150/2/2_org_zoom.jpg",
+                    "/ty982/product/media/images/20230808/19/401323368/61116150/3/3_org_zoom.jpg",
+                    "/ty982/product/media/images/20230808/19/401323368/61116150/4/4_org_zoom.jpg",
+                    "/ty981/product/media/images/20230808/19/401323368/61116150/5/5_org_zoom.jpg",
+                    "/ty982/product/media/images/20230808/19/401323368/61116150/6/6_org_zoom.jpg"
+                ],
+                "imageAlt": "Bargello 122 Oriental Edp 50 Ml Kadın Parfüm 8691841304622",
+                "brand": {
+                    "id": 109919,
+                    "name": "Bargello"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.55584,
+                    "totalCount": 84377
+                },
+                "showSexualContent": true,
+                "productGroupId": 28866792,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "101405"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 230,
+                            "buyingPrice": 0,
+                            "originalPrice": 230,
+                            "sellingPrice": 230
+                        },
+                        "listingId": "c3a85e5943ee78d1f3c776a44ef10d6b",
+                        "campaignId": 61,
+                        "merchantId": 117151,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Kozmetik & Kişisel Bakım/Parfüm/Parfüm ve Deodorant",
+                "categoryId": 661,
+                "categoryName": "Parfüm",
+                "url": "/bargello/122-oriental-edp-50-ml-kadin-parfum-8691841304622-p-34117164?boutiqueId=61&merchantId=117151",
+                "merchantId": 117151,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 230,
+                    "originalPrice": 230,
+                    "discountedPrice": 230,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10482392,
+                        "name": "2. Ürüne 100 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2027-07-18T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "c3a85e5943ee78d1f3c776a44ef10d6b",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 61116150,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 127039374,
+                "name": "Siyah-beyaz Pamuklu Düğmeli Biyeli Pijama Takım",
+                "images": [
+                    "/ty712/product/media/images/20230203/15/272837558/212232897/1/1_org_zoom.jpg",
+                    "/ty711/product/media/images/20230203/15/272837558/212232897/2/2_org_zoom.jpg",
+                    "/ty713/product/media/images/20230203/15/272837558/212232897/3/3_org_zoom.jpg",
+                    "/ty712/product/media/images/20230203/15/272837558/212232897/4/4_org_zoom.jpg"
+                ],
+                "imageAlt": "Siyah İnci Siyah-beyaz Pamuklu Düğmeli Biyeli Pijama Takım",
+                "brand": {
+                    "id": 102048,
+                    "name": "Siyah İnci"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.27916003989541,
+                    "totalCount": 37097
+                },
+                "showSexualContent": true,
+                "productGroupId": 27641323,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 185.91,
+                            "buyingPrice": 0,
+                            "originalPrice": 185.91,
+                            "sellingPrice": 185.91
+                        },
+                        "listingId": "7703da3016e786808d60f38c9f5bf5bc",
+                        "campaignId": 61,
+                        "merchantId": 2880,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Pijama Takımı/Pijama/Ev Giyim",
+                "categoryId": 563,
+                "categoryName": "Pijama Takımı",
+                "url": "/siyah-inci/siyah-beyaz-pamuklu-dugmeli-biyeli-pijama-takim-p-127039374?boutiqueId=61&merchantId=2880",
+                "merchantId": 2880,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 185.91,
+                    "originalPrice": 185.91,
+                    "discountedPrice": 185.91,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "7703da3016e786808d60f38c9f5bf5bc",
+                "winnerVariant": "S",
+                "itemNumber": 212232897,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 652719507,
+                "name": "Palazzo Pantolon Oversize Orjinal Kesim",
+                "images": [
+                    "/ty1009/product/media/images/prod/SPM/PIM/20231005/15/827227af-1a7d-343f-b893-940ace69b97b/1_org_zoom.jpg",
+                    "/ty1009/product/media/images/prod/SPM/PIM/20231005/15/b23eaec3-e8fc-3e3c-a614-88db61170695/1_org_zoom.jpg"
+                ],
+                "imageAlt": "FV Palazzo Pantolon Oversize Orjinal Kesim",
+                "brand": {
+                    "id": 1768275,
+                    "name": "FV"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.354753090731299,
+                    "totalCount": 14317
+                },
+                "showSexualContent": true,
+                "productGroupId": 508647057,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XXS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 249.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 249.99,
+                            "sellingPrice": 249.99
+                        },
+                        "listingId": "60960b4c3af94be197aa2641b8120b3d",
+                        "campaignId": 61,
+                        "merchantId": 745036,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Pantolon",
+                "categoryId": 529,
+                "categoryName": "Pantolon",
+                "url": "/fv/palazzo-pantolon-oversize-orjinal-kesim-p-652719507?boutiqueId=61&merchantId=745036",
+                "merchantId": 745036,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 249.99,
+                    "originalPrice": 249.99,
+                    "discountedPrice": 249.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10501450,
+                        "name": "2. Ürüne 35 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10653772,
+                        "name": "1.000 TL'ye 80 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-12T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "60960b4c3af94be197aa2641b8120b3d",
+                "winnerVariant": "XXS",
+                "itemNumber": 1036376695,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 148314732,
+                "name": "Clinical Protection Kadın Sprey Deodorant Confidence 96 Saat Koruma 150 ml",
+                "images": [
+                    "/ty1081/product/media/images/prod/SPM/PIM/20231207/17/06d77177-ad07-34da-836c-aac75b672221/1_org_zoom.jpg",
+                    "/ty1082/product/media/images/prod/SPM/PIM/20231207/17/27073eb0-7515-34d1-98aa-5b87b3159beb/1_org_zoom.jpg",
+                    "/ty1081/product/media/images/prod/SPM/PIM/20231207/17/572ab64f-bda9-34d0-b1a9-a1eee851227f/1_org_zoom.jpg",
+                    "/ty1082/product/media/images/prod/SPM/PIM/20231207/17/5ffb84fc-c380-307e-b4bb-067cf1f46751/1_org_zoom.jpg",
+                    "/ty1081/product/media/images/prod/SPM/PIM/20231207/17/80f4ab10-4366-3988-be6e-07ef388dd4c0/1_org_zoom.jpg",
+                    "/ty1081/product/media/images/prod/SPM/PIM/20231207/17/ab84d65d-3963-3b79-9e86-c51796e52a50/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Rexona Clinical Protection Kadın Sprey Deodorant Confidence 96 Saat Koruma 150 ml",
+                "brand": {
+                    "id": 101438,
+                    "name": "Rexona"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.671901642286637,
+                    "totalCount": 22318
+                },
+                "showSexualContent": true,
+                "productGroupId": 127864003,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "16"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 139.5,
+                            "buyingPrice": 0,
+                            "originalPrice": 139.5,
+                            "sellingPrice": 139.5
+                        },
+                        "listingId": "5f3e062c2571721df5e0456eb6b8eabb",
+                        "campaignId": 61,
+                        "merchantId": 378048,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Deodorant/Kozmetik & Kişisel Bakım/Parfüm ve Deodorant",
+                "categoryId": 2426,
+                "categoryName": "Deodorant",
+                "url": "/rexona/clinical-protection-kadin-sprey-deodorant-confidence-96-saat-koruma-150-ml-p-148314732?boutiqueId=61&merchantId=378048",
+                "merchantId": 378048,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 139.5,
+                    "originalPrice": 139.5,
+                    "discountedPrice": 139.5,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10648825,
+                        "name": "300 TL'ye 100 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-14T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10565190,
+                        "name": "Trendyol Kart'a 300TL'ye 35TL indirim!",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-02-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "5f3e062c2571721df5e0456eb6b8eabb",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 248262736,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 650074523,
+                "name": "Erkek Sprey Deodorant Dark Temptation Xl 48 Saat Etkileyici Koku 200 ml X3 Adet",
+                "images": [
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231122/17/d29d9f7c-7034-3660-bd3f-c11687435746/1_org_zoom.jpg",
+                    "/ty1057/product/media/images/prod/SPM/PIM/20231122/17/8a716d46-91c0-347c-a9c2-86d8a3b6e663/1_org_zoom.jpg",
+                    "/ty1056/product/media/images/prod/SPM/PIM/20231122/17/de6691c4-6a3f-3eef-ac90-0caf99ecc181/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231122/17/f87bd921-3d27-3cf7-ad66-83159faddb02/1_org_zoom.jpg",
+                    "/ty1057/product/media/images/prod/SPM/PIM/20231122/17/8db86198-3640-3ca7-926b-3b7c947216b6/1_org_zoom.jpg",
+                    "/ty1056/product/media/images/prod/SPM/PIM/20231122/17/a70c3f44-5d83-3fea-9cb2-75343c4de987/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231122/17/c2092381-df61-3103-8669-10e2d25adb00/1_org_zoom.jpg",
+                    "/ty1058/product/media/images/prod/SPM/PIM/20231122/17/c0ed31a7-161d-3a1a-9216-85d7574d649d/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Axe Erkek Sprey Deodorant Dark Temptation Xl 48 Saat Etkileyici Koku 200 ml X3 Adet",
+                "brand": {
+                    "id": 1215,
+                    "name": "Axe"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.75517890772128,
+                    "totalCount": 531
+                },
+                "showSexualContent": true,
+                "productGroupId": 506802454,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "16"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 429,
+                            "buyingPrice": 0,
+                            "originalPrice": 429,
+                            "sellingPrice": 429
+                        },
+                        "listingId": "9d245b0ac86188223a2a5d3996e97e2f",
+                        "campaignId": 61,
+                        "merchantId": 820933,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "unitInfo": {
+                            "price": 143,
+                            "name": "adet"
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Deodorant/Kozmetik & Kişisel Bakım/Parfüm ve Deodorant",
+                "categoryId": 2426,
+                "categoryName": "Deodorant",
+                "url": "/axe/erkek-sprey-deodorant-dark-temptation-xl-48-saat-etkileyici-koku-200-ml-x3-adet-p-650074523?boutiqueId=61&merchantId=820933",
+                "merchantId": 820933,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 429,
+                    "originalPrice": 429,
+                    "discountedPrice": 429,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10649637,
+                        "name": "1.000 TL'ye 20 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-20T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "9d245b0ac86188223a2a5d3996e97e2f",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 858681420,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "unitInfo": {
+                    "price": 143,
+                    "name": "adet"
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "tagType": "AffordableProducts"
+                    }
+                ]
+            },
+            {
+                "id": 44445080,
+                "name": "Parlak Görünümlü Toparlayıcı Tayt Tyt1032-p10",
+                "images": [
+                    "/ty1025/product/media/images/prod/SPM/PIM/20231025/18/88316c6b-1d26-363e-82d3-6f1709091787/1_org_zoom.jpg",
+                    "/ty1025/product/media/images/prod/SPM/PIM/20231025/18/ef09ff4d-a7a2-368d-bec2-8a50791370a7/1_org_zoom.jpg",
+                    "/ty1025/product/media/images/prod/SPM/PIM/20231025/18/2fd17522-1262-3014-be20-24bc0f8f0905/1_org_zoom.jpg",
+                    "/ty1023/product/media/images/prod/SPM/PIM/20231025/18/ab03c258-d1d3-3ac3-ac85-51bec1e04847/1_org_zoom.jpg",
+                    "/ty1023/product/media/images/prod/SPM/PIM/20231025/18/aaf7849e-6c61-39b3-94df-170011d1d59d/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Addax Parlak Görünümlü Toparlayıcı Tayt Tyt1032-p10",
+                "brand": {
+                    "id": 708,
+                    "name": "Addax"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.422228756248162,
+                    "totalCount": 30609
+                },
+                "showSexualContent": true,
+                "productGroupId": 37201780,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 79.5,
+                            "buyingPrice": 0,
+                            "originalPrice": 99.5,
+                            "sellingPrice": 79.5
+                        },
+                        "listingId": "ef070b45b48c5e8e9d1362af251cadc5",
+                        "campaignId": 61,
+                        "merchantId": 563,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Tayt",
+                "categoryId": 531,
+                "categoryName": "Tayt",
+                "url": "/addax/parlak-gorunumlu-toparlayici-tayt-tyt1032-p10-p-44445080?boutiqueId=61&merchantId=563",
+                "merchantId": 563,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 79.5,
+                    "originalPrice": 99.5,
+                    "discountedPrice": 79.5,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10543343,
+                        "name": "2. Ürüne 30 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "ef070b45b48c5e8e9d1362af251cadc5",
+                "winnerVariant": "XS",
+                "itemNumber": 78743490,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 763911946,
+                "name": "Yandan Lastikli Kadın Bot-prd",
+                "images": [
+                    "/ty1005/product/media/images/prod/SPM/PIM/20230930/22/96bb9da2-8a2a-3b83-81a4-53d5bf390656/1_org_zoom.jpg",
+                    "/ty1006/product/media/images/prod/SPM/PIM/20230930/22/940bfc78-b500-3807-9568-5ad63016c739/1_org_zoom.jpg",
+                    "/ty1007/product/media/images/prod/SPM/PIM/20230930/22/a6097ce8-58e6-332d-bafc-712faceafcba/1_org_zoom.jpg"
+                ],
+                "imageAlt": "simplicity Yandan Lastikli Kadın Bot-prd",
+                "brand": {
+                    "id": 1769589,
+                    "name": "simplicity"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.504299754299755,
+                    "totalCount": 1628
+                },
+                "showSexualContent": true,
+                "productGroupId": 581583656,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 371,
+                            "buyingPrice": 0,
+                            "originalPrice": 371,
+                            "sellingPrice": 371
+                        },
+                        "listingId": "11c02fcef72045607af6b4721de4fde0",
+                        "campaignId": 61,
+                        "merchantId": 652001,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Ayakkabı/Bot & Çizme/Bot & Bootie",
+                "categoryId": 407,
+                "categoryName": "Bot & Bootie",
+                "url": "/simplicity/yandan-lastikli-kadin-bot-prd-p-763911946?boutiqueId=61&merchantId=652001",
+                "merchantId": 652001,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 371,
+                    "originalPrice": 371,
+                    "discountedPrice": 371,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "11c02fcef72045607af6b4721de4fde0",
+                "winnerVariant": "36",
+                "itemNumber": 1008088305,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 343388614,
+                "name": "Unisex Bebe Mavisi San Francisco Baskılı Oversize Kapüşonlu",
+                "images": [
+                    "/ty510/product/media/images/20220820/12/163121250/548323425/1/1_org_zoom.jpg",
+                    "/ty511/product/media/images/20220820/12/163121250/548323425/2/2_org_zoom.jpg",
+                    "/ty510/product/media/images/20220820/12/163121250/548323425/3/3_org_zoom.jpg"
+                ],
+                "imageAlt": "MODAGEN Unisex Bebe Mavisi San Francisco Baskılı Oversize Kapüşonlu",
+                "brand": {
+                    "id": 149752,
+                    "name": "MODAGEN"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 3.9579429523214658,
+                    "totalCount": 9606
+                },
+                "showSexualContent": true,
+                "productGroupId": 180646085,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 115,
+                            "buyingPrice": 0,
+                            "originalPrice": 115,
+                            "sellingPrice": 115
+                        },
+                        "listingId": "84460cf391f153c5bbef90e509d5cb5a",
+                        "campaignId": 61,
+                        "merchantId": 335515,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 14,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "14",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Üst Giyim/Sweatshirt",
+                "categoryId": 601,
+                "categoryName": "Sweatshirt",
+                "url": "/modagen/unisex-bebe-mavisi-san-francisco-baskili-oversize-kapusonlu-p-343388614?boutiqueId=61&merchantId=335515",
+                "merchantId": 335515,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 115,
+                    "originalPrice": 115,
+                    "discountedPrice": 115,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10567378,
+                        "name": "2. Ürüne %25 İndirim",
+                        "shortName": "2. Ürün %25",
+                        "promotionEndDate": "2024-01-11T23:59:00",
+                        "discountType": 2
+                    },
+                    {
+                        "id": 10577256,
+                        "name": "300 TL'ye %10 İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "84460cf391f153c5bbef90e509d5cb5a",
+                "winnerVariant": "S",
+                "itemNumber": 548331913,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 14,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "14",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "2. Ürün %25",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 749817965,
+                "name": "Bomber model naylon karışımlı şişme mont",
+                "images": [
+                    "/ty980/product/media/images/20230807/14/400974334/987307467/1/1_org_zoom.jpg",
+                    "/ty979/product/media/images/20230807/14/400974334/987307467/2/2_org_zoom.jpg",
+                    "/ty978/product/media/images/20230807/14/400974334/987307467/3/3_org_zoom.jpg",
+                    "/ty980/product/media/images/20230807/14/400974334/987307467/4/4_org_zoom.jpg",
+                    "/ty978/product/media/images/20230807/14/400974334/987307467/5/5_org_zoom.jpg",
+                    "/ty979/product/media/images/20230807/14/400974334/987307467/6/6_org_zoom.jpg"
+                ],
+                "imageAlt": "Bershka Bomber model naylon karışımlı şişme mont",
+                "brand": {
+                    "id": 486,
+                    "name": "Bershka"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.533333333333333,
+                    "totalCount": 75
+                },
+                "showSexualContent": true,
+                "productGroupId": 566456058,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 450,
+                            "buyingPrice": 0,
+                            "originalPrice": 790,
+                            "sellingPrice": 450
+                        },
+                        "listingId": "83af2af728ed865239caa3733bd85218",
+                        "campaignId": 61,
+                        "merchantId": 104961,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Dış Giyim/Mont/Kaban & Mont",
+                "categoryId": 535,
+                "categoryName": "Mont",
+                "url": "/bershka/bomber-model-naylon-karisimli-sisme-mont-p-749817965?boutiqueId=61&merchantId=104961",
+                "merchantId": 104961,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 450,
+                    "originalPrice": 790,
+                    "discountedPrice": 450,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "83af2af728ed865239caa3733bd85218",
+                "winnerVariant": "XS",
+                "itemNumber": 987307464,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 195996275,
+                "name": "Düğmeli Pijama Takım",
+                "images": [
+                    "/ty581/product/media/images/20221028/12/203343789/325466179/1/1_org_zoom.jpg",
+                    "/ty581/product/media/images/20221028/12/203343789/325466179/2/2_org_zoom.jpg",
+                    "/ty579/product/media/images/20221028/12/203343789/325466179/3/3_org_zoom.jpg"
+                ],
+                "imageAlt": "STRAWBERRY Düğmeli Pijama Takım",
+                "brand": {
+                    "id": 104699,
+                    "name": "Strawberry"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.2277175582569,
+                    "totalCount": 22787
+                },
+                "showSexualContent": true,
+                "productGroupId": 96562554,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 179.97,
+                            "buyingPrice": 0,
+                            "originalPrice": 179.97,
+                            "sellingPrice": 179.97
+                        },
+                        "listingId": "bff2c7d043203afb53e1a00ee3dea781",
+                        "campaignId": 61,
+                        "merchantId": 2938,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Pijama Takımı/Pijama/Ev Giyim",
+                "categoryId": 563,
+                "categoryName": "Pijama Takımı",
+                "url": "/strawberry/dugmeli-pijama-takim-p-195996275?boutiqueId=61&merchantId=2938",
+                "merchantId": 2938,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 179.97,
+                    "originalPrice": 179.97,
+                    "discountedPrice": 179.97,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "bff2c7d043203afb53e1a00ee3dea781",
+                "winnerVariant": "S",
+                "itemNumber": 325466179,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 303809039,
+                "name": "Renkli Kadın Mandal Toka 5'li Set",
+                "images": [
+                    "/ty435/product/media/images/20220521/18/114583095/485388432/1/1_org_zoom.jpg",
+                    "/ty436/product/media/images/20220521/18/114583095/485388432/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "Monalisa Renkli Kadın Mandal Toka 5'li Set",
+                "brand": {
+                    "id": 110293,
+                    "name": "Monalisa"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.238425234482347,
+                    "totalCount": 16739
+                },
+                "showSexualContent": true,
+                "productGroupId": 269472785,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "10"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 56.98,
+                            "buyingPrice": 0,
+                            "originalPrice": 56.98,
+                            "sellingPrice": 56.98
+                        },
+                        "listingId": "0e0c4d07191b0d5bc551326fde867210",
+                        "campaignId": 61,
+                        "merchantId": 496056,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Aksesuar/Toka/Saç Aksesuarı",
+                "categoryId": 1795,
+                "categoryName": "Toka",
+                "url": "/monalisa/renkli-kadin-mandal-toka-5-li-set-p-303809039?boutiqueId=61&merchantId=496056",
+                "merchantId": 496056,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 56.98,
+                    "originalPrice": 56.98,
+                    "discountedPrice": 56.98,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10079523,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2026-05-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "0e0c4d07191b0d5bc551326fde867210",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 485388432,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": true,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Birlikte Al Kazan",
+                        "type": "CROSS_PROMOTION"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 776092833,
+                "name": "Bisiklet Yaka Basic Uzun Kollu FÜME Body",
+                "images": [
+                    "/ty1028/product/media/images/prod/SPM/PIM/20231101/13/818003d6-bef8-374e-a3af-be2576b9a047/1_org_zoom.jpg",
+                    "/ty1026/product/media/images/prod/SPM/PIM/20231101/13/a1d15bbf-c77e-3da8-b28f-de0d001dd9c0/1_org_zoom.jpg",
+                    "/ty1026/product/media/images/prod/SPM/PIM/20231101/13/62cce155-3abe-32ef-be0b-90f000743fb1/1_org_zoom.jpg"
+                ],
+                "imageAlt": "World Fashion Trends Bisiklet Yaka Basic Uzun Kollu FÜME Body",
+                "brand": {
+                    "id": 997056,
+                    "name": "World Fashion Trends"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.263681592039801,
+                    "totalCount": 804
+                },
+                "showSexualContent": true,
+                "productGroupId": 589291867,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 199,
+                            "buyingPrice": 0,
+                            "originalPrice": 199,
+                            "sellingPrice": 199
+                        },
+                        "listingId": "f1780fbdd8252b827cea0dcb86748e51",
+                        "campaignId": 61,
+                        "merchantId": 868610,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Bluz/Giyim/Üst Giyim/Bluz & Tunik",
+                "categoryId": 590,
+                "categoryName": "Bluz",
+                "url": "/world-fashion-trends/bisiklet-yaka-basic-uzun-kollu-fume-body-p-776092833?boutiqueId=61&merchantId=868610",
+                "merchantId": 868610,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 199,
+                    "originalPrice": 199,
+                    "discountedPrice": 199,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10650119,
+                        "name": "3 Adet ve Üzeri 30 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-15T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "f1780fbdd8252b827cea0dcb86748e51",
+                "winnerVariant": "XS",
+                "itemNumber": 1027110613,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 73626453,
+                "name": "6 Çift Kışlık Kadın Yünlü Uyku Çorabı Soft Touch",
+                "images": [
+                    "/ty549/product/media/images/20221004/17/185881834/126788449/2/2_org_zoom.jpg",
+                    "/ty551/product/media/images/20221004/17/185881940/126788449/2/2_org_zoom.jpg",
+                    "/ty551/product/media/images/20221004/17/185882043/126788449/2/2_org_zoom.jpg",
+                    "/ty550/product/media/images/20221004/17/185882161/126788449/2/2_org_zoom.jpg",
+                    "/ty549/product/media/images/20221004/17/185882227/126788449/2/2_org_zoom.jpg",
+                    "/ty551/product/media/images/20221004/17/185882269/126788449/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "Ozzy Socks 6 Çift Kışlık Kadın Yünlü Uyku Çorabı Soft Touch",
+                "brand": {
+                    "id": 110319,
+                    "name": "Ozzy Socks"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.493908703948334,
+                    "totalCount": 6814
+                },
+                "showSexualContent": true,
+                "productGroupId": 63135959,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36 - 40",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 198.5,
+                            "buyingPrice": 0,
+                            "originalPrice": 198.5,
+                            "sellingPrice": 198.5
+                        },
+                        "listingId": "1cf23e10d5c199635b986e0a5495a0af",
+                        "campaignId": 61,
+                        "merchantId": 136550,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/ozzy-socks/6-cift-kislik-kadin-yunlu-uyku-corabi-soft-touch-p-73626453?boutiqueId=61&merchantId=136550",
+                "merchantId": 136550,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 198.5,
+                    "originalPrice": 198.5,
+                    "discountedPrice": 198.5,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10482501,
+                        "name": "5 Al 4 Öde",
+                        "shortName": "5 Al 4 Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "1cf23e10d5c199635b986e0a5495a0af",
+                "winnerVariant": "36 - 40",
+                "itemNumber": 126788449,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 22,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "22 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "5 Al 4 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 135941803,
+                "name": "Siyah Cilt Kadın Çizme 0012360",
+                "images": [
+                    "/ty162/product/media/images/20210825/16/122462442/233075904/1/1_org_zoom.jpg",
+                    "/ty162/product/media/images/20210825/16/122462442/233075904/2/2_org_zoom.jpg",
+                    "/ty162/product/media/images/20210825/16/122462442/233075904/3/3_org_zoom.jpg",
+                    "/ty163/product/media/images/20210825/16/122462442/233075904/4/4_org_zoom.jpg",
+                    "/ty164/product/media/images/20210825/16/122462442/233075904/5/5_org_zoom.jpg"
+                ],
+                "imageAlt": "Riccon Siyah Cilt Kadın Çizme 0012360",
+                "brand": {
+                    "id": 110359,
+                    "name": "Riccon"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.390593711100287,
+                    "totalCount": 18477
+                },
+                "showSexualContent": true,
+                "productGroupId": 118383149,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 457.86,
+                            "buyingPrice": 0,
+                            "originalPrice": 457.86,
+                            "sellingPrice": 457.86
+                        },
+                        "listingId": "1397c523b5f5ed18b9f81f223e88e003",
+                        "campaignId": 61,
+                        "merchantId": 180000,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 14,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "14",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Çizme/Ayakkabı/Bot & Çizme",
+                "categoryId": 408,
+                "categoryName": "Çizme",
+                "url": "/riccon/siyah-cilt-kadin-cizme-0012360-p-135941803?boutiqueId=61&merchantId=180000",
+                "merchantId": 180000,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 457.86,
+                    "originalPrice": 457.86,
+                    "discountedPrice": 457.86,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10607960,
+                        "name": "2. Ürüne %10 İndirim",
+                        "shortName": "2. Ürün %10",
+                        "promotionEndDate": "2024-01-14T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "1397c523b5f5ed18b9f81f223e88e003",
+                "winnerVariant": "36",
+                "itemNumber": 233075904,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 14,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "14",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "2. Ürün %10",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 250489040,
+                "name": "Kadın Karışık Extra Soft Renkli Koton Patik Çorap Seti 8 Çift",
+                "images": [
+                    "/ty872/product/media/images/20230508/6/342567445/400212852/1/1_org_zoom.jpg",
+                    "/ty871/product/media/images/20230508/6/342567445/400212852/2/2_org_zoom.jpg",
+                    "/ty871/product/media/images/20230508/6/342567445/400212852/3/3_org_zoom.jpg",
+                    "/ty872/product/media/images/20230508/6/342567445/400212852/4/4_org_zoom.jpg",
+                    "/ty870/product/media/images/20230508/6/342567445/400212852/5/5_org_zoom.jpg",
+                    "/ty871/product/media/images/20230508/6/342567445/400212852/6/6_org_zoom.jpg"
+                ],
+                "imageAlt": "Meguca Socks Kadın Karışık Extra Soft Renkli Koton Patik Çorap Seti 8 Çift",
+                "brand": {
+                    "id": 1277789,
+                    "name": "Meguca Socks"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.5742725880551305,
+                    "totalCount": 7183
+                },
+                "showSexualContent": true,
+                "productGroupId": 217542556,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36 - 40",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 59.99,
+                            "buyingPrice": 0,
+                            "originalPrice": 59.99,
+                            "sellingPrice": 59.99
+                        },
+                        "listingId": "56540e64bc673cf9338ef38b276db32c",
+                        "campaignId": 61,
+                        "merchantId": 447462,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "unitInfo": {
+                            "price": 7.5,
+                            "name": "adet"
+                        },
+                        "lowestPriceDuration": 7,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "7",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Çorap/İç Giyim",
+                "categoryId": 550,
+                "categoryName": "Çorap",
+                "url": "/meguca-socks/kadin-karisik-extra-soft-renkli-koton-patik-corap-seti-8-cift-p-250489040?boutiqueId=61&merchantId=447462",
+                "merchantId": 447462,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 59.99,
+                    "originalPrice": 59.99,
+                    "discountedPrice": 59.99,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10606616,
+                        "name": "300 TL'ye 20 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-14T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 24,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "56540e64bc673cf9338ef38b276db32c",
+                "winnerVariant": "36 - 40",
+                "itemNumber": 400212852,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "sameDayShipping": false,
+                "unitInfo": {
+                    "price": 7.5,
+                    "name": "adet"
+                },
+                "lowestPriceDuration": 7,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "7",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Kupon Fırsatı",
+                        "type": "COLLECTABLE_COUPON"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 320044976,
+                "name": "Kadın Ikili Model Siyah Kahverengi Tonlar 6'lı Set",
+                "images": [
+                    "/ty466/product/media/images/20220630/23/133253205/510866903/1/1_org_zoom.jpg",
+                    "/ty466/product/media/images/20220630/23/133253205/510866903/2/2_org_zoom.jpg"
+                ],
+                "imageAlt": "Monalisa Kadın Ikili Model Siyah Kahverengi Tonlar 6'lı Set",
+                "brand": {
+                    "id": 110293,
+                    "name": "Monalisa"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.001787365177195,
+                    "totalCount": 16225
+                },
+                "showSexualContent": true,
+                "productGroupId": 264654417,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "10"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 56.98,
+                            "buyingPrice": 0,
+                            "originalPrice": 56.98,
+                            "sellingPrice": 56.98
+                        },
+                        "listingId": "31a2fdf2fcd10b134a26a96d249ed773",
+                        "campaignId": 61,
+                        "merchantId": 496056,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Aksesuar/Toka/Saç Aksesuarı",
+                "categoryId": 1795,
+                "categoryName": "Toka",
+                "url": "/monalisa/kadin-ikili-model-siyah-kahverengi-tonlar-6-li-set-p-320044976?boutiqueId=61&merchantId=496056",
+                "merchantId": 496056,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 56.98,
+                    "originalPrice": 56.98,
+                    "discountedPrice": 56.98,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10079523,
+                        "name": "4 Al 3 Öde",
+                        "shortName": "4 Al 3 Öde",
+                        "promotionEndDate": "2026-05-29T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "31a2fdf2fcd10b134a26a96d249ed773",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 510866903,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": true,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "4 Al 3 Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Birlikte Al Kazan",
+                        "type": "CROSS_PROMOTION"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 85337,
+                "name": "Forte Yoğun Saç Dökülmesine Karşı Bakım Şampuanı 300 Ml - 3 Al 2 Öde",
+                "images": [
+                    "/ty1119/product/media/images/prod/PIM/20240104/12/a9d123f7-4577-44c4-a9a6-28d72c04a76b/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/PIM/20240104/12/507fa8f3-4de9-4d0b-b946-99a5fd63b06f/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/PIM/20240104/12/b474fe4a-3d10-4e74-a868-61541f22d3d3/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/PIM/20240104/12/fa0ca79a-da1d-4637-9dfb-718cc094bcac/1_org_zoom.jpg",
+                    "/ty1119/product/media/images/prod/PIM/20240104/12/9d654e5b-1e70-472b-974f-6d584e1444bb/1_org_zoom.jpg",
+                    "/ty1121/product/media/images/prod/PIM/20240104/12/1ffc76ea-7c09-4624-8030-31003f389231/1_org_zoom.jpg",
+                    "/ty1120/product/media/images/prod/PIM/20240104/12/3b5cc33b-b3d8-47ac-bbd3-886c60df458d/1_org_zoom.jpg",
+                    "/ty1120/product/media/images/prod/PIM/20240104/12/bdbf22fd-0ea5-4bf0-ae95-4cc0d896102b/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Bioxcin Forte Yoğun Saç Dökülmesine Karşı Bakım Şampuanı 300 Ml - 3 Al 2 Öde",
+                "brand": {
+                    "id": 689,
+                    "name": "Bioxcin"
+                },
+                "tax": 20,
+                "ratingScore": {
+                    "averageRating": 4.527862999944218,
+                    "totalCount": 18022
+                },
+                "showSexualContent": true,
+                "productGroupId": 71407,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "16"
+                    },
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "101327"
+                    },
+                    {
+                        "id": "101405"
+                    },
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "Tek Ebat",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 259.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 259.9,
+                            "sellingPrice": 259.9
+                        },
+                        "listingId": "adc5c9e5d729740aa9a8d1e0eed39e0f",
+                        "campaignId": 620856,
+                        "merchantId": 332840,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Şampuan/Kozmetik & Kişisel Bakım/Saç Bakım",
+                "categoryId": 2162,
+                "categoryName": "Şampuan",
+                "url": "/bioxcin/forte-yogun-sac-dokulmesine-karsi-bakim-sampuani-300-ml-3-al-2-ode-p-85337?boutiqueId=620856&merchantId=332840",
+                "merchantId": 332840,
+                "campaignId": 620856,
+                "price": {
+                    "sellingPrice": 259.9,
+                    "originalPrice": 259.9,
+                    "discountedPrice": 259.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 24,
+                "freeCargo": true,
+                "campaignName": "Kurumsal Satış Yüksek Limitli Ürünler - 300 Adet",
+                "listingId": "adc5c9e5d729740aa9a8d1e0eed39e0f",
+                "winnerVariant": "Tek Ebat",
+                "itemNumber": 4752195,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": true,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Hızlı Teslimat",
+                        "type": "RUSH_DELIVERY"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Birlikte Al Kazan",
+                        "type": "CROSS_PROMOTION"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 780977060,
+                "name": "Bordo Bisiklet Yaka Basic Uzun Kollu Body",
+                "images": [
+                    "/ty1076/product/media/images/prod/SPM/PIM/20231204/17/a9437b41-5014-3b63-b404-a4771e93067f/1_org_zoom.jpg"
+                ],
+                "imageAlt": "World Fashion Trends Bordo Bisiklet Yaka Basic Uzun Kollu Body",
+                "brand": {
+                    "id": 997056,
+                    "name": "World Fashion Trends"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.241860465116279,
+                    "totalCount": 430
+                },
+                "showSexualContent": true,
+                "productGroupId": 589291867,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 199,
+                            "buyingPrice": 0,
+                            "originalPrice": 199,
+                            "sellingPrice": 199
+                        },
+                        "listingId": "f6e247ec5b1ed1a2221a6e51c15acec4",
+                        "campaignId": 61,
+                        "merchantId": 868610,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Bluz/Giyim/Üst Giyim/Bluz & Tunik",
+                "categoryId": 590,
+                "categoryName": "Bluz",
+                "url": "/world-fashion-trends/bordo-bisiklet-yaka-basic-uzun-kollu-body-p-780977060?boutiqueId=61&merchantId=868610",
+                "merchantId": 868610,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 199,
+                    "originalPrice": 199,
+                    "discountedPrice": 199,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10650119,
+                        "name": "3 Adet ve Üzeri 30 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-15T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "f6e247ec5b1ed1a2221a6e51c15acec4",
+                "winnerVariant": "XS",
+                "itemNumber": 1034760521,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 771419890,
+                "name": "İKİLİ Jogger Eşofman Altı-Siyah Ve Gri Lastik Paça Yüksek Bel KIŞLIK Eşofman",
+                "images": [
+                    "/ty1014/product/media/images/prod/SPM/PIM/20231015/17/387a2e74-6fc5-344d-a54d-bf60b32b951b/1_org_zoom.jpg",
+                    "/ty1015/product/media/images/prod/SPM/PIM/20231015/17/5b6ede07-7bce-3716-91b3-668cebe78bd2/1_org_zoom.jpg",
+                    "/ty1015/product/media/images/prod/SPM/PIM/20231015/17/e9656643-db75-3424-b5a5-fee00e2cf71d/1_org_zoom.jpg",
+                    "/ty1014/product/media/images/prod/SPM/PIM/20231015/17/8789bb69-25dd-303a-9872-b866d0bf3e5e/1_org_zoom.jpg",
+                    "/ty1016/product/media/images/prod/SPM/PIM/20231015/17/24e1c9c3-92d5-3d6c-b0be-d6517ab2e9f7/1_org_zoom.jpg",
+                    "/ty1014/product/media/images/prod/SPM/PIM/20231015/17/74f5e1bb-8a8d-34a8-b54b-0f0997f2f046/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Verivay İKİLİ Jogger Eşofman Altı-Siyah Ve Gri Lastik Paça Yüksek Bel KIŞLIK Eşofman",
+                "brand": {
+                    "id": 1933986,
+                    "name": "Verivay"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 3.5208974923009237,
+                    "totalCount": 2273
+                },
+                "showSexualContent": true,
+                "productGroupId": 587833826,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "12"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 149,
+                            "buyingPrice": 0,
+                            "originalPrice": 149,
+                            "sellingPrice": 149
+                        },
+                        "listingId": "cfab61720f24ce6086eeec90bd76ca6c",
+                        "campaignId": 61,
+                        "merchantId": 712240,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": true,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 14,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "14",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Alt Giyim/Eşofman/Eşofman Altı",
+                "categoryId": 525,
+                "categoryName": "Eşofman Altı",
+                "url": "/verivay/ikili-jogger-esofman-alti-siyah-ve-gri-lastik-paca-yuksek-bel-kislik-esofman-p-771419890?boutiqueId=61&merchantId=712240",
+                "merchantId": 712240,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 149,
+                    "originalPrice": 149,
+                    "discountedPrice": 149,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "cfab61720f24ce6086eeec90bd76ca6c",
+                "winnerVariant": "S",
+                "itemNumber": 1019795492,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": true,
+                "collectableCouponDiscount": 74,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 14,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "14",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "74 TL Kupon",
+                        "type": "COUPON_DISCOUNT"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            },
+            {
+                "id": 744785748,
+                "name": "Bomber model naylon karışımlı şişme mont",
+                "images": [
+                    "/ty969/product/media/images/20230720/14/395233332/980331180/1/1_org_zoom.jpg",
+                    "/ty970/product/media/images/20230720/14/395233332/980331180/2/2_org_zoom.jpg",
+                    "/ty970/product/media/images/20230720/14/395233332/980331180/3/3_org_zoom.jpg",
+                    "/ty971/product/media/images/20230720/14/395233332/980331180/4/4_org_zoom.jpg",
+                    "/ty970/product/media/images/20230720/14/395233332/980331180/5/5_org_zoom.jpg",
+                    "/ty969/product/media/images/20230720/14/395233332/980331180/6/6_org_zoom.jpg"
+                ],
+                "imageAlt": "Bershka Bomber model naylon karışımlı şişme mont",
+                "brand": {
+                    "id": 486,
+                    "name": "Bershka"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.50314465408805,
+                    "totalCount": 159
+                },
+                "showSexualContent": true,
+                "productGroupId": 566456058,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 450,
+                            "buyingPrice": 0,
+                            "originalPrice": 790,
+                            "sellingPrice": 450
+                        },
+                        "listingId": "29d4c00c7fda62bbeebfbb072dab4ffd",
+                        "campaignId": 61,
+                        "merchantId": 104961,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 30,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "30",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Dış Giyim/Mont/Kaban & Mont",
+                "categoryId": 535,
+                "categoryName": "Mont",
+                "url": "/bershka/bomber-model-naylon-karisimli-sisme-mont-p-744785748?boutiqueId=61&merchantId=104961",
+                "merchantId": 104961,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 450,
+                    "originalPrice": 790,
+                    "discountedPrice": 450,
+                    "buyingPrice": 0
+                },
+                "promotions": [],
+                "rushDeliveryDuration": 0,
+                "freeCargo": false,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "29d4c00c7fda62bbeebfbb072dab4ffd",
+                "winnerVariant": "XS",
+                "itemNumber": 980331181,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 30,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "30",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 773226974,
+                "name": "Kadın içi Kürklü Su Geçirmez Kaymaz Kauçuk Taban Garantili Kışlık Bot ZENNO.66 Siyah",
+                "images": [
+                    "/ty1091/product/media/images/prod/SPM/PIM/20231214/14/20c72c28-8015-302a-b5ef-027c7099833b/1_org_zoom.jpg",
+                    "/ty1091/product/media/images/prod/SPM/PIM/20231214/14/fc73ae68-485a-30ab-9970-bda457dc5777/1_org_zoom.jpg",
+                    "/ty1089/product/media/images/prod/SPM/PIM/20231214/14/b9253dfa-8f2c-33cd-b876-063004030f1b/1_org_zoom.jpg",
+                    "/ty1090/product/media/images/prod/SPM/PIM/20231214/14/17eab43a-e0d1-3574-9ef3-fe9a88f8b874/1_org_zoom.jpg",
+                    "/ty1091/product/media/images/prod/SPM/PIM/20231214/14/807c72b9-60c0-3207-8a3b-d14f7d50f5c5/1_org_zoom.jpg",
+                    "/ty1089/product/media/images/prod/SPM/PIM/20231214/14/73481d32-a9dc-3e2f-a5ce-cbefacedd59d/1_org_zoom.jpg",
+                    "/ty1090/product/media/images/prod/SPM/PIM/20231214/14/2b1ba17a-24a9-3ce3-b373-def93ffa5692/1_org_zoom.jpg",
+                    "/ty1091/product/media/images/prod/SPM/PIM/20231214/14/689c31da-661b-30a3-89d1-9256e1f7aae4/1_org_zoom.jpg"
+                ],
+                "imageAlt": "Freemax Kadın içi Kürklü Su Geçirmez Kaymaz Kauçuk Taban Garantili Kışlık Bot ZENNO.66 Siyah",
+                "brand": {
+                    "id": 145158,
+                    "name": "Freemax"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.586666666666667,
+                    "totalCount": 1425
+                },
+                "showSexualContent": true,
+                "productGroupId": 589311882,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "9"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "22"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "36",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 479.9,
+                            "buyingPrice": 0,
+                            "originalPrice": 479.9,
+                            "sellingPrice": 479.9
+                        },
+                        "listingId": "d1f0ef7ccec83550ce267a5c48a55be7",
+                        "campaignId": 61,
+                        "merchantId": 369181,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Ayakkabı/Bot & Çizme/Bot & Bootie",
+                "categoryId": 407,
+                "categoryName": "Bot & Bootie",
+                "url": "/freemax/kadin-ici-kurklu-su-gecirmez-kaymaz-kaucuk-taban-garantili-kislik-bot-zenno-66-siyah-p-773226974?boutiqueId=61&merchantId=369181",
+                "merchantId": 369181,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 479.9,
+                    "originalPrice": 479.9,
+                    "discountedPrice": 479.9,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10469830,
+                        "name": "1.400 TL'ye 200 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-31T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "d1f0ef7ccec83550ce267a5c48a55be7",
+                "winnerVariant": "36",
+                "itemNumber": 1022678348,
+                "discountedPriceInfo": "",
+                "hasVideoContent": true,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "Videolu Ürün",
+                        "type": "VIDEO_CONTENT"
+                    },
+                    {
+                        "title": "2",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "indexing-sticker-stamp/moon/7a378884-8b30-488a-9a17-f4914f205f17.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000,
+                        "tagType": "CampaignBadge"
+                    }
+                ]
+            },
+            {
+                "id": 773201702,
+                "name": "Bisiklet Yaka Basic Uzun Kollu Body",
+                "images": [
+                    "/ty1030/product/media/images/prod/SPM/PIM/20231026/17/c8716a4d-d818-391e-b5a0-85ed33e43d3e/1_org_zoom.jpg",
+                    "/ty1030/product/media/images/prod/SPM/PIM/20231026/17/3c01cb02-303c-3047-a8db-ba9be2fd85cd/1_org_zoom.jpg",
+                    "/ty1030/product/media/images/prod/SPM/PIM/20231026/17/ca5f595f-0646-3c8a-b94a-0b348c5d0a94/1_org_zoom.jpg"
+                ],
+                "imageAlt": "World Fashion Trends Bisiklet Yaka Basic Uzun Kollu Body",
+                "brand": {
+                    "id": 997056,
+                    "name": "World Fashion Trends"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.349282296650718,
+                    "totalCount": 627
+                },
+                "showSexualContent": true,
+                "productGroupId": 589291867,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "XS",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 199,
+                            "buyingPrice": 0,
+                            "originalPrice": 199,
+                            "sellingPrice": 199
+                        },
+                        "listingId": "3e2c2b4bdf205c99d28712d0b58d3968",
+                        "campaignId": 61,
+                        "merchantId": 868610,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false
+                    }
+                ],
+                "categoryHierarchy": "Bluz/Giyim/Üst Giyim/Bluz & Tunik",
+                "categoryId": 590,
+                "categoryName": "Bluz",
+                "url": "/world-fashion-trends/bisiklet-yaka-basic-uzun-kollu-body-p-773201702?boutiqueId=61&merchantId=868610",
+                "merchantId": 868610,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 199,
+                    "originalPrice": 199,
+                    "discountedPrice": 199,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10650119,
+                        "name": "3 Adet ve Üzeri 30 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-15T23:59:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "3e2c2b4bdf205c99d28712d0b58d3968",
+                "winnerVariant": "XS",
+                "itemNumber": 1023221739,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "3",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ]
+            },
+            {
+                "id": 792373827,
+                "name": "Çift Cepli İçi Suni Kürklü Suni Deri Biker Ceket",
+                "images": [
+                    "/ty1112/product/media/images/prod/SPM/PIM/20231227/18/c3d91ba7-f354-3b72-ae59-8df6671248ed/1_org_zoom.jpg",
+                    "/ty1110/product/media/images/prod/SPM/PIM/20231227/18/f6ecffc6-6cfd-3e6a-ab60-38a0b595bf1d/1_org_zoom.jpg",
+                    "/ty1110/product/media/images/prod/SPM/PIM/20231227/18/49b6b7b0-e9eb-39cc-9932-71d5e2a42287/1_org_zoom.jpg",
+                    "/ty1112/product/media/images/prod/SPM/PIM/20231227/18/dec0d7b5-d6c4-32f2-8625-33e83502c571/1_org_zoom.jpg",
+                    "/ty1111/product/media/images/prod/SPM/PIM/20231227/18/d0adec67-3e6e-342d-8da5-0e6153f50449/1_org_zoom.jpg",
+                    "/ty1112/product/media/images/prod/SPM/PIM/20231227/18/fc7103c1-c0a0-3ff2-85dc-9b05bc7fa2d6/1_org_zoom.jpg"
+                ],
+                "imageAlt": "VAGGON Çift Cepli İçi Suni Kürklü Suni Deri Biker Ceket",
+                "brand": {
+                    "id": 148304,
+                    "name": "VAGGON"
+                },
+                "tax": 10,
+                "ratingScore": {
+                    "averageRating": 4.7894736842105265,
+                    "totalCount": 19
+                },
+                "showSexualContent": true,
+                "productGroupId": 605205363,
+                "hasReviewPhoto": true,
+                "cardType": "PRODUCT",
+                "sections": [
+                    {
+                        "id": "22"
+                    },
+                    {
+                        "id": "1"
+                    }
+                ],
+                "variants": [
+                    {
+                        "attributeValue": "S",
+                        "attributeName": "beden",
+                        "price": {
+                            "discountedPrice": 580,
+                            "buyingPrice": 0,
+                            "originalPrice": 580,
+                            "sellingPrice": 580
+                        },
+                        "listingId": "4b94a3a89ed6efa5eb93e84e0f7d3978",
+                        "campaignId": 61,
+                        "merchantId": 351361,
+                        "discountedPriceInfo": "",
+                        "hasCollectableCoupon": false,
+                        "sameDayShipping": false,
+                        "lowestPriceDuration": 14,
+                        "priceLabel": {
+                            "name": "lowestPriceDuration",
+                            "value": "14",
+                            "type": 1
+                        }
+                    }
+                ],
+                "categoryHierarchy": "Giyim/Ceket & Yelek/Ceket/Dış Giyim",
+                "categoryId": 594,
+                "categoryName": "Ceket",
+                "url": "/vaggon/cift-cepli-ici-suni-kurklu-suni-deri-biker-ceket-p-792373827?boutiqueId=61&merchantId=351361",
+                "merchantId": 351361,
+                "campaignId": 61,
+                "price": {
+                    "sellingPrice": 580,
+                    "originalPrice": 580,
+                    "discountedPrice": 580,
+                    "buyingPrice": 0
+                },
+                "promotions": [
+                    {
+                        "id": 10644270,
+                        "name": "2 Adet ve Üzeri 40 TL İndirim",
+                        "shortName": "Çok Al Az Öde",
+                        "promotionEndDate": "2024-01-11T23:00:00",
+                        "discountType": 2
+                    }
+                ],
+                "rushDeliveryDuration": 0,
+                "freeCargo": true,
+                "campaignName": "Tüm Ürünler",
+                "listingId": "4b94a3a89ed6efa5eb93e84e0f7d3978",
+                "winnerVariant": "S",
+                "itemNumber": 1051938473,
+                "discountedPriceInfo": "",
+                "hasVideoContent": false,
+                "hasCrossPromotion": false,
+                "hasCollectableCoupon": false,
+                "sameDayShipping": false,
+                "lowestPriceDuration": 14,
+                "priceLabel": {
+                    "name": "lowestPriceDuration",
+                    "value": "14",
+                    "type": 1
+                },
+                "isLegalRequirementConfirmed": false,
+                "badges": [
+                    {
+                        "title": "Fenomen Seçimi",
+                        "type": "PICKED_BY_INFLUENCER"
+                    },
+                    {
+                        "title": "Çok Al Az Öde",
+                        "type": "TAKE_MORE_PAY_LESS"
+                    },
+                    {
+                        "title": "Kargo Bedava",
+                        "type": "FREE_CARGO"
+                    },
+                    {
+                        "title": "1",
+                        "type": "BEST_SELLER",
+                        "priority": true
+                    }
+                ],
+                "stamps": [
+                    {
+                        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+                        "type": "TypeA",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1100
+                    }
+                ]
+            }
+        ],
+        "totalCount": 6637514,
+        "roughTotalCount": "100.000+",
+        "searchStrategy": "DEFAULT",
+        "title": "kadın",
+        "uxLayout": "Fashion",
+        "queryTerm": "kadın",
+        "pageIndex": 1,
+        "widgets": [
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_0_C",
+                "displayOrder": 1,
+                "widgetOrder": 1,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_1_C",
+                "displayOrder": 6,
+                "widgetOrder": 2,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_2_C",
+                "displayOrder": 11,
+                "widgetOrder": 3,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_3_C",
+                "displayOrder": 16,
+                "widgetOrder": 4,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_4_C",
+                "displayOrder": 21,
+                "widgetOrder": 5,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_5_C",
+                "displayOrder": 26,
+                "widgetOrder": 6,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_6_C",
+                "displayOrder": 31,
+                "widgetOrder": 7,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_7_C",
+                "displayOrder": 36,
+                "widgetOrder": 8,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_8_C",
+                "displayOrder": 41,
+                "widgetOrder": 9,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            },
+            {
+                "configuration": {
+                    "storefrontId": 1,
+                    "culture": "tr-TR",
+                    "widgetGwUrl": "https://public.trendyol.com/discovery-web-widgetgw-service",
+                    "accountGwUrl": "https://public-mdc.trendyol.com/discovery-web-accountgw-service",
+                    "recoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+                    "priceBoxV2Enabled": true,
+                    "searchStoreAdsDisabled": false,
+                    "publicSfxWidgetGwUrl": "https://public.trendyol.com/discovery-web-websfxsearchads-santral"
+                },
+                "type": "SELLER_STORE",
+                "displayType": "SINGLE",
+                "feedingSource": "STORE_ADS",
+                "feedingSourceDataKey": "kadin_9_C",
+                "displayOrder": 46,
+                "widgetOrder": 10,
+                "title": "Sponsorlu",
+                "eventKey": "kadin"
+            }
+        ]
+    },
+    "headers": {
+        "tysidecarcachable": "ttl=90"
+    }
+}
