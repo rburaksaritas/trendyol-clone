@@ -50,7 +50,9 @@ class ProductService(private val productRepository: ProductRepository) {
         val searchTerms = searchQuery.split("\\s+".toRegex())
         return searchTerms.all { term ->
             product.name.contains(term, ignoreCase = true) ||
-            product.brand.contains(term, ignoreCase = true)
+            product.brand.contains(term, ignoreCase = true) ||
+            product.category.contains(term, ignoreCase = true) ||
+            product.eventKey.contains(term, ignoreCase = true)
         }
     }
 

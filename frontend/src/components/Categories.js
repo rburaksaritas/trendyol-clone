@@ -8,7 +8,8 @@ const Categories = () => {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const handleCategoryClick = (categoryName) => {
     setSelectedCategory(categoryName);
-    navigate(`/search/${categoryName.toLowerCase()}`); // Adjust the URL as needed
+    console.log(categoryName.toLocaleLowerCase('tr-TR'));
+    navigate(`/search/${categoryName.toLocaleLowerCase('tr-TR')}`); // Adjust the URL as needed
   };
 
   const categories = [

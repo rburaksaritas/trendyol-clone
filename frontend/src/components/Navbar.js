@@ -15,7 +15,7 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
     const handleSearchSubmit = (event) => {
         event.preventDefault();
         console.log('Searching for:', searchTerm);
-        navigate(`/search/${searchTerm.toLowerCase()}`);
+        navigate(`/search/${searchTerm}`);
         setSearchTerm(""); 
         // Implement your search logic here
     };
