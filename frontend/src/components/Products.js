@@ -10,17 +10,17 @@ const Products = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        let url = `${process.env.REACT_APP_BACKEND_URL}/products/search`;
+        let url = `${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=reviewsCount&direction=DESC`;
         if (category) {
           if (category === "çok satanlar"){
-            url += `?sortBy=reviewsCount&direction=DESC&size=200`;   
+            url += `&size=200`;   
           } else if (category === "flaş ürünler"){
-            url += `?searchQuery=yeni&size=200`;  
-        } else {
-            url += `?sortBy=reviewsCount&direction=DESC&size=200&searchQuery=${category}`;
+            url += `?&size=200&searchQuery=yeni`;  
+          } else {
+            url += `?&size=200&searchQuery=${category}`;
           }
-         
-          
+        } else {
+          url += `&size=62`;
         }
         const response = await fetch(url);
         if (!response.ok) {

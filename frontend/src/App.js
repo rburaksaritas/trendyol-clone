@@ -30,7 +30,7 @@ function App() {
 
     const fetchProducts = async () => {
       try {
-        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=reviewsCount&direction=DESC&size=50&page=0`);
+        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=reviewsCount&direction=DESC&size=60`);
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
@@ -47,7 +47,8 @@ function App() {
 
   const mostSelledProducts = products.slice(0,9);
   const mostLikedProducts = products.slice(9,18);
-  
+  console.log(products.length);
+  console.log(products.slice(18,60).length)
   return (
     <Router>
       <div className="App">
@@ -63,7 +64,7 @@ function App() {
                   <FeaturedProducts title="En Çok Satanlar" products={mostSelledProducts} /> {/* TODO: fetch most selled products*/}
                   <Cards cards={cards.slice(6,9)} />
                   <FeaturedProducts title="En Beğenilenler" products={mostLikedProducts} /> {/* TODO: fetch most selled products*/}
-                  <Products products={products.slice(20,60)}></Products>
+                  <Products products={products.slice(18,60)}></Products>
                 </>
               } />
                <Route path="search/:category" element={<Products />} />
