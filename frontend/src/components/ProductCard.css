@@ -17,7 +17,7 @@
     position: relative;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: var(--primary-black);
-
+    cursor: pointer;
 }
 
 .product-card:hover {

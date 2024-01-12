@@ -13,7 +13,7 @@ const Cards = ({cards}) => {
     <div className="cards-container">
       {cards.length > 0 ? (
         cards.map((card) => (
-          <div key={card.id} className="card" onClick={() => handleCardClick(card.category)}>
+          <div key={card.id} className="card" onClick={() => handleCardClick(card.search)}>
             <img src={card.imageUrl} alt={card.title} className="card-image" />
             <div className="card-title">{card.title}</div>
           </div>
