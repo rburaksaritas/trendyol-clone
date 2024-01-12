@@ -4,6 +4,7 @@ import com.trendyolclone.backend.model.Product
 import com.trendyolclone.backend.service.ProductService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
+import org.springframework.data.domain.Sort
 import org.springframework.web.bind.annotation.*
 
 @RestController
@@ -13,6 +14,20 @@ class ProductController(private val productService: ProductService) {
     @GetMapping
     fun getAllProducts(): ResponseEntity<Iterable<Product>> {
         val products = productService.findAllProducts()
+        return ResponseEntity.ok(products)
+    }
+
+    @GetMapping("/search")
+    fun getProductsDynamically(
+        @RequestParam allParams: Map<String, String>,
+        @RequestParam(defaultValue = "0") page: Int,
+        @RequestParam(defaultValue = "10") size: Int,
+        @RequestParam sortBy: String?,
+        @RequestParam(defaultValue = "ASC") direction: Sort.Direction,
+        @RequestParam(required = false) searchQuery: String?
+    ): ResponseEntity<List<Product>> {
+        val criteria = allParams - setOf("page", "size", "sortBy", "direction")
+        val products = productService.findProducts(criteria, page, size, sortBy, direction, searchQuery)
         return ResponseEntity.ok(products)
     }
 
