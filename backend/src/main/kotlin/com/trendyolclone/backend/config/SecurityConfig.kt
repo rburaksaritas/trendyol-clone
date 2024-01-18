@@ -9,6 +9,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.security.crypto.password.PasswordEncoder
 import org.springframework.security.web.SecurityFilterChain
+import org.springframework.http.HttpMethod
 import com.trendyolclone.backend.service.CustomUserDetailsService
 
 
@@ -27,8 +28,10 @@ class SecurityConfig(private val customUserDetailsService: CustomUserDetailsServ
             .cors().and().csrf().disable()
             .authorizeHttpRequests { auth ->
                 auth
-                    .requestMatchers("/**").permitAll()
-                    .anyRequest().authenticated()
+                    .requestMatchers(HttpMethod.POST, "/cards/**", "/products/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.PUT, "/cards/**", "/products/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.DELETE, "/cards/**", "/products/**").hasRole("ADMIN")
+                    .anyRequest().permitAll()
             }
             .httpBasic()
 

@@ -25,9 +25,15 @@ class UserService(private val userRepository: UserRepository, private val passwo
         }
     
         val encryptedPassword = passwordEncoder.encode(user.password)
-        val userWithEncryptedPassword = user.copy(password = encryptedPassword, id = UUID.randomUUID().toString())
+        val defaultRoles = listOf("ROLE_USER")
+
+        val userWithDefaults = user.copy(
+            id = UUID.randomUUID().toString(),
+            password = encryptedPassword,
+            roles = defaultRoles
+        )
     
-        return userRepository.save(userWithEncryptedPassword)
+        return userRepository.save(userWithDefaults)
     }
     
     fun updateUser(id: String, user: User): User {
