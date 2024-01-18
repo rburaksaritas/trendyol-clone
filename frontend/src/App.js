@@ -8,6 +8,7 @@ import Products from './components/Products';
 import FeaturedProducts from './components/FeaturedProducts';
 import Login from './components/Login';
 import Register from './components/Register';
+import Product from './components/Product';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(!!localStorage.getItem('token'));
@@ -108,6 +109,7 @@ function App() {
                <Route path="search/:category" element={<Products />} />
                <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess}/>} />
                <Route path="/register" element={<Register />} />
+               <Route path="/products/:id" element={<Product />} />
             </Routes>
           </div>
         </header>
