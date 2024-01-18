@@ -29,10 +29,15 @@ class AuthenticationService(private val userRepository: UserRepository, private 
         return passwordEncoder.matches(rawPassword, encodedPassword)
     }
 
-    fun login(username: String, password: String): String? {
+    fun login(username: String, password: String): Map<String, String>? {
         val user = userService.findUserByUsername(username)
         if (user != null && checkPassword(password, user.password)) {
-            return Base64.getEncoder().encodeToString("$username:$password".toByteArray())
+            val token = Base64.getEncoder().encodeToString("$username:$password".toByteArray())
+            return mapOf(
+                "username" to username,
+                "userId" to user.id.toString(),
+                "token" to token
+            )
         }
         return null
     }

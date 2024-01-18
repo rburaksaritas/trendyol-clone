@@ -35,9 +35,9 @@ class AuthenticationController(private val authenticationService: Authentication
             return ResponseEntity.badRequest().body("Username and password must be provided")
         }
 
-        val token = authenticationService.login(username, password)
-        return if (token != null) {
-            ResponseEntity.ok().body(mapOf("token" to token))
+        val loginResponse = authenticationService.login(username, password)
+        return if (loginResponse != null) {
+            ResponseEntity.ok(loginResponse)
         } else {
             ResponseEntity.status(401).body("Invalid username or password")
         }
