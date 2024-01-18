@@ -3,10 +3,10 @@ import { Link, BrowserRouter as Router, Routes, Route, useNavigate } from 'react
 import './Navbar.css';
 import logo_main from '../assets/logo_main.svg';
 
-const Navbar = ({ isLoggedIn, cartItemCount }) => {
+const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [isAccountDropdownVisible, setIsAccountDropdownVisible] = useState(false);
-    
+
     const navigate = useNavigate();
     const handleSearchChange = (event) => {
         setSearchTerm(event.target.value);
@@ -16,10 +16,24 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
         event.preventDefault();
         console.log('Searching for:', searchTerm);
         navigate(`/search/${searchTerm}`);
-        setSearchTerm(""); 
+        setSearchTerm("");
         // Implement your search logic here
     };
-    
+
+    const handleLogoutClick = () => {
+        onLogout();
+        localStorage.removeItem('token');
+        localStorage.removeItem('userid');
+        localStorage.removeItem('username');
+    };
+
+    const navigateTo = (path) => {
+        if (!isLoggedIn) {
+            navigate('/login');
+        } else {
+            navigate(path);
+        }
+    };
 
     return (
         <nav className="navbar">
@@ -49,41 +63,40 @@ const Navbar = ({ isLoggedIn, cartItemCount }) => {
                     onMouseEnter={() => setIsAccountDropdownVisible(true)}
                     onMouseLeave={() => setIsAccountDropdownVisible(false)}
                 >
-                    <a href={isLoggedIn ? "/account" : "/login"}>
+                    <Link to={isLoggedIn ? "/profile" : "/login"}>
                         <i className="fas fa-user"></i> {isLoggedIn ? "Hesabım" : "Giriş Yap"}
-                    </a>
+                    </Link>
                     {isAccountDropdownVisible && (
                         <div className="dropdown">
                             {isLoggedIn ? (
                                 // Dropdown content for logged-in users
                                 <>
-                                    <a href="/profile"><i className="fas fa-user"></i> Profilim</a>
-                                    <a href="/orders"><i className="fas fa-box"></i> Siparişlerim</a>
-                                    <a href="/logout"><i className="fas fa-right-from-bracket"></i> Çıkış Yap</a>
+                                    <Link to="/profile"><i className="fas fa-user"></i> Profilim</Link>
+                                    <Link to="/orders"><i className="fas fa-box"></i> Siparişlerim</Link>
+                                    <Link to="/login" onClick={ handleLogoutClick }><i className="fas fa-right-from-bracket"></i> Çıkış Yap</Link>
                                 </>
                             ) : (
                                 // Dropdown content for guests
                                 <>
-                                    <a href="/login">Giriş Yap</a>
-                                    <a href="/signup">Üye Ol</a>
+                                    <Link to="/login">Giriş Yap</Link>
+                                    <Link to="/register">Üye Ol</Link>
                                 </>
                             )}
                         </div>
                     )}
                 </div>
 
-                <a href="/favorites">
+                <Link to="/favorites" onClick={(e) => { e.preventDefault(); navigateTo('/favorites'); }}>
                     <i className="fas fa-heart"></i> Favorilerim
-                </a>
+                </Link>
                 <div className="cart-item-count">
-                    <a href="/cart">
+                    <Link to="/cart" onClick={(e) => { e.preventDefault(); navigateTo('/cart'); }}>
                         <i className="fas fa-shopping-cart"></i> Sepetim
-                    </a>
+                    </Link>
                     {cartItemCount > 0 && (
-                        <span className="cart-count">{cartItemCount}</span> // This span will display the cart count
+                        <span className="cart-count">{cartItemCount}</span>
                     )}
                 </div>
-
 
             </div>
         </nav>

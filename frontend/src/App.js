@@ -6,13 +6,23 @@ import Categories from './components/Categories';
 import Cards from './components/Cards'
 import Products from './components/Products';
 import FeaturedProducts from './components/FeaturedProducts';
+import Login from './components/Login';
+import Register from './components/Register';
 
 function App() {
-  const isLoggedIn = false; // This would be determined by authentication logic
-  const cartItemCount = 1; // This would be determined by the state of the cart
+  const [isLoggedIn, setIsLoggedIn] = useState(!!localStorage.getItem('token'));
+  const [cartItemCount, setCartItemCount] = useState(0); // This would be determined by the state of the cart
 
   const [cards, setCards] = useState([]);
   const [products, setProducts] = useState([]);
+
+  const handleLoginSuccess = () => {
+    setIsLoggedIn(true);
+  };
+
+  const handleLogout = () => {
+    setIsLoggedIn(false);
+  };
 
   useEffect(() => {
     const fetchCards = async () => {
@@ -55,7 +65,7 @@ function App() {
         <header className="App-header">
           <div className='container'>
             <NavContact></NavContact>
-            <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} />
+            <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} onLogout={handleLogout}/>
             <Categories></Categories>
             <Routes>
               <Route index element={
@@ -68,6 +78,8 @@ function App() {
                 </>
               } />
                <Route path="search/:category" element={<Products />} />
+               <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess}/>} />
+               <Route path="/register" element={<Register />} />
             </Routes>
           </div>
         </header>
