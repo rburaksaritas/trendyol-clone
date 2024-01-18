@@ -15,6 +15,8 @@ function App() {
 
   const [cards, setCards] = useState([]);
   const [products, setProducts] = useState([]);
+  const [mostSoldProducts, setMostSoldProducts] = useState([]);
+  const [mostLikedProducts, setMostLikedProducts] = useState([]);
 
   const handleLoginSuccess = () => {
     setIsLoggedIn(true);
@@ -51,12 +53,38 @@ function App() {
       }
     };
 
+    const fetchMostSoldProducts = async () => {
+      try {
+        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=soldCount&direction=DESC&size=10`);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        setMostSoldProducts(data);
+      } catch (error) {
+        console.error('Fetch error:', error);
+      }
+    };
+
+    const fetchMostLikedProducts = async () => {
+      try {
+        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=reviewsCount&direction=DESC&size=10&page=3`);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        setMostLikedProducts(data);
+      } catch (error) {
+        console.error('Fetch error:', error);
+      }
+    };
+
     fetchCards();
     fetchProducts();
+    fetchMostSoldProducts();
+    fetchMostLikedProducts();
   }, []);
 
-  const mostSelledProducts = products.slice(0,9);
-  const mostLikedProducts = products.slice(9,18);
   console.log(products.length);
   console.log(products.slice(18,60).length)
   return (
@@ -71,7 +99,7 @@ function App() {
               <Route index element={
                 <>
                   <Cards cards={cards.slice(0,6)} />
-                  <FeaturedProducts title="En Çok Satanlar" products={mostSelledProducts} /> {/* TODO: fetch most selled products*/}
+                  <FeaturedProducts title="En Çok Satanlar" products={mostSoldProducts} />
                   <Cards cards={cards.slice(6,9)} />
                   <FeaturedProducts title="En Beğenilenler" products={mostLikedProducts} /> {/* TODO: fetch most selled products*/}
                   <Products products={products.slice(18,60)}></Products>
