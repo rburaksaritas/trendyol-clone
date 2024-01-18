@@ -14,12 +14,10 @@ class AuthenticationService(private val userRepository: UserRepository, private 
         userService.findUserByUsername(username)?.let {
             throw Exception("Username '$username' is already taken")
         }
-
-        val encryptedPassword = passwordEncoder.encode(password)
         
         val newUser = User(
             username = username,
-            password = encryptedPassword,
+            password = password,
             email = email,
             roles = listOf("ROLE_USER")
         )
