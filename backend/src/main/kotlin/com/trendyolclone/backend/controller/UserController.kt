@@ -19,6 +19,11 @@ class UserController(private val userService: UserService) {
         userService.findUserById(id)?.let { ResponseEntity.ok(it) }
             ?: ResponseEntity(HttpStatus.NOT_FOUND)
 
+    @GetMapping("/username/{username}")
+    fun getUserByUsername(@PathVariable username: String): ResponseEntity<User> =
+        userService.findUserByUsername(username)?.let { ResponseEntity.ok(it) }
+            ?: ResponseEntity(HttpStatus.NOT_FOUND)
+
     @PostMapping
     fun createUser(@RequestBody user: User): ResponseEntity<User> =
         ResponseEntity.ok(userService.createUser(user))
@@ -39,4 +44,9 @@ class UserController(private val userService: UserService) {
         } catch (e: Exception) {
             ResponseEntity(HttpStatus.NOT_FOUND)
         }
+
+    @ExceptionHandler(Exception::class)
+    fun handleException(e: Exception): ResponseEntity<String> {
+        return ResponseEntity(e.message, HttpStatus.BAD_REQUEST)
+    }
 }
