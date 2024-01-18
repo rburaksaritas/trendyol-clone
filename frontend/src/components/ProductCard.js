@@ -1,25 +1,21 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './ProductCard.css'; // Your CSS file
 
 const ProductCard = ({ product }) => {
     const { imageUrl, brand, name, reviewsCount, rating, price } = product;
-
-    //   const mockProduct = {
-    //     imageUrl: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty622/product/media/images/20221205/23/227394850/249052532/1/1_org_zoom.jpg",
-    //     brand: "Armonika",
-    //     name: "Oversize Uzun Basic Gömlek - Beyaz",
-    //     reviewsCount: 11802,
-    //     rating: 4.5,
-    //     price: 169,
-    //     isFavorite: false
-    //   };
-    // Local state for isFavorite
     const [isFavorite, setIsFavorite] = useState(false);
+    const navigate = useNavigate();
 
     // Function to toggle the favorite status
-    const toggleFavorite = () => {
+    const toggleFavorite = (e) => {
+        e.stopPropagation(); // Prevent the navigation when clicking on the favorite button
         setIsFavorite(!isFavorite);
     };
+
+    const handleCardClick = () => {
+        navigate(`/products/${product.id}`, { state: { product } });
+      };
 
     // Generate stars based on the rating
     const renderStars = () => {
@@ -37,7 +33,7 @@ const ProductCard = ({ product }) => {
     };
 
     return (
-        <div className="product-card">
+        <div className="product-card" onClick={handleCardClick}>
             <div className="product-image">
                 <img src={imageUrl} alt={`${brand} ${name}`} />
             </div>
