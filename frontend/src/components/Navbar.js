@@ -86,7 +86,7 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
                     )}
                 </div>
 
-                <Link to="/favorites" onClick={(e) => { e.preventDefault(); navigateTo('/favorites'); }}>
+                <Link to="/favorites" onClick={(e) => { e.preventDefault(); navigate('/favorites'); }}>
                     <i className="fas fa-heart"></i> Favorilerim
                 </Link>
                 <div className="cart-item-count">

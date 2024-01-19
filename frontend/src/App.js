@@ -9,6 +9,7 @@ import FeaturedProducts from './components/FeaturedProducts';
 import Login from './components/Login';
 import Register from './components/Register';
 import Product from './components/Product';
+import Favorites from './components/Favorites';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(!!localStorage.getItem('token'));
@@ -110,6 +111,7 @@ function App() {
                <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess}/>} />
                <Route path="/register" element={<Register />} />
                <Route path="/products/:id" element={<Product />} />
+               <Route path="/favorites" element={<Favorites />} />
             </Routes>
           </div>
         </header>

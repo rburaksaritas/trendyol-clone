@@ -1,0 +1,33 @@
+:root {
+    --primary-orange: #f27a1a;
+    --primary-black: #333;
+}
+
+.favorites {
+    margin: 20px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: var(--primary-black);
+}
+
+.favorites h3 {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.favorites-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.favorites-container .product-card {
+    flex: 1 1 300px; 
+    max-width: 25%;
+}
+
+.favorites-container .product-title {
+    font-size: medium;
+}
