@@ -15,7 +15,7 @@ const Categories = () => {
   const categories = [
     { name: 'Kadın', isNew: false },
     { name: 'Erkek', isNew: false },
-    { name: 'Anne & Çocuk', isNew: false },
+    { name: 'Anne Çocuk', isNew: false },
     { name: 'Ev & Yaşam', isNew: false },
     { name: 'Süpermarket', isNew: false },
     { name: 'Kozmetik', isNew: false },

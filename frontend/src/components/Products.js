@@ -5,6 +5,7 @@ import './Products.css';
 
 const Products = () => {
   const [products, setProducts] = useState([]);
+  const [displayCount, setDisplayCount] = useState(40); // Initial number of products to display
   const { category } = useParams();
 
   useEffect(() => {
@@ -12,9 +13,9 @@ const Products = () => {
       try {
         let url = `${process.env.REACT_APP_BACKEND_URL}/products/search?sortBy=reviewsCount&direction=DESC`;
         if (category) {
-          if (category === "çok satanlar"){
+          if (category === "çok satanlar") {
             url += `&size=200`;   
-          } else if (category === "flaş ürünler"){
+          } else if (category === "flaş ürünler") {
             url += `&size=62&searchQuery=yeni`;  
           } else {
             url += `&size=10000&searchQuery=${category}`;
@@ -32,18 +33,26 @@ const Products = () => {
         console.error('Fetch error:', error);
       }
     };
-
+    
+    setDisplayCount(40);
     fetchProducts();
   }, [category]);
+
+  const loadMoreProducts = () => {
+    setDisplayCount(currentCount => currentCount + 40); // Load 20 more products
+  };
 
   return (
     <div className="products">
       <h3>{category ? `"${category}" için ${products.length} sonuç` : ''}</h3>
       <div className="products-container">
-        {products.map(product => (
+        {products.slice(0, displayCount).map(product => (
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
+      {displayCount < products.length && (
+        <button className="load-more-btn" onClick={loadMoreProducts}>Daha Fazla</button>
+      )}
     </div>
   );
 };

@@ -31,3 +31,22 @@
 .products-container .product-title {
     font-size: medium;
 }
+
+.load-more-btn {
+    background-color: var(--primary-orange);
+    color: white;
+    border: none;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-right: 1rem;
+    transition: opacity 0.3s ease;
+    width: 10%;
+    border-radius: 5px;
+    align-self: center;
+}
+
+.load-more-btn:hover {
+    opacity: 80%;
+}
+
