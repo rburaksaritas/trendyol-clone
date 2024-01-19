@@ -7,28 +7,61 @@ const ProductCard = ({ product }) => {
     const navigate = useNavigate();
 
     const getInitialFavoriteState = () => {
-        const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+        const favorites = JSON.parse(localStorage.getItem('userFavorites')) || JSON.parse(localStorage.getItem('favorites')) || [];
         return favorites.includes(id);
     };
 
     const [isFavorite, setIsFavorite] = useState(getInitialFavoriteState);
 
-    // Function to toggle the favorite status
-    const toggleFavorite = (e) => {
-        e.stopPropagation(); // Prevent the navigation when clicking on the favorite button
+    const toggleFavorite = async (e) => {
+        e.stopPropagation();
         const newFavoriteStatus = !isFavorite;
-        setIsFavorite(newFavoriteStatus);
-        updateLocalStorage(newFavoriteStatus);
-    };
-
-    const updateLocalStorage = (newFavoriteStatus) => {
-        const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-        if (newFavoriteStatus) {
-            localStorage.setItem('favorites', JSON.stringify([...favorites, id]));
+    
+        const userId = localStorage.getItem('userid');
+        const token = localStorage.getItem('token');
+    
+        if (userId && token) {
+            try {
+                const method = newFavoriteStatus ? 'POST' : 'DELETE';
+                const endpoint = newFavoriteStatus ? `/${userId}` : `/${userId}/${id}`;
+                const headers = {
+                    'Authorization': `Basic ${token}`,
+                };
+                if (newFavoriteStatus) {
+                    headers['Content-Type'] = 'application/json';
+                }
+    
+                console.log(`Sending product ID: ${id}`);
+    
+                const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/favorites${endpoint}`, {
+                    method: method,
+                    headers: headers,
+                    body: newFavoriteStatus ? id : null,
+                });
+    
+                if (response.ok) {
+                    setIsFavorite(newFavoriteStatus);
+                    updateLocalStorage('userFavorites', newFavoriteStatus);
+                }
+            } catch (error) {
+                console.error('Error updating favorites:', error);
+            }
         } else {
-            localStorage.setItem('favorites', JSON.stringify(favorites.filter(favId => favId !== id)));
+            setIsFavorite(newFavoriteStatus);
+            updateLocalStorage('favorites', newFavoriteStatus);
         }
     };
+    
+    
+
+    const updateLocalStorage = (key, newFavoriteStatus) => {
+        const favorites = JSON.parse(localStorage.getItem(key)) || [];
+        if (newFavoriteStatus) {
+            localStorage.setItem(key, JSON.stringify([...favorites, id]));
+        } else {
+            localStorage.setItem(key, JSON.stringify(favorites.filter(favId => favId !== id)));
+        }
+    }
 
     const handleCardClick = () => {
         navigate(`/products/${product.id}`, { state: { product } });
