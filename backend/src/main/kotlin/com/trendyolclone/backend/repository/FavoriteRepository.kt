@@ -1,13 +1,12 @@
 package com.trendyolclone.backend.repository
 
 import org.springframework.data.couchbase.repository.Collection
-import com.trendyolclone.backend.model.User
+import com.trendyolclone.backend.model.Favorite
 import org.springframework.data.repository.CrudRepository
 import org.springframework.stereotype.Repository
 
 @Repository
-@Collection("users")
-interface UserRepository : CrudRepository<User, String> {
-    fun findByUsername(username: String): User?
-    fun findByEmail(email: String): User?
+@Collection("favorites")
+interface FavoriteRepository : CrudRepository<Favorite, String> {
+    fun findByUserId(userId: String): Favorite?
 }
