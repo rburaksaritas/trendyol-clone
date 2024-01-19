@@ -45,7 +45,7 @@ const ProductCard = ({ product }) => {
                 </div>
                 <div className="product-price">{price} ₺</div>
             </div>
-            <button className={`favorite-button ${isFavorite ? 'is-favorite' : ''}`} onClick={() => { toggleFavorite() }}>
+            <button className={`favorite-button ${isFavorite ? 'is-favorite' : ''}`} onClick={(e) => { toggleFavorite(e) }}>
                 <i className={`${isFavorite ? 'fas' : 'far'} fa-heart`}></i> {/* This will toggle between full and empty heart */}
             </button>
         </div>
