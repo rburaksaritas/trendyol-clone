@@ -15,12 +15,12 @@ const Products = () => {
           if (category === "çok satanlar"){
             url += `&size=200`;   
           } else if (category === "flaş ürünler"){
-            url += `&&size=62&searchQuery=yeni`;  
+            url += `&size=62&searchQuery=yeni`;  
           } else {
-            url += `&&size=10000&searchQuery=${category}`;
+            url += `&size=10000&searchQuery=${category}`;
           }
         } else {
-          url += `&size=62`;
+          url += `&size=62&page=1`;
         }
         const response = await fetch(url);
         if (!response.ok) {

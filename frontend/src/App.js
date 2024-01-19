@@ -103,7 +103,7 @@ function App() {
                   <FeaturedProducts title="En Çok Satanlar" products={mostSoldProducts} />
                   <Cards cards={cards.slice(6,9)} />
                   <FeaturedProducts title="En Beğenilenler" products={mostLikedProducts} /> {/* TODO: fetch most selled products*/}
-                  <Products products={products.slice(18,60)}></Products>
+                  <Products></Products>
                 </>
               } />
                <Route path="search/:category" element={<Products />} />
