@@ -31,6 +31,10 @@ const Login = ({ onLoginSuccess }) => {
             const userId = data.userId;
             const userName = data.username;
             setMessage('Giriş Başarılı. Yönlendiriliyorsunuz...');
+            localStorage.removeItem('token');
+            localStorage.removeItem('userid');
+            localStorage.removeItem('username');
+            localStorage.removeItem('favorites');
             localStorage.setItem('token', token);
             localStorage.setItem('userid', userId);
             localStorage.setItem('username', userName);

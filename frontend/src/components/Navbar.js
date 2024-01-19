@@ -22,6 +22,7 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
 
     const handleLogoutClick = () => {
         onLogout();
+        localStorage.removeItem('favorites');
         localStorage.removeItem('token');
         localStorage.removeItem('userid');
         localStorage.removeItem('username');
