@@ -11,6 +11,7 @@ const Login = ({ onLoginSuccess }) => {
     const handleLogin = async (event) => {
         event.preventDefault();
         setMessage('');
+
         try {
             const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/auth/login`, {
                 method: 'POST',
@@ -34,6 +35,19 @@ const Login = ({ onLoginSuccess }) => {
             localStorage.setItem('token', token);
             localStorage.setItem('userid', userId);
             localStorage.setItem('username', userName);
+
+            // Fetch favorites from the backend
+            const favoritesResponse = await fetch(`${process.env.REACT_APP_BACKEND_URL}/favorites/${userId}`, {
+                headers: {
+                    'Authorization': `Basic ${localStorage.getItem('token')}`,
+                },
+            });
+
+            if (favoritesResponse.ok) {
+                const favoritesData = await favoritesResponse.json();
+                localStorage.setItem('userFavorites', JSON.stringify(favoritesData.productIds));
+            }
+
             setTimeout(() => {
                 onLoginSuccess();
                 navigate('/');

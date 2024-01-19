@@ -1,33 +1,79 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './ProductCard.css'; // Your CSS file
+import './ProductCard.css';
 
 const ProductCard = ({ product }) => {
-    const { imageUrl, brand, name, reviewsCount, rating, price } = product;
-    const [isFavorite, setIsFavorite] = useState(false);
+    const { id, imageUrl, brand, name, reviewsCount, rating, price } = product;
     const navigate = useNavigate();
 
-    // Function to toggle the favorite status
-    const toggleFavorite = (e) => {
-        e.stopPropagation(); // Prevent the navigation when clicking on the favorite button
-        setIsFavorite(!isFavorite);
+    const getInitialFavoriteState = () => {
+        const favorites = JSON.parse(localStorage.getItem('userFavorites')) || JSON.parse(localStorage.getItem('favorites')) || [];
+        return favorites.includes(id);
     };
+
+    const [isFavorite, setIsFavorite] = useState(getInitialFavoriteState);
+
+    const toggleFavorite = async (e) => {
+        e.stopPropagation();
+        const newFavoriteStatus = !isFavorite;
+    
+        const userId = localStorage.getItem('userid');
+        const token = localStorage.getItem('token');
+    
+        if (userId && token) {
+            try {
+                const method = newFavoriteStatus ? 'POST' : 'DELETE';
+                const endpoint = newFavoriteStatus ? `/${userId}` : `/${userId}/${id}`;
+                const headers = {
+                    'Authorization': `Basic ${token}`,
+                };
+                if (newFavoriteStatus) {
+                    headers['Content-Type'] = 'application/json';
+                }
+    
+                console.log(`Sending product ID: ${id}`);
+    
+                const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/favorites${endpoint}`, {
+                    method: method,
+                    headers: headers,
+                    body: newFavoriteStatus ? id : null,
+                });
+    
+                if (response.ok) {
+                    setIsFavorite(newFavoriteStatus);
+                    updateLocalStorage('userFavorites', newFavoriteStatus);
+                }
+            } catch (error) {
+                console.error('Error updating favorites:', error);
+            }
+        } else {
+            setIsFavorite(newFavoriteStatus);
+            updateLocalStorage('favorites', newFavoriteStatus);
+        }
+    };
+    
+    
+
+    const updateLocalStorage = (key, newFavoriteStatus) => {
+        const favorites = JSON.parse(localStorage.getItem(key)) || [];
+        if (newFavoriteStatus) {
+            localStorage.setItem(key, JSON.stringify([...favorites, id]));
+        } else {
+            localStorage.setItem(key, JSON.stringify(favorites.filter(favId => favId !== id)));
+        }
+    }
 
     const handleCardClick = () => {
         navigate(`/products/${product.id}`, { state: { product } });
-      };
+    };
 
     // Generate stars based on the rating
     const renderStars = () => {
         let stars = [];
         for (let i = 0; i < 5; i++) {
-            if (i < Math.floor(rating)) {
-                stars.push(<i key={i} className="fas fa-star" style={{ color: "gold" }}></i>);
-            } else if (i < Math.ceil(rating)) {
-                stars.push(<i key={i} className="fas fa-star-half-alt" style={{ color: "gold" }}></i>);
-            } else {
-                stars.push(<i key={i} className="far fa-star" style={{ color: "gold" }}></i>);
-            }
+            stars.push(
+                <i key={i} className={`${i < Math.floor(rating) ? 'fas' : i < Math.ceil(rating) ? 'fas fa-star-half-alt' : 'far'} fa-star`} style={{ color: "gold" }}></i>
+            );
         }
         return stars;
     };
@@ -45,8 +91,8 @@ const ProductCard = ({ product }) => {
                 </div>
                 <div className="product-price">{price} ₺</div>
             </div>
-            <button className={`favorite-button ${isFavorite ? 'is-favorite' : ''}`} onClick={(e) => { toggleFavorite(e) }}>
-                <i className={`${isFavorite ? 'fas' : 'far'} fa-heart`}></i> {/* This will toggle between full and empty heart */}
+            <button className={`favorite-button ${isFavorite ? 'is-favorite' : ''}`} onClick={toggleFavorite}>
+                <i className={`${isFavorite ? 'fas' : 'far'} fa-heart`}></i>
             </button>
         </div>
     );

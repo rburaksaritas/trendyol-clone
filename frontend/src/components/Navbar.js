@@ -8,16 +8,15 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
     const [isAccountDropdownVisible, setIsAccountDropdownVisible] = useState(false);
 
     const navigate = useNavigate();
+
     const handleSearchChange = (event) => {
         setSearchTerm(event.target.value);
     };
 
     const handleSearchSubmit = (event) => {
         event.preventDefault();
-        console.log('Searching for:', searchTerm);
         navigate(`/search/${searchTerm}`);
         setSearchTerm("");
-        // Implement your search logic here
     };
 
     const handleLogoutClick = () => {
@@ -25,6 +24,7 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
         localStorage.removeItem('token');
         localStorage.removeItem('userid');
         localStorage.removeItem('username');
+        localStorage.removeItem('userFavorites');
     };
 
     const navigateTo = (path) => {

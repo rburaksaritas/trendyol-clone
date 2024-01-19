@@ -1,10 +1,62 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import './Product.css';
 
 const Product = () => {
     const location = useLocation();
     const { product } = location.state;
+
+    const getInitialFavoriteState = () => {
+        const favorites = JSON.parse(localStorage.getItem('userFavorites')) || JSON.parse(localStorage.getItem('favorites')) || [];
+        return favorites.includes(product.id);
+    };
+
+    const [isFavorite, setIsFavorite] = useState(getInitialFavoriteState());
+
+    const toggleFavorite = async () => {
+        const newFavoriteStatus = !isFavorite;
+
+        const userId = localStorage.getItem('userid');
+        const token = localStorage.getItem('token');
+
+        if (userId && token) {
+            try {
+                const method = newFavoriteStatus ? 'POST' : 'DELETE';
+                const endpoint = newFavoriteStatus ? `/${userId}` : `/${userId}/${product.id}`;
+                const headers = {
+                    'Authorization': `Basic ${token}`,
+                };
+                if (newFavoriteStatus) {
+                    headers['Content-Type'] = 'application/json';
+                }
+
+                const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/favorites${endpoint}`, {
+                    method: method,
+                    headers: headers,
+                    body: newFavoriteStatus ? product.id : null,
+                });
+
+                if (response.ok) {
+                    setIsFavorite(newFavoriteStatus);
+                    updateLocalStorage('userFavorites', newFavoriteStatus);
+                }
+            } catch (error) {
+                console.error('Error updating favorites:', error);
+            }
+        } else {
+            setIsFavorite(newFavoriteStatus);
+            updateLocalStorage('favorites', newFavoriteStatus);
+        }
+    };
+
+    const updateLocalStorage = (key, newFavoriteStatus) => {
+        const favorites = JSON.parse(localStorage.getItem(key)) || [];
+        if (newFavoriteStatus) {
+            localStorage.setItem(key, JSON.stringify([...favorites, product.id]));
+        } else {
+            localStorage.setItem(key, JSON.stringify(favorites.filter(favId => favId !== product.id)));
+        }
+    }
 
     const calculateTimeRemainingForFastShipping = () => {
         const now = new Date();
@@ -57,8 +109,8 @@ const Product = () => {
                         <button className="add-to-cart-btn">
                             <i className="fas fa-shopping-cart"></i> Sepete Ekle
                         </button>
-                        <button className="favorite-btn">
-                            <i className={`fas fa-heart ${product.isFavorite ? 'active' : ''}`}></i>
+                        <button className={`favorite-btn ${isFavorite ? 'active' : ''}`} onClick={toggleFavorite}>
+                            <i className={`fas fa-heart`}></i>
                         </button>
                     </div>
                     <div className="product-fast-shipping">
