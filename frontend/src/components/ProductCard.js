@@ -6,12 +6,13 @@ const ProductCard = ({ product }) => {
     const { id, imageUrl, brand, name, reviewsCount, rating, price } = product;
     const navigate = useNavigate();
 
-    const getInitialFavoriteState = () => {
-        const favorites = JSON.parse(localStorage.getItem('userFavorites')) || JSON.parse(localStorage.getItem('favorites')) || [];
-        return favorites.includes(id);
-    };
+    const [isFavorite, setIsFavorite] = useState(false);
 
-    const [isFavorite, setIsFavorite] = useState(getInitialFavoriteState);
+    useEffect(() => {
+        const favoritesKey = localStorage.getItem('userid') ? 'userFavorites' : 'favorites';
+        const favorites = JSON.parse(localStorage.getItem(favoritesKey)) || [];
+        setIsFavorite(favorites.includes(id));
+    }, [id]);
 
     const toggleFavorite = async (e) => {
         e.stopPropagation();
