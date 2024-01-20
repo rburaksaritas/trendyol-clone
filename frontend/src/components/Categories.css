@@ -12,7 +12,7 @@
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     box-sizing: border-box; /* Includes padding in width calculation */
     gap: 10px; /* Add some space between items */
-    padding: 20px 100px;
+    padding: 0px 100px;
   }
   
   .category-item {
