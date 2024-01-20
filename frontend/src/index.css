@@ -18,3 +18,11 @@ code {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.container-top {
+  margin-bottom: 1rem;
+}
+
+.footer {
+ margin-top: 1rem; 
+}
