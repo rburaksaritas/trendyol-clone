@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import './Product.css';
 
-const Product = () => {
+const Product = ({ updateCartItemCount }) => {
     const location = useLocation();
     const { product } = location.state;
 
@@ -92,6 +92,66 @@ const Product = () => {
         return stars;
     };
 
+    const [showSuccessTick, setShowSuccessTick] = useState(false);
+
+    // Function to add product to basket
+    const addToBasket = async () => {
+        const userId = localStorage.getItem('userid');
+        const token = localStorage.getItem('token');
+
+        // Prepare the product to be added to the basket
+        const basketItem = {
+            productId: product.id,
+            quantity: 1
+        };
+
+        if (userId && token) {
+            // User is logged in, add to basket in backend
+            try {
+                const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/basket/${userId}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Basic ${token}`
+                    },
+                    body: JSON.stringify(basketItem)
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to add item to basket');
+                }
+
+                setShowSuccessTick(true);
+                setTimeout(() => {
+                    setShowSuccessTick(false);
+                }, 1000); // Show the tick for 1 second
+                updateCartItemCount();
+
+            } catch (error) {
+                console.error('Error adding item to basket:', error);
+            }
+        } else {
+            // User is not logged in, add to basket in local storage
+            const basket = JSON.parse(localStorage.getItem('basket')) || [];
+            const existingItemIndex = basket.findIndex(item => item.productId === product.id);
+
+            if (existingItemIndex !== -1) {
+                // If product is already in basket, increase quantity
+                basket[existingItemIndex].quantity += 1;
+            } else {
+                // If product is not in basket, add it
+                basket.push(basketItem);
+            }
+
+            localStorage.setItem('basket', JSON.stringify(basket));
+            setShowSuccessTick(true);
+            setTimeout(() => {
+                setShowSuccessTick(false);
+            }, 1000); 
+            updateCartItemCount();
+        }
+    };
+
     return (
         <div className="product-page">
             <div className="product-page-top">
@@ -106,9 +166,15 @@ const Product = () => {
                     </div>
                     <div className="product-price">{product.price} TL</div>
                     <div className="product-actions">
-                        <button className="add-to-cart-btn">
-                            <i className="fas fa-shopping-cart"></i> Sepete Ekle
-                        </button>
+                        {showSuccessTick ? (
+                            <button className="add-to-cart-btn">
+                                <i className="fas fa-check" style={{ color: 'white' }}></i>
+                            </button>
+                        ) : (
+                            <button className="add-to-cart-btn" onClick={addToBasket}>
+                                <i className="fas fa-shopping-cart"></i> Sepete Ekle
+                            </button>
+                        )}
                         <button className={`favorite-btn ${isFavorite ? 'active' : ''}`} onClick={toggleFavorite}>
                             <i className={`fas fa-heart`}></i>
                         </button>
