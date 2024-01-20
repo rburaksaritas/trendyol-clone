@@ -14,7 +14,7 @@
     height: 30px;
     margin-right: 20px;
     cursor: pointer;
-  }
+}
 
 .footer-left {
     display: flex;
@@ -37,8 +37,18 @@
     text-decoration: none;
     transition: color 0.2s ease-in-out;
     font-size: smaller;
-  }
-  
-  .footer-right :hover {
+}
+
+.footer-right :hover {
     color: var(--primary-orange);
-  }
+}
+
+.footer-bottom {
+    border-top: 1px solid #444;
+    color: #888;
+    margin-top: 40px;
+    padding-top: 20px;
+    font-size: small;
+    text-align: justify;
+    text-justify: inter-word;
+}
