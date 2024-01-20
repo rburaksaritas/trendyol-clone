@@ -3,7 +3,7 @@ import { Link, BrowserRouter as Router, Routes, Route, useNavigate } from 'react
 import './Navbar.css';
 import logo_main from '../assets/logo_main.svg';
 
-const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
+const Navbar = ({ isLoggedIn, cartItemCount, onLogout, updateCartItemCount }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [isAccountDropdownVisible, setIsAccountDropdownVisible] = useState(false);
 
@@ -24,7 +24,7 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout }) => {
         localStorage.removeItem('token');
         localStorage.removeItem('userid');
         localStorage.removeItem('username');
-        localStorage.removeItem('userFavorites');
+        updateCartItemCount();
     };
 
     const navigateTo = (path) => {

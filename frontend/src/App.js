@@ -85,33 +85,57 @@ function App() {
     fetchProducts();
     fetchMostSoldProducts();
     fetchMostLikedProducts();
+    updateCartItemCount();
   }, []);
 
-  console.log(products.length);
-  console.log(products.slice(18,60).length)
+  const updateCartItemCount = () => {
+    const userId = localStorage.getItem('userid');
+    const token = localStorage.getItem('token');
+
+    if (userId && token) {
+      // Fetch basket for logged-in user
+      fetch(`${process.env.REACT_APP_BACKEND_URL}/basket/${userId}`, {
+        headers: {
+          'Authorization': `Basic ${token}`
+        }
+      })
+        .then(response => response.json())
+        .then(basket => {
+          const itemCount = basket.items.reduce((sum, item) => sum + item.quantity, 0);
+          setCartItemCount(itemCount);
+        })
+        .catch(error => console.error('Error fetching basket:', error));
+    } else {
+      // Calculate count from local storage for logged-out user
+      const basket = JSON.parse(localStorage.getItem('basket')) || [];
+      const itemCount = basket.reduce((sum, item) => sum + item.quantity, 0);
+      setCartItemCount(itemCount);
+    }
+  };
+
   return (
     <Router>
       <div className="App">
         <header className="App-header">
           <div className='container'>
             <NavContact></NavContact>
-            <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} onLogout={handleLogout}/>
+            <Navbar isLoggedIn={isLoggedIn} cartItemCount={cartItemCount} onLogout={handleLogout} updateCartItemCount={updateCartItemCount} />
             <Categories></Categories>
             <Routes>
               <Route index element={
                 <>
-                  <Cards cards={cards.slice(0,6)} />
+                  <Cards cards={cards.slice(0, 6)} />
                   <FeaturedProducts title="En Çok Satanlar" products={mostSoldProducts} />
-                  <Cards cards={cards.slice(6,9)} />
+                  <Cards cards={cards.slice(6, 9)} />
                   <FeaturedProducts title="En Beğenilenler" products={mostLikedProducts} /> {/* TODO: fetch most selled products*/}
                   <Products></Products>
                 </>
               } />
-               <Route path="search/:category" element={<Products />} />
-               <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess}/>} />
-               <Route path="/register" element={<Register />} />
-               <Route path="/products/:id" element={<Product />} />
-               <Route path="/favorites" element={<Favorites />} />
+              <Route path="search/:category" element={<Products />} />
+              <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess} />} />
+              <Route path="/register" element={<Register />} />
+              <Route path="/products/:id" element={<Product updateCartItemCount={updateCartItemCount} />} />
+              <Route path="/favorites" element={<Favorites />} />
             </Routes>
           </div>
         </header>
