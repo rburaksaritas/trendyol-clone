@@ -11,6 +11,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Product from './components/Product';
 import Favorites from './components/Favorites';
+import Basket from './components/Basket';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(!!localStorage.getItem('token'));
@@ -124,6 +125,7 @@ function App() {
               <Route path="/register" element={<Register />} />
               <Route path="/products/:id" element={<Product updateCartItemCount={updateCartItemCount} />} />
               <Route path="/favorites" element={<Favorites />} />
+              <Route path="/basket" element={<Basket  updateCartItemCount={updateCartItemCount}/>} />
             </Routes>
             <Footer></Footer>
           </div>
