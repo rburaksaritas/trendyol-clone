@@ -23,6 +23,8 @@ Make sure to have Docker installed.
 <img width="1440" alt="Screenshot 2024-01-12 at 15 50 03" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/2bc74563-b4b1-4ddc-8262-d51b8c6d43d2">
 <img width="1440" alt="Screenshot 2024-01-21 at 00 56 16" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/b60466d0-f984-46e5-8bf0-57340fb8c3ea">
 <img width="1440" alt="Screenshot 2024-01-21 at 00 57 32" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/4c7c9189-6dcf-4fdd-8739-1f2b6d7dc0cf">
+<img width="1440" alt="Screenshot 2024-01-23 at 01 57 46" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/e9815c80-5e51-49e3-9cac-143d59f87b65">
+<img width="1440" alt="Screenshot 2024-01-23 at 01 56 55" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/5dd82ef0-255c-46a4-82e1-68550c9d946d">
 
 ## Disclaimer
 This application is created solely for educational and developmental purposes and does not have any affiliation, endorsement, or official connection with Trendyol or any of its subsidiaries or affiliates. The content and functionality here are intended to demonstrate the capabilities in programming and application development using technologies such as Kotlin, Spring Boot, Couchbase, and React. The official Trendyol website, which is the primary source of the data used in this application, can be found at www.trendyol.com. It is important to note that this project is an independent endeavor aimed at enhancing and showcasing the developer's skills and is not intended for commercial exploitation or as a substitute for the services provided by Trendyol.
