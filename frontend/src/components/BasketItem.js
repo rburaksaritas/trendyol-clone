@@ -30,7 +30,7 @@ const BasketItem = ({ item, onQuantityChange, onRemoveItem }) => {
                 <button onClick={() => handleQuantityChange(quantity + 1)}>+</button>
             </div>
             <div className="basket-item-price">
-                {productDetails.price * quantity} TL
+                {(productDetails.price * quantity).toFixed(2)} TL
             </div>
             <div className="basket-item-remove" onClick={handleRemoveClick}>
                 <i className="fas fa-trash"></i>

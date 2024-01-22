@@ -6,8 +6,8 @@ const Basket = ({ updateCartItemCount }) => {
     const [basketItems, setBasketItems] = useState([]);
     const [basketDetails, setBasketDetails] = useState([]);
     const [totalPrice, setTotalPrice] = useState(0);
-    const [shippingCost, setShippingCost] = useState(34.99); // Default shipping cost
-    const [discount, setDiscount] = useState(0); // Discount if any
+    const [shippingCost, setShippingCost] = useState(0);
+    const [discount, setDiscount] = useState(0);
     const userId = localStorage.getItem('userid');
     const token = localStorage.getItem('token');
     const basketUrl = userId && token ? `${process.env.REACT_APP_BACKEND_URL}/basket/${userId}` : null;
@@ -53,16 +53,20 @@ const Basket = ({ updateCartItemCount }) => {
             const details = await Promise.all(detailsPromises);
             setBasketDetails(details);
 
+            // Calculate total price
             const calculatedTotalPrice = details.reduce((total, item) => {
                 return total + (item.productDetails.price * item.quantity);
             }, 0);
 
-            let calculatedShippingCost = 34.99;
-            let calculatedDiscount = calculatedTotalPrice > 500 ? 34.99 : 0;
+            // Calculate shipping cost based on the number of items
+            let newShippingCost = basketData.length === 0 ? 0 : 34.99 + (basketData.length - 1) * 5;
+
+            // Calculate discount if the total price exceeds 500
+            let newDiscount = calculatedTotalPrice > 500 ? newShippingCost : 0;
 
             setTotalPrice(calculatedTotalPrice);
-            setShippingCost(calculatedShippingCost);
-            setDiscount(calculatedDiscount);
+            setShippingCost(newShippingCost); // Apply discount to shipping cost if applicable
+            setDiscount(newDiscount);
             setBasketItems(basketData);
             updateCartItemCount(basketData.length);
         };
@@ -89,9 +93,16 @@ const Basket = ({ updateCartItemCount }) => {
                 .catch((error) => console.error('Error updating basket item:', error));
         } else {
             // Update quantity in local storage for guests
-            const updatedBasket = basketItems.map((item) =>
-                item.productId === productId ? { ...item, quantity } : item
-            );
+            let updatedBasket;
+            if (quantity < 1) {
+                // Remove the item if the quantity is less than 1
+                updatedBasket = basketItems.filter((item) => item.productId !== productId);
+            } else {
+                // Otherwise, update the quantity
+                updatedBasket = basketItems.map((item) =>
+                    item.productId === productId ? { ...item, quantity } : item
+                );
+            }
             localStorage.setItem('basket', JSON.stringify(updatedBasket));
             setBasketItems(updatedBasket);
             updateCartItemCount(updatedBasket.length); // Update cart item count
