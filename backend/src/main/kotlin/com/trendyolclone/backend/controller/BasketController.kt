@@ -27,9 +27,22 @@ class BasketController(private val basketService: BasketService) {
             ?: ResponseEntity.notFound().build()
 
     @PutMapping("/{userId}/{productId}")
-    fun updateBasketItem(@PathVariable userId: String, @PathVariable productId: String, @RequestParam quantity: Int, @RequestParam isActive: Boolean): ResponseEntity<Basket> =
-        basketService.updateBasketItem(userId, productId, quantity, isActive)?.let { ResponseEntity.ok(it) }
+    fun updateBasketItem(
+        @PathVariable userId: String,
+        @PathVariable productId: String,
+        @RequestBody basketItem: Map<String, Any>
+    ): ResponseEntity<Basket> {
+        val quantity = (basketItem["quantity"] as? Number)?.toInt()
+        val isActive = basketItem["isActive"] as? Boolean
+    
+        if (quantity == null || isActive == null) {
+            return ResponseEntity.badRequest().build()
+        }
+    
+        return basketService.updateBasketItem(userId, productId, quantity, isActive)
+            ?.let { ResponseEntity.ok(it) }
             ?: ResponseEntity.notFound().build()
+    }            
 
     @PostMapping("/clear/{userId}")
     fun clearBasket(@PathVariable userId: String): ResponseEntity<Basket> =

@@ -27,12 +27,20 @@ class BasketService(private val basketRepository: BasketRepository) {
 
     fun updateBasketItem(userId: String, productId: String, quantity: Int, isActive: Boolean): Basket? {
         val basket = findBasketByUserId(userId)
-        basket?.items?.find { it.productId == productId }?.let {
-            it.quantity = quantity
-            it.isActive = isActive
+        basket?.let {
+            if (quantity < 1) {
+                it.items.removeIf { item -> item.productId == productId }
+            } else {
+                it.items.find { item -> item.productId == productId }?.let { item ->
+                    item.quantity = quantity
+                    item.isActive = isActive
+                }
+            }
+            return basketRepository.save(it)
         }
-        return basket?.let { basketRepository.save(it) }
+        return null 
     }
+    
 
     fun clearBasket(userId: String): Basket? {
         val basket = findBasketByUserId(userId)
