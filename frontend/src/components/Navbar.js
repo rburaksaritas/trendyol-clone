@@ -90,7 +90,7 @@ const Navbar = ({ isLoggedIn, cartItemCount, onLogout, updateCartItemCount }) =>
                     <i className="fas fa-heart"></i> Favorilerim
                 </Link>
                 <div className="cart-item-count">
-                    <Link to="/cart" onClick={(e) => { e.preventDefault(); navigateTo('/cart'); }}>
+                    <Link to="/basket" onClick={(e) => { e.preventDefault(); navigate('/basket'); }}>
                         <i className="fas fa-shopping-cart"></i> Sepetim
                     </Link>
                     {cartItemCount > 0 && (
