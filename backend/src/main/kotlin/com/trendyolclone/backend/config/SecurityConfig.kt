@@ -28,9 +28,12 @@ class SecurityConfig(private val customUserDetailsService: CustomUserDetailsServ
             .cors().and().csrf().disable()
             .authorizeHttpRequests { auth ->
                 auth
-                    .requestMatchers(HttpMethod.POST, "/cards/**", "/products/**").hasRole("ADMIN")
-                    .requestMatchers(HttpMethod.PUT, "/cards/**", "/products/**").hasRole("ADMIN")
-                    .requestMatchers(HttpMethod.DELETE, "/cards/**", "/products/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.POST, "/cards/**", "/products/**", "/favorites/**", "/basket/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.PUT, "/cards/**", "/products/**", "/favorites/**", "/basket/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.DELETE, "/cards/**", "/products/**", "/favorites/**", "/basket/**").hasRole("ADMIN")
+                    .requestMatchers(HttpMethod.POST, "/favorites/**", "/basket/**").hasRole("USER")
+                    .requestMatchers(HttpMethod.PUT, "/favorites/**", "/basket/**").hasRole("USER")
+                    .requestMatchers(HttpMethod.DELETE, "/favorites/**", "/basket/**").hasRole("USER")
                     .anyRequest().permitAll()
             }
             .httpBasic()
