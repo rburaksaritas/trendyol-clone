@@ -2,9 +2,9 @@
 This project is a comprehensive full-stack clone, developed to mimic the key functionalities of the Trendyol platform.
 
 ## Technology Used
-- **Backend Development**: Developed using Kotlin & Spring Boot for robust and scalable server-side operations.
-- **Database Management**: Couchbase is employed for efficient data handling and storage.
-- **Frontend Creation**: A dynamic and interactive user interface is built using Javascript & React.js.
+- **Backend**: Developed using **Kotlin** & **Spring Boot** for robust and scalable server-side operations.
+- **Database**: **Couchbase** is employed for efficient data handling and storage.
+- **Frontend**: A dynamic and interactive user interface is built using **Javascript** & **React.js**.
 
 ## Getting Started
 To get the application up and running, follow these steps:
