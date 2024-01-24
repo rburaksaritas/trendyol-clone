@@ -1,20 +1,23 @@
-# trendyol-clone
- A full-stack clone project that replicates fundamental features of Trendyol.
+# Trendyol Clone
+This project is a comprehensive full-stack clone, developed to mimic the key functionalities of the Trendyol platform.
 
-## Tech Stack
-**Backend**: Kotlin & Spring Boot 
+## Technology Used
+- **Backend Development**: Developed using Kotlin & Spring Boot for robust and scalable server-side operations.
+- **Database Management**: Couchbase is employed for efficient data handling and storage.
+- **Frontend Creation**: A dynamic and interactive user interface is built using Javascript & React.js.
 
-**Database**: Couchbase
+## Getting Started
+To get the application up and running, follow these steps:
+1. Clone the repository to your local machine.
+2. Navigate to the root directory of the project.
+3. Ensure Docker is installed on your system.
+4. Execute the following command:
 
-**Frontend**: Javascript & React.js
-
-## Quick Start
-Clone this repository, go to the root project folder and run the following command:
-```
+```bash
 docker-compose up -d --build
 ```
-Make sure to have Docker installed.
-
+This command builds and starts the services defined in the Docker configuration.
+   
 ## Features
 - **Dynamic Interface:** The frontend includes a responsive navbar and footer, adapting to user interactions.
 - **Home Page:** A variety of cards and products are displayed, offering an intuitive browsing experience.
