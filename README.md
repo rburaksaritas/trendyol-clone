@@ -15,6 +15,17 @@ docker-compose up -d --build
 ```
 Make sure to have Docker installed.
 
+## Features
+- **Dynamic Interface:** The frontend includes a responsive navbar and footer, adapting to user interactions.
+- **Home Page:** A variety of cards and products are displayed, offering an intuitive browsing experience.
+- **Featured Banner Cards:** Highlighted offers and promotions are presented through visually appealing banner cards.
+- **Search Functionality:** Efficient searching capabilities to locate products quickly.
+- **Product Catalog:** Over 1600 products, fetched from the Trendyol API, are available for viewing.
+- **User Authentication:** Secure processes for user login and registration, enhanced by Spring Security.
+- **User Profiles:** Features for personal details, favorites, and basket are included.
+- **Basket and Favorites Functionality:** Products can be easily placed in favorites and basket sections.
+- **Local Storage Integration:** Favorites and basket items for non-logged-in users persist through local storage utilization.
+
 ## Screenshots
 <img width="1440" alt="Screenshot 2024-01-12 at 15 44 52" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/0e85b2b9-0114-4264-8af9-a6ab54a371e7">
 <img width="1440" alt="Screenshot 2024-01-12 at 15 45 21" src="https://github.com/rburaksaritas/trendyol-clone/assets/86561984/48120f06-0431-4f0e-b991-a312f6cf94c4">
