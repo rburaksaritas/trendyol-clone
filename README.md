@@ -23,7 +23,7 @@ This command builds and starts the services defined in the Docker configuration.
 - **Home Page:** A variety of cards and products are displayed, offering an intuitive browsing experience.
 - **Featured Banner Cards:** Highlighted offers and promotions are presented through visually appealing banner cards.
 - **Search Functionality:** Efficient searching capabilities to locate products quickly.
-- **Product Catalog:** Over 1600 products, fetched from the Trendyol API, are available for viewing.
+- **Product Catalog:** Over 1600 products, fetched from the Trendyol API, are available for viewing, adding to favorites and/or basket.
 - **User Authentication:** Secure processes for user login and registration, enhanced by Spring Security.
 - **User Profiles:** Features for personal details, favorites, and basket are included.
 - **Basket and Favorites Functionality:** Products can be easily placed in favorites and basket sections.
